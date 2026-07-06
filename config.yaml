@@ -1,0 +1,168 @@
+# ==========================================
+# お得情報収集ボット 設定ファイル
+# ==========================================
+
+# --- フィルタ条件(ここを調整して感度を変える) ---
+filter:
+  min_discount_percent: 20      # この割引率(%)未満は無視する
+  min_discount_yen: 3000        # 割引率が閾値未満でも、絶対額がこれ以上なら拾う(円)
+  max_news_age_days: 7          # ニュース監視(news_watch)で、これより古い記事は無視する(日数)
+  # ノイズとして弾きたいキーワード(タイトルに含まれていたら除外)
+  exclude_keywords:
+    - "ポイント1倍"
+    - "送料無料のみ"
+  # 「激アツ」判定を強めるキーワード(含まれていたら閾値を少し下げて拾いやすくする)
+  boost_keywords:
+    - "ゲリラ"
+    - "決算セール"
+    - "タイムセール"
+    - "還元"
+    - "PayPay"
+    - "無印良品週間"
+
+# --- 監視対象サイト ---
+# category は表示・フィルタ用の分類。好きな名前を付けて増やしてOK
+sources:
+  # ===== 家電・通販(価格.com経由で値下がりを直接検知) =====
+  - name: "価格.com 大幅値下がりランキング(ノートPC)"
+    type: "kakaku_pricedown"
+    url: "https://kakaku.com/pc/note-pc/ranking_0020/pricedown/limit=20/"
+    category: "家電・通販"
+
+  - name: "価格.com 大幅値下がりランキング(テレビ)"
+    type: "kakaku_pricedown"
+    url: "https://kakaku.com/kaden/lcd-tv/ranking_2041/pricedown/limit=20/"
+    category: "家電・通販"
+
+  # 追加したいジャンルがあれば同じ形式で足していく
+  # - name: "価格.com 大幅値下がりランキング(掃除機)"
+  #   type: "kakaku_pricedown"
+  #   url: "https://kakaku.com/kaden/vacuum-cleaner/ranking_2130/pricedown/limit=20/"
+  #   category: "家電・通販"
+
+  # ===== 家電量販店 各社(公式ページ直接スクレイピング。要セレクタ調整) =====
+  - name: "ビックカメラ セール情報ページ"
+    type: "generic_html"
+    url: "https://www.biccamera.com/bc/c/campaign/"
+    category: "家電・通販"
+    selectors:                      # ← 実際のHTML構造に合わせて要調整
+      item: "li.campaign-item"
+      title: ".campaign-title"
+      link: "a"
+
+  - name: "ヨドバシ.com 新着・お知らせRSS"
+    type: "rss_watch"
+    url: "https://www.yodobashi.com/ec/rss/"
+    category: "家電・通販"
+    # 公式RSSだが新着情報全般が流れてくるため、タイトルに"○%OFF"等の
+    # 数字が入っているものだけがフィルタを通過する(数字がないものは自然に弾かれる)
+
+  - name: "ヤマダ電機 セール ニュース監視"
+    type: "news_watch"
+    query: "ヤマダ電機 セール OR ヤマダウェブコム クーポン"
+    category: "家電・通販"
+
+  - name: "ノジマ セール ニュース監視"
+    type: "news_watch"
+    query: "ノジマ セール OR ノジマオンライン 割引"
+    category: "家電・通販"
+
+  # ===== 生活雑貨・家具 =====
+  - name: "ニトリ セール ニュース監視"
+    type: "news_watch"
+    query: "ニトリ セール OR ニトリ 感謝祭"
+    category: "生活雑貨・家具"
+
+  - name: "無印良品週間 ニュース監視"
+    type: "news_watch"
+    query: "無印良品週間 開催"
+    category: "生活雑貨・家具"
+
+  # ===== セール速報(大型ECセールの「開催決定」ニュースを監視) =====
+  - name: "ゾゾ祭り ニュース監視"
+    type: "news_watch"
+    query: "ZOZO祭り OR ZOZOFES 開催"
+    category: "セール速報"
+
+  - name: "楽天スーパーSALE ニュース監視"
+    type: "news_watch"
+    query: "楽天スーパーSALE 開催"
+    category: "セール速報"
+
+  - name: "Amazon プライムセール ニュース監視"
+    type: "news_watch"
+    query: "Amazon プライムデー OR Amazonタイムセール祭り"
+    category: "セール速報"
+
+  - name: "Qoo10メガ割 ニュース監視"
+    type: "news_watch"
+    query: "Qoo10 メガ割 開催"
+    category: "セール速報"
+
+  # ===== ポイント還元(価格は下がってないがポイント還元でお得なキャンペーン) =====
+  - name: "PayPay キャンペーン一覧"
+    type: "point_campaign"
+    url: "https://paypay.ne.jp/event/"
+    pattern: "point_back"
+    min_percent: 10
+    category: "ポイント還元"
+
+  - name: "Impress Watch お得なセール情報まとめ"
+    type: "point_campaign"
+    url: "https://www.watch.impress.co.jp/otoku-sale/"
+    pattern: "discount"
+    min_percent: 20
+    category: "家電・通販"
+
+  # 楽天やYahoo!ショッピングのポイントアップキャンペーンページも同じ形式で追加できる
+  # - name: "楽天 ポイントアップキャンペーン"
+  #   type: "point_campaign"
+  #   url: "https://event.rakuten.co.jp/point/"
+  #   pattern: "point_back"
+  #   min_percent: 10
+  #   category: "ポイント還元"
+
+  # ===== 旅行(航空券・ホテル・ツアーのセール) =====
+  - name: "ANA/JAL セール ニュース監視"
+    type: "news_watch"
+    query: "ANA SUPER VALUE OR JALタイムセール OR ANA JAL セール"
+    category: "旅行"
+
+  - name: "LCCセール ニュース監視"
+    type: "news_watch"
+    query: "Peach OR ジェットスター OR スプリングジャパン セール 航空券"
+    category: "旅行"
+
+  - name: "楽天トラベル/じゃらん セール ニュース監視"
+    type: "news_watch"
+    query: "楽天トラベル セール OR じゃらん クーポン 大幅割引"
+    category: "旅行"
+
+  # ===== イベント・レジャー(割引デー・入場料キャンペーンなど) =====
+  - name: "テーマパーク割引 ニュース監視"
+    type: "news_watch"
+    query: "ディズニー OR USJ OR テーマパーク 割引キャンペーン"
+    category: "イベント・レジャー"
+
+  - name: "映画・美術館割引デー ニュース監視"
+    type: "news_watch"
+    query: "映画の日 OR 美術館 割引デー OR 水族館 割引キャンペーン"
+    category: "イベント・レジャー"
+
+# --- ピンポイント商品ウォッチリスト(「ひつじのいらない枕」対策) ---
+watchlist:
+  - name: "ひつじのいらない枕"
+    url: "https://kakaku.com/item/XXXXXXXXXX/"  # ← 実際の型番ページURLに置き換える
+    target_price: 8000
+    category: "家電・通販"
+
+# --- 通知設定 ---
+notify:
+  discord:
+    enabled: true
+    webhook_url_env: "DISCORD_WEBHOOK_URL"
+  line:
+    enabled: false
+    # LINE Notifyは2025年3月末で終了済み。使う場合はLINE Messaging APIのpush APIを利用する
+    channel_access_token_env: "LINE_CHANNEL_ACCESS_TOKEN"
+    user_id_env: "LINE_USER_ID"
