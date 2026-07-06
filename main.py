@@ -216,6 +216,8 @@ def append_to_feed(deals: list, max_keep: int = 100) -> None:
         for d in deals
     ]
     combined = (new_entries + existing)[:max_keep]
+    # 検知日時(detected_at)が新しい順に並べ替える(サイトの巡回順ではなく日付順にするため)
+    combined.sort(key=lambda x: x.get("detected_at", ""), reverse=True)
     with open(FEED_PATH, "w", encoding="utf-8") as f:
         json.dump({"updated_at": now, "deals": combined}, f, ensure_ascii=False, indent=2)
 
@@ -349,6 +351,19 @@ def scrape_generic_html(url: str, source_name: str, selectors: dict, category: s
 # ============================================================
 # ===== スクレイパー: Googleニュース見出し監視 =====
 # ============================================================
+# タイトルにこれらの単語が1つも含まれない記事は、検索キーワードにはヒットしたものの
+# セール・お得情報とは無関係な記事(音楽フェスの話題など)である可能性が高いため除外する
+NEWS_RELEVANCE_KEYWORDS = [
+    "セール", "割引", "off", "%", "還元", "開催決定", "クーポン", "特価",
+    "タイムセール", "バーゲン", "値下げ", "円引き", "無料", "お得",
+]
+
+
+def is_relevant_news(title: str) -> bool:
+    title_lower = title.lower()
+    return any(kw.lower() in title_lower for kw in NEWS_RELEVANCE_KEYWORDS)
+
+
 def scrape_news_watch(
     query: str, source_name: str, category: str = "セール速報",
     max_items: int = 10, max_age_days: int = 7,
@@ -367,6 +382,10 @@ def scrape_news_watch(
         if title_el is None or link_el is None:
             continue
         title, link = title_el.text or "", link_el.text or ""
+
+        # セール・お得情報と無関係そうな記事は除外する
+        if not is_relevant_news(title):
+            continue
 
         # 公開日が古い記事(去年の同じセールの記事など)は除外する
         pub_date_el = item.find("pubDate")
