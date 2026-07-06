@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-07-06T15:52:54.989001+09:00",
+  "updated_at": "2026-07-06T15:54:09.725929+09:00",
   "deals": [
+    {
+      "title": "PRESS | CLASSY.[クラッシィ] - CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWS1BuMTk4OEVLOG5kTjM2dmZSRnUwTHlSX1FWcm9oRnRHVnJTZWJjWF9GY3NYQ3pLQ0V4V0wzTnFmVVIxYzJ6WU9memdKMEF0bTVVZkw5SQ?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-06T15:54:09.725929+09:00"
+    },
     {
       "title": "au PAY マーケット「ポイント超超祭」にてヤマダデンキ大決算セール開催！ - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04eFo0RmRPRlhxSEk4MThJdHIxY0ljdkI3QkU4Z1RTV19tQ0xBeUFJRmRGVThkU0RsNzlNM1p6LVhpaXFON3hwMGNVcW0wSkpwM3lCaWZCTlJ1dHd4ZUJZenNWcnFZLW5lbnc?oc=5",
@@ -886,15 +895,6 @@
     {
       "title": "ANA国内線5,000円台～ タイムセール2/8まで実施中！ANAプレミアムクラスも”2日間限定”で対象に、GW前後や春休みの最安値をチェック - 旅とおでかけ 鉄道チャンネル",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wbTJuT3dmWlhfcjk2TWtXU0lVdkJrVDNhYnY5TGJqUHBRSkU4VjVrTGNmWlZhekxhSUFZQTVscXNmOE4xV0w2LVJwNVI?oc=5",
-      "source": "ANA/JAL セール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-06T15:52:54.989001+09:00"
-    },
-    {
-      "title": "ANA、このあと0時から「ブラックフライデー」航空券セール。国内線プレミアムクラスがお得に 11月の「ANAにキュン！」 - トラベル Watch",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wVURibUNyTzRieEhtSWplbDBrMjdDZ2FIMzc5eWprOUQ0MkhhTmNYemlHMGk1SW45LUo1WEk4bGlDaWlKcmFrRFlvNXVxVTJtd1dFdGJqOXFzV2hjckNnRU5xREpyV1Nh?oc=5",
       "source": "ANA/JAL セール ニュース監視",
       "category": "旅行",
       "discount_percent": null,
