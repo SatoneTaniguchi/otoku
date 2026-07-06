@@ -74,6 +74,22 @@
     color: var(--ink-soft);
   }
 
+  /* ===== バージョン表示(HTMLが更新されているか確認用) ===== */
+  .version-badge {
+    position: absolute;
+    top: 10px;
+    left: 12px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-soft);
+    background: var(--paper);
+    border: 1px solid var(--paper-line);
+    border-radius: 3px;
+    padding: 2px 6px;
+    letter-spacing: 0.04em;
+  }
+
   /* ===== カテゴリフィルタのチップ(タグボタン) ===== */
   .filters {
     display: flex;
@@ -251,6 +267,7 @@
 <body>
 
 <header>
+  <span class="version-badge">v1.3</span>
   <span class="eyebrow">DAILY BOARD</span>
   <h1>お得情報掲示板</h1>
   <div class="updated" id="updated">読み込み中…</div>
@@ -318,9 +335,12 @@ function renderFilters() {
 // ===== 一覧の描画(選択中カテゴリで絞り込み) =====
 function renderList() {
   const listEl = document.getElementById('list');
-  const deals = activeCategory === "すべて"
+  let deals = activeCategory === "すべて"
     ? allDeals
     : allDeals.filter(d => (d.category || "その他") === activeCategory);
+
+  // 検知日時の新しい順に並び替える(データ側で既に並んでいても、念のためここでも保証する)
+  deals = [...deals].sort((a, b) => new Date(b.detected_at || 0) - new Date(a.detected_at || 0));
 
   if (deals.length === 0) {
     listEl.innerHTML = `
