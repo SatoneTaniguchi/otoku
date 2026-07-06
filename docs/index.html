@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>お得情報掲示板</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Noto+Sans+JP:wght@400;500;700&family=Oswald:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  /* ===== 色・フォントの設定(ここを変えれば全体の色味が変わる) ===== */
+  :root {
+    --paper: #F7F1E4;       /* 背景の紙色 */
+    --paper-line: #DED0AE;  /* カードの枠線色 */
+    --ink: #241F18;         /* 文字のメイン色 */
+    --ink-soft: #6B6153;    /* 文字のサブ色(日時など) */
+    --pop-red: #C93A2E;     /* 割引タグの色 */
+    --pop-red-dark: #9E2B21;
+    --tag-gold: #E3A038;    /* イベント速報タグの色 */
+    --sub-teal: #2C5A5C;    /* ポイント還元タグ・情報源名の色 */
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(36,31,24,0.05) 1px, transparent 0);
+    background-size: 18px 18px;
+    color: var(--ink);
+    font-family: 'Noto Sans JP', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    padding-bottom: 48px;
+  }
+
+  /* ===== ヘッダー(タイトル部分) ===== */
+  header {
+    padding: 28px 20px 20px;
+    border-bottom: 3px solid var(--ink);
+    position: relative;
+  }
+
+  header::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0; bottom: -7px;
+    height: 3px;
+    background: repeating-linear-gradient(
+      90deg, var(--ink) 0 10px, transparent 10px 18px
+    );
+  }
+
+  .eyebrow {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    color: var(--pop-red);
+    display: inline-block;
+    margin-bottom: 6px;
+  }
+
+  h1 {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 1.25;
+    margin: 0 0 8px;
+  }
+
+  .updated {
+    font-size: 12px;
+    color: var(--ink-soft);
+  }
+
+  /* ===== カテゴリフィルタのチップ(タグボタン) ===== */
+  .filters {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 14px 16px 4px;
+    max-width: 560px;
+    margin: 0 auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .filters::-webkit-scrollbar { display: none; }
+
+  .chip {
+    flex: 0 0 auto;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 7px 14px;
+    border-radius: 999px;
+    border: 1.5px solid var(--ink);
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .chip.active {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  .cat-pill {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 999px;
+    background: var(--paper);
+    border: 1px solid var(--paper-line);
+    color: var(--ink-soft);
+    margin-left: 6px;
+  }
+
+  /* ===== 一覧カード本体 ===== */
+  main {
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 20px 16px 0;
+  }
+
+  .card {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    background: #FFFDF8;
+    border: 1.5px solid var(--paper-line);
+    border-radius: 4px;
+    padding: 16px 16px 16px 14px;
+    margin-bottom: 14px;
+    box-shadow: 2px 3px 0 rgba(36,31,24,0.06);
+    position: relative;
+  }
+
+  /* ===== 左側の値札風タグ(割引率・還元率の表示) ===== */
+  .tag {
+    flex: 0 0 auto;
+    width: 64px;
+    height: 64px;
+    background: var(--pop-red);
+    color: #FFF8EC;
+    clip-path: polygon(18% 0%, 100% 0%, 100% 100%, 18% 100%, 0% 50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(-3deg);
+    position: relative;
+  }
+
+  .tag::before {
+    content: "";
+    position: absolute;
+    left: 22px;
+    top: 50%;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--paper);
+    transform: translateY(-50%);
+  }
+
+  .tag.point { background: var(--sub-teal); }  /* ポイント還元系のタグ色 */
+  .tag.event { background: var(--tag-gold); color: var(--ink); }  /* イベント速報のタグ色 */
+
+  .tag .num {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1;
+    margin-left: 6px;
+  }
+
+  .tag .unit {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 700;
+    font-size: 9px;
+    margin-left: 6px;
+    letter-spacing: 0.03em;
+  }
+
+  /* ===== カード内のテキスト部分(情報源名・タイトル・日時) ===== */
+  .body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .source {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    color: var(--sub-teal);
+    letter-spacing: 0.02em;
+  }
+
+  .title {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 4px 0 8px;
+    word-break: break-word;
+  }
+
+  .title a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1.5px solid var(--tag-gold);
+  }
+
+  .title a:focus-visible {
+    outline: 2px solid var(--pop-red);
+    outline-offset: 2px;
+  }
+
+  .meta {
+    font-size: 11px;
+    color: var(--ink-soft);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  /* ===== 空の状態(まだ情報がない時の表示) ===== */
+  .empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--ink-soft);
+  }
+
+  .empty .big {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .card { animation: rise 0.35s ease both; }
+  }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <span class="eyebrow">DAILY BOARD</span>
+  <h1>お得情報掲示板</h1>
+  <div class="updated" id="updated">読み込み中…</div>
+</header>
+
+<div class="filters" id="filters"></div>
+
+<main id="list">
+</main>
+
+<script>
+// ===== データ読み込み(docs/deals.jsonを取得して表示) =====
+let allDeals = [];
+let activeCategory = "すべて";
+
+async function loadDeals() {
+  const listEl = document.getElementById('list');
+  const updatedEl = document.getElementById('updated');
+
+  try {
+    const res = await fetch('deals.json', { cache: 'no-store' });
+    const data = await res.json();
+    allDeals = data.deals || [];
+
+    if (data.updated_at) {
+      const d = new Date(data.updated_at);
+      updatedEl.textContent = '最終更新: ' + d.toLocaleString('ja-JP', {
+        month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
+      });
+    } else {
+      updatedEl.textContent = '';
+    }
+
+    renderFilters();
+    renderList();
+  } catch (e) {
+    updatedEl.textContent = '';
+    listEl.innerHTML = `
+      <div class="empty">
+        <div class="big">読み込みに失敗しました</div>
+        <div>時間をおいて再読み込みしてください。</div>
+      </div>`;
+    console.error(e);
+  }
+}
+
+// ===== カテゴリフィルタのチップ描画・切り替え =====
+function renderFilters() {
+  const filtersEl = document.getElementById('filters');
+  const categories = ["すべて", ...new Set(allDeals.map(d => d.category || "その他"))];
+
+  filtersEl.innerHTML = categories.map(cat => `
+    <button class="chip ${cat === activeCategory ? 'active' : ''}" data-cat="${escapeAttr(cat)}">${escapeHtml(cat)}</button>
+  `).join('');
+
+  filtersEl.querySelectorAll('.chip').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeCategory = btn.dataset.cat;
+      renderFilters();
+      renderList();
+    });
+  });
+}
+
+// ===== 一覧の描画(選択中カテゴリで絞り込み) =====
+function renderList() {
+  const listEl = document.getElementById('list');
+  const deals = activeCategory === "すべて"
+    ? allDeals
+    : allDeals.filter(d => (d.category || "その他") === activeCategory);
+
+  if (deals.length === 0) {
+    listEl.innerHTML = `
+      <div class="empty">
+        <div class="big">まだ掲示情報がありません</div>
+        <div>次回の巡回で条件に合うお得情報が見つかり次第、ここに並びます。</div>
+      </div>`;
+    return;
+  }
+
+  listEl.innerHTML = deals.map(renderCard).join('');
+}
+
+// ===== カード1件分のHTML組み立て(見た目を変えたい時はここ) =====
+function renderCard(deal) {
+  const percent = deal.discount_percent;
+  const isPoint = (deal.source || '').includes('PayPay') || (deal.source || '').includes('ポイント');
+  const isEvent = (deal.source || '').includes('ニュース監視');
+
+  let tagClass = '';
+  let tagInner = '<span class="num">!</span>';
+
+  if (typeof percent === 'number') {
+    tagClass = isPoint ? 'point' : '';
+    tagInner = `<span class="num">${Math.round(percent)}</span><span class="unit">%${isPoint ? '還元' : 'OFF'}</span>`;
+  } else if (isEvent) {
+    tagClass = 'event';
+    tagInner = `<span class="unit">開催<br>速報</span>`;
+  }
+
+  const price = deal.price ? `${deal.price.toLocaleString('ja-JP')}円` : null;
+  const detected = deal.detected_at ? new Date(deal.detected_at).toLocaleString('ja-JP', {
+    month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
+  }) : '';
+
+  return `
+    <div class="card">
+      <div class="tag ${tagClass}">${tagInner}</div>
+      <div class="body">
+        <div class="source">${escapeHtml(deal.source || '')}<span class="cat-pill">${escapeHtml(deal.category || 'その他')}</span></div>
+        <div class="title"><a href="${escapeAttr(deal.url)}" target="_blank" rel="noopener">${escapeHtml(deal.title)}</a></div>
+        <div class="meta">
+          ${price ? `<span>${price}</span>` : ''}
+          <span>${detected}</span>
+        </div>
+      </div>
+    </div>`;
+}
+
+// ===== 汎用ユーティリティ(HTMLエスケープ) =====
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, s => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[s]));
+}
+function escapeAttr(str) { return escapeHtml(str); }
+
+loadDeals();
+</script>
+
+</body>
+</html>
