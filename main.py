@@ -196,7 +196,14 @@ def save_seen(seen_ids: set, seen_titles: list, max_keep: int = 2000, max_keep_t
 
 
 def append_to_feed(deals: list, max_keep: int = 100) -> None:
-    """GitHub Pagesで表示する一覧(docs/deals.json)に新着を追記する"""
+    """
+    GitHub Pagesで表示する一覧(docs/deals.json)に新着を追記する。
+
+    既存データも毎回「今のフィルタ・関連性判定」で再チェックし、古いロジックの
+    時代に紛れ込んだ無関係な記事(音楽フェスの話題など)を自動的に取り除く。
+    これにより、判定ロジックを直した後に手動でdeals.jsonをリセットしなくても
+    次回の自動実行で自然に綺麗になる。
+    """
     FEED_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     existing = []
@@ -206,6 +213,9 @@ def append_to_feed(deals: list, max_keep: int = 100) -> None:
                 existing = json.load(f).get("deals", [])
             except json.JSONDecodeError:
                 existing = []
+
+    # 既存データを今の関連性キーワード判定で再チェック(古い基準の残骸を除去)
+    existing = [e for e in existing if is_relevant_news(e.get("title", "")) or e.get("category") != "セール速報"]
 
     now = datetime.now(JST).isoformat()
     new_entries = [
@@ -366,7 +376,7 @@ def is_relevant_news(title: str) -> bool:
 
 def scrape_news_watch(
     query: str, source_name: str, category: str = "セール速報",
-    max_items: int = 10, max_age_days: int = 7,
+    max_items: int = 3, max_age_days: int = 7,
 ) -> list[Deal]:
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(query)}&hl=ja&gl=JP&ceid=JP:ja"
     resp = requests.get(url, headers=HEADERS, timeout=20)
@@ -562,6 +572,7 @@ def collect_deals(config: dict) -> list:
             elif t == "news_watch":
                 deals = scrape_news_watch(
                     source["query"], source["name"], source.get("category", "セール速報"),
+                    max_items=source.get("max_items", 3),
                     max_age_days=source.get("max_age_days", config.get("filter", {}).get("max_news_age_days", 7)),
                 )
             elif t == "point_campaign":
@@ -581,6 +592,76 @@ def collect_deals(config: dict) -> list:
             print(f"[エラー] {source['name']} の取得に失敗: {e}")
 
     return all_deals
+
+
+# ============================================================
+# ===== AI精査(Gemini API・任意) =====
+# ============================================================
+# 環境変数 GEMINI_API_KEY が設定されている場合のみ動作する。
+# 未設定なら、この処理はまるごとスキップされ、従来のルールベースだけで動く。
+#
+# 1回のAPI呼び出しで「無関係な情報の除外」「同じ話題のまとめ」「一行要約」を
+# まとめて行う。無料枠(Gemini Flash: 1日1500リクエスト)に収めるため、
+# ルールベースで絞り込んだ後の候補だけをまとめて渡す。
+GEMINI_MODEL = "gemini-2.5-flash"
+
+
+def refine_with_ai(deals: list) -> list:
+    import os
+    api_key = os.environ.get("GEMINI_API_KEY", "")
+    if not api_key or not deals:
+        return deals  # キー未設定なら何もしない(従来通り)
+
+    # AIに渡す候補一覧を作る(番号付き)
+    items_text = "\n".join(
+        f"{i}. [{d.category}] {d.title}" for i, d in enumerate(deals)
+    )
+
+    prompt = (
+        "あなたは日本のお得情報・セール情報をまとめるキュレーターです。"
+        "以下は自動収集したセール情報の候補リストです。次の3つを行ってください。\n"
+        "1. セール・値下げ・還元と無関係な記事(音楽フェス、解説記事、"
+        "「いつ安くなる?」等の攻略記事、単なる予想記事)を除外する。\n"
+        "2. 同じセール・キャンペーンを指す複数の記事は、最も情報量の多い1件だけ残す。\n"
+        "3. 残した各項目に、20文字以内の分かりやすい一行要約をつける。\n\n"
+        "必ず以下のJSON形式のみで出力してください(前後に説明文やマークダウンは不要):\n"
+        '{"keep": [{"index": 元の番号, "summary": "一行要約"}, ...]}\n\n'
+        f"候補リスト:\n{items_text}"
+    )
+
+    url = (
+        f"https://generativelanguage.googleapis.com/v1beta/models/"
+        f"{GEMINI_MODEL}:generateContent?key={api_key}"
+    )
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"},
+    }
+
+    try:
+        resp = requests.post(url, json=payload, timeout=60)
+        resp.raise_for_status()
+        data = resp.json()
+        text = data["candidates"][0]["content"]["parts"][0]["text"]
+        result = json.loads(text)
+    except Exception as e:  # noqa: BLE001
+        print(f"[AI精査エラー] スキップして従来処理を続行: {e}")
+        return deals
+
+    kept = []
+    for entry in result.get("keep", []):
+        idx = entry.get("index")
+        if idx is None or not (0 <= idx < len(deals)):
+            continue
+        deal = deals[idx]
+        summary = entry.get("summary", "").strip()
+        if summary:
+            # 要約をタイトルの先頭に付与(元タイトルも残す)
+            deal.title = f"{summary} ｜ {deal.title}"
+        kept.append(deal)
+
+    print(f"[AI精査] {len(deals)}件 → {len(kept)}件に整理")
+    return kept
 
 
 def main():
@@ -607,6 +688,9 @@ def main():
 
     deduped_deals, newly_seen_titles = dedupe_by_title(new_deals, seen_titles)
     print(f"名寄せ後の新着件数: {len(deduped_deals)}")
+
+    # AI精査(GEMINI_API_KEYがある時だけ動く。無ければそのまま素通り)
+    deduped_deals = refine_with_ai(deduped_deals)
 
     if deduped_deals:
         send_notifications(deduped_deals, config)
