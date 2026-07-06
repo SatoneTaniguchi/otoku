@@ -22,8 +22,9 @@ import json
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date
 from difflib import SequenceMatcher
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
@@ -80,6 +81,56 @@ def is_noteworthy(deal: Deal, config: dict) -> bool:
     percent_ok = deal.discount_percent is not None and deal.discount_percent >= percent_threshold
     yen_ok = deal.discount_yen is not None and deal.discount_yen >= yen_threshold
     return percent_ok or yen_ok
+
+
+# ============================================================
+# ===== 終了済みキャンペーンの検知(タイトルの「○月○日まで」等から判定) =====
+# ============================================================
+# 年まで書かれているケース(例: 「2026年7月10日まで」)
+END_DATE_RE_WITH_YEAR = re.compile(r"(\d{4})年(\d{1,2})月(\d{1,2})日\s*(?:\([^)]*\))?\s*(?:まで|迄)")
+# 年なし・月日のみ(例: 「7月10日まで」)
+END_DATE_RE_MD = re.compile(r"(\d{1,2})月(\d{1,2})日\s*(?:\([^)]*\))?\s*(?:まで|迄)")
+# スラッシュ表記(例: 「7/10まで」)
+END_DATE_RE_SLASH = re.compile(r"(\d{1,2})/(\d{1,2})\s*(?:まで|迄)")
+
+
+def extract_end_date(title: str, reference_date: date) -> date | None:
+    """タイトル文字列から終了日を推測する(見つからなければNone)"""
+    m = END_DATE_RE_WITH_YEAR.search(title)
+    if m:
+        y, mo, d = map(int, m.groups())
+        try:
+            return date(y, mo, d)
+        except ValueError:
+            return None
+
+    for pattern in (END_DATE_RE_MD, END_DATE_RE_SLASH):
+        m = pattern.search(title)
+        if not m:
+            continue
+        mo, d = map(int, m.groups())
+        try:
+            candidate = date(reference_date.year, mo, d)
+        except ValueError:
+            continue
+        # 年をまたぐケースの対策: 明らかに大きく過去にずれる場合は来年の日付とみなす
+        # (例: 12月に「1月10日まで」という記事が出た場合)
+        if (reference_date - candidate).days > 200:
+            try:
+                candidate = date(reference_date.year + 1, mo, d)
+            except ValueError:
+                pass
+        return candidate
+
+    return None
+
+
+def is_expired(title: str, reference_date: date) -> bool:
+    """タイトルに書かれた終了日が今日より前なら「終了済み」とみなす"""
+    end_date = extract_end_date(title, reference_date)
+    if end_date is None:
+        return False  # 終了日が読み取れない場合は除外しない(誤除外を避ける)
+    return end_date < reference_date
 
 
 # ============================================================
@@ -298,22 +349,43 @@ def scrape_generic_html(url: str, source_name: str, selectors: dict, category: s
 # ============================================================
 # ===== スクレイパー: Googleニュース見出し監視 =====
 # ============================================================
-def scrape_news_watch(query: str, source_name: str, category: str = "セール速報", max_items: int = 10) -> list[Deal]:
+def scrape_news_watch(
+    query: str, source_name: str, category: str = "セール速報",
+    max_items: int = 10, max_age_days: int = 7,
+) -> list[Deal]:
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(query)}&hl=ja&gl=JP&ceid=JP:ja"
     resp = requests.get(url, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     root = ET.fromstring(resp.content)
 
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=max_age_days)
+
     deals = []
-    for item in root.findall(".//item")[:max_items]:
+    for item in root.findall(".//item"):
         title_el, link_el = item.find("title"), item.find("link")
         if title_el is None or link_el is None:
             continue
         title, link = title_el.text or "", link_el.text or ""
+
+        # 公開日が古い記事(去年の同じセールの記事など)は除外する
+        pub_date_el = item.find("pubDate")
+        if pub_date_el is not None and pub_date_el.text:
+            try:
+                pub_date = parsedate_to_datetime(pub_date_el.text)
+                if pub_date.tzinfo is None:
+                    pub_date = pub_date.replace(tzinfo=timezone.utc)
+                if pub_date < cutoff:
+                    continue
+            except (TypeError, ValueError):
+                pass  # 日付が読めない場合は念のため除外せず通す
+
         deals.append(Deal(
             id=link, title=title, url=link,
             source=source_name, category=category, bypass_filter=True,
         ))
+        if len(deals) >= max_items:
+            break
     return deals
 
 
@@ -469,7 +541,10 @@ def collect_deals(config: dict) -> list:
                     source["url"], source["name"], source.get("selectors", {}), source.get("category", "家電・通販")
                 )
             elif t == "news_watch":
-                deals = scrape_news_watch(source["query"], source["name"], source.get("category", "セール速報"))
+                deals = scrape_news_watch(
+                    source["query"], source["name"], source.get("category", "セール速報"),
+                    max_age_days=source.get("max_age_days", config.get("filter", {}).get("max_news_age_days", 7)),
+                )
             elif t == "point_campaign":
                 deals = scrape_point_campaign(
                     source["url"], source["name"], source.get("min_percent", 10),
@@ -504,7 +579,11 @@ def main():
     noteworthy = [d for d in all_deals if is_noteworthy(d, config)]
     print(f"フィルタ後の該当件数: {len(noteworthy)}")
 
-    new_deals = [d for d in noteworthy if d.id not in seen_ids]
+    today = datetime.now(JST).date()
+    active = [d for d in noteworthy if not is_expired(d.title, today)]
+    print(f"終了済み除外後の件数: {len(active)}")
+
+    new_deals = [d for d in active if d.id not in seen_ids]
     print(f"未通知の新着件数(ID基準): {len(new_deals)}")
 
     deduped_deals, newly_seen_titles = dedupe_by_title(new_deals, seen_titles)

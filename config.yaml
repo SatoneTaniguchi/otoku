@@ -6,6 +6,7 @@
 filter:
   min_discount_percent: 20      # この割引率(%)未満は無視する
   min_discount_yen: 3000        # 割引率が閾値未満でも、絶対額がこれ以上なら拾う(円)
+  max_news_age_days: 7          # ニュース監視(news_watch)で、これより古い記事は無視する(日数)
   # ノイズとして弾きたいキーワード(タイトルに含まれていたら除外)
   exclude_keywords:
     - "ポイント1倍"
