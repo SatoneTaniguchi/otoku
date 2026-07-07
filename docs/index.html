@@ -132,6 +132,37 @@
     margin-left: 6px;
   }
 
+  /* ===== 検索ボックス ===== */
+  .search-wrap {
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 6px 16px 0;
+  }
+  .search-box {
+    width: 100%;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 15px;
+    padding: 10px 14px;
+    border: 1.5px solid var(--ink);
+    border-radius: 8px;
+    background: #FFFDF8;
+    color: var(--ink);
+  }
+  .search-box:focus {
+    outline: 2px solid var(--tag-gold);
+    outline-offset: 1px;
+  }
+
+  /* ===== 件数表示 ===== */
+  .count-line {
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 10px 16px 0;
+    font-size: 12px;
+    color: var(--ink-soft);
+    font-weight: 700;
+  }
+
   /* ===== 一覧カード本体 ===== */
   main {
     max-width: 560px;
@@ -267,13 +298,19 @@
 <body>
 
 <header>
-  <span class="version-badge">v1.3</span>
+  <span class="version-badge">v1.4</span>
   <span class="eyebrow">DAILY BOARD</span>
   <h1>お得情報掲示板</h1>
   <div class="updated" id="updated">読み込み中…</div>
 </header>
 
 <div class="filters" id="filters"></div>
+
+<div class="search-wrap">
+  <input type="text" id="search" class="search-box" placeholder="キーワードで絞り込む(例: 枕、PayPay、旅行)">
+</div>
+
+<div class="count-line" id="count"></div>
 
 <main id="list">
 </main>
@@ -282,6 +319,7 @@
 // ===== データ読み込み(docs/deals.jsonを取得して表示) =====
 let allDeals = [];
 let activeCategory = "すべて";
+let searchKeyword = "";
 
 async function loadDeals() {
   const listEl = document.getElementById('list');
@@ -299,6 +337,15 @@ async function loadDeals() {
       });
     } else {
       updatedEl.textContent = '';
+    }
+
+    // 検索ボックスの入力を監視
+    const searchEl = document.getElementById('search');
+    if (searchEl) {
+      searchEl.addEventListener('input', () => {
+        searchKeyword = searchEl.value.trim().toLowerCase();
+        renderList();
+      });
     }
 
     renderFilters();
@@ -332,21 +379,37 @@ function renderFilters() {
   });
 }
 
-// ===== 一覧の描画(選択中カテゴリで絞り込み) =====
+// ===== 一覧の描画(カテゴリ＋キーワードで絞り込み) =====
 function renderList() {
   const listEl = document.getElementById('list');
+  const countEl = document.getElementById('count');
+
   let deals = activeCategory === "すべて"
     ? allDeals
     : allDeals.filter(d => (d.category || "その他") === activeCategory);
 
+  // キーワード検索(タイトル・情報源名・カテゴリのいずれかに含まれれば表示)
+  if (searchKeyword) {
+    deals = deals.filter(d => {
+      const haystack = `${d.title || ''} ${d.source || ''} ${d.category || ''}`.toLowerCase();
+      return haystack.includes(searchKeyword);
+    });
+  }
+
   // 検知日時の新しい順に並び替える(データ側で既に並んでいても、念のためここでも保証する)
   deals = [...deals].sort((a, b) => new Date(b.detected_at || 0) - new Date(a.detected_at || 0));
+
+  // 件数表示
+  if (countEl) {
+    const total = allDeals.length;
+    countEl.textContent = `${deals.length}件を表示中（全${total}件）`;
+  }
 
   if (deals.length === 0) {
     listEl.innerHTML = `
       <div class="empty">
-        <div class="big">まだ掲示情報がありません</div>
-        <div>次回の巡回で条件に合うお得情報が見つかり次第、ここに並びます。</div>
+        <div class="big">該当する情報がありません</div>
+        <div>カテゴリや検索キーワードを変えてみてください。</div>
       </div>`;
     return;
   }
