@@ -1,1 +1,59 @@
-{"seen_ids": [], "seen_titles": []}
+{
+  "updated_at": "2026-07-07T10:58:33.177890+09:00",
+  "deals": [
+    {
+      "title": "arrows Alphaが33%オフの59,800円！【Amazonプライムデー】 - OREFOLDER",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVWNhQ1VpV3dDWU0zOUpzcTB4OWlqcVg4QlFFWko2U1J6NVlNUDVGd1hzZlpYMFprOWN5VWlndUhYdmdUbHFxNjdlQjNaRjNDUVNkeGJPNFUtazY0LVBiaw?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T10:58:33.177890+09:00"
+    },
+    {
+      "title": "【Amazonプライムデー】ダイビングやSUPに使える水中スクーター が最大23％OFF - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZ0x4cGgyRFFHbVJWVU40RzJiVjgyRFJXRGZGSjExakZLZWZSWmtfaVJLYl80TllsSGx5VFRpZHE1NXhZb2QwREtGWllrRE9sSm93a1VUVHIzaGVyMWhZeWMzLUZORDVrQWc?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T10:58:33.177890+09:00"
+    },
+    {
+      "title": "最新「Fire TV Stick HD」が45%OFF　プライムデーはAmazonデバイスが安い(45%割引)",
+      "url": "https://www.watch.impress.co.jp/docs/news/2122388.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 45.0,
+      "price": null,
+      "detected_at": "2026-07-07T10:58:33.177890+09:00"
+    },
+    {
+      "title": "EDIFIERのアクティブスピーカー「M90」25% OFF、「MR4 MKII」も23384円に。Amazon プライムデー(25%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2122706.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-07-07T10:58:33.177890+09:00"
+    },
+    {
+      "title": "ゲーミングモニターやプロジェクターなどBenQ製品が最大34%オフ！Amazonプライムデー先行セール(34%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122767.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 34.0,
+      "price": null,
+      "detected_at": "2026-07-07T10:58:33.177890+09:00"
+    },
+    {
+      "title": "M.2 SSDやmicroSD ExpressカードなどNextorage製品が最大20%オフ！Amazonプライムデー先行セール(20%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122762.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-07-07T10:58:33.177890+09:00"
+    }
+  ]
+}
