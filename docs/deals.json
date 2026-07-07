@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-07-07T22:42:58.653069+09:00",
+  "updated_at": "2026-07-07T22:47:53.669912+09:00",
   "deals": [
+    {
+      "title": "【SwitchBot】Amazonプライムデー先行セール開催中。人気スマートホーム製品が最大58%OFF - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Q3ZpdHRqRkZ0SWFfbWZIWlhsOHoyNVJKbXNPVlo1LUtPVU83dXhtTEhIbFpRNDNrdXNKWVFBRXM3aE53V01XaEVlVGRKVUlCeXRaLW03VWtvSTc0Y3FMODNLcEpLRU1yTnc?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:47:53.669912+09:00"
+    },
     {
       "title": "ピーチ、国内外の航空券が片道4990円～の七夕セール。成田/関空～札幌/福岡/那覇/ソウル/台北など対象（トラベル Watch） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VlBmSXNUb092X1R6YUE2dW5QZDR2MUFmQWtRNk8zcVJ2VF8tSVREdmdJNE1DSWxla1lQNUVHOXZRd1VHNVRWSnExb0F1UDNHMHJiUFFTNElEaTU4bWl3OW11eVZ0YUVnOV93WHFWbXhSZDl4NlBCeUh6WmgwaUk?oc=5",
