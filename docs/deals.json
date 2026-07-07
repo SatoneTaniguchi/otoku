@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-07-07T10:58:33.177890+09:00",
+  "updated_at": "2026-07-07T22:30:55.258784+09:00",
   "deals": [
+    {
+      "title": "【2026年7月更新】iPhone17eキャンペーンと安く買う方法！お得なキャリアはどこ？ - economical.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpN3NwOGxOaUEyYlhDTWVBR3J6RnBNMEZqcVRxNWxmQTRkbUVoV0w2TVU4RmZsS3hQWHZsdk5yTVdyNHR0Qk9KZS15NHBsZ3dLYWZiVWlIdw?oc=5",
+      "source": "ヤマダ電機 セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "【DORMIE】ウェブ限定のエントリーモデル・ゴルフ距離計「T80」が対象、「楽天スーパーSALE」連動セールを6月4日（木）より開催 - storyweb.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LQkJmempXUEdvT09OaHFnVzczbDJMY2JFZHNIbTlwbXBmeU10X1dwU1NiMlp3d3BWd3dIbldwU0xwcVZhRUUzdEhpQQ?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "バッファロー製ワイヤレスマウスがAmazonプライムデーでセールに - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSHZNelBHbEdpZmd3bnFUMGU5U2ZLS216UloyX0taS3VESG0zZVhkZ1h5cWVWTTBaWUhlYzRacTl3czBwV3YyY3F4NS10MlZER2w3QjFwT1lMTWZDUGJVNDZuVS16M2FMbWtaYW9vZVk?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "【Amazonプライムデー】XPPenのペンタブレット (液タブ)とお絵描きAndroidタブレットがセール価格に！ - ウインタブ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NamFaWURhbElZdGZyREtsQldUckE1UWNscDlLRHFxYjlmXzkzLWRCQlAzbE1TTm1RZHlEMVRhSUVWUlU5Y3JCVUdJd29vRW5YcEJVV1hhdmRvck5TZjhJaFpTaHZnTzA?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "「Amazonプライムデー」先行セールで人気ゲームソフトがお買い得！Steamコードもセール対象に【7月13日まで】（インサイド） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CT01mQ3RYNnlmZGxrb1dVckc0SC11SWtsWnItaWNfVk5tREQ0VU9MTm9ITkIzeHpYRUFBTEI4VHY4aWQ4ZUEtUUpGQVQtUkpwd21BeE9SUGFRM2g1NjVRVkt2M1oza1BCWktjVWtkX1F3WVB2ZFgtRlpZMzR5UjA?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "プライムデーはApple製品がお得　iPhone Airが最大26%OFF(26%割引)",
+      "url": "https://www.watch.impress.co.jp/docs/news/2123008.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 26.0,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "HPのOffice付きノートが30%オフでOfficeなしより安い逆転現象(30%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123191.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 30.0,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "CIOの小型GaN充電器が31%オフでセール中。Amazonでセール(31%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123154.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 31.0,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "ポケトークや紛失防止タグ、更新料0円のセキュリティソフトなどが最大77%オフ！Amazonプライムデー先行セール(77%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122379.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 77.0,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "SteelSeriesのゲーミングデバイスが最大約47%オフ！期間限定セール(47%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122290.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 47.0,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "【Amazonプライムデー】HUIONの液晶ペンタブレットが最大45%OFFに！【2026】(45%割引)",
+      "url": "https://manga.watch.impress.co.jp/docs/news/2123026.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 45.0,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
+    {
+      "title": "Peach「七夕セール」2026【本日12時開始!】宮崎－大阪が片道4,000円～｜ほんみや宮崎 - ほんみや宮崎",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEtpRzBPRTFiUDR2MGVwb3RKZWxPOUNrUmtTUzdPQ2ppUUVQckdXSmE2cUtSTnVrS2lCLU0yRXM2eEYwNGFqSktQMFN5NmpjLWxQTzQxa1VnMllzaXRWdHJkcHFMYnEzSHZVSzlzVDNwVUV2RE1IZUI0VEtBQ0tEbUJCN0lqYnc1?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-07T22:30:55.258784+09:00"
+    },
     {
       "title": "arrows Alphaが33%オフの59,800円！【Amazonプライムデー】 - OREFOLDER",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVWNhQ1VpV3dDWU0zOUpzcTB4OWlqcVg4QlFFWko2U1J6NVlNUDVGd1hzZlpYMFprOWN5VWlndUhYdmdUbHFxNjdlQjNaRjNDUVNkeGJPNFUtazY0LVBiaw?oc=5",
