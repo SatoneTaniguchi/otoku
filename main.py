@@ -662,8 +662,14 @@ GEMINI_MODEL = "gemini-2.5-flash"
 def refine_with_ai(deals: list) -> list:
     import os
     api_key = os.environ.get("GEMINI_API_KEY", "")
-    if not api_key or not deals:
-        return deals  # キー未設定なら何もしない(従来通り)
+    if not api_key:
+        print("[AI精査] GEMINI_API_KEYが未設定のためスキップ(従来のルールベースで動作)")
+        return deals
+    if not deals:
+        print("[AI精査] 対象0件のためスキップ")
+        return deals
+
+    print(f"[AI精査] {len(deals)}件をAIに送信します...")
 
     # AIに渡す候補一覧を作る(番号付き)
     items_text = "\n".join(
