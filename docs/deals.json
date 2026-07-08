@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-07T22:47:53.669912+09:00",
+  "updated_at": "2026-07-08T10:28:17.895249+09:00",
   "deals": [
+    {
+      "title": "【きょうから】無印良品週間、3・20よりスタート 無印良品メンバーは10％オフで“お得”に買い物【前回キャンペーン時の人気商品ランキング掲載】 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRnNYVVJIQkVWN3BSSmVWWFRRTlBtYUJGa2tRNWpXR083UkVNUF9XNkVUQU5xVU5OT1RwVHRjZDFWbnV2aFdFcDB1NDBEbUVtOVE?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-08T10:28:17.895249+09:00"
+    },
+    {
+      "title": "大阪王将公式通販Amazon店 Amazonプライムデー開催！Amazonプライム会員限定の年に1度の最大級ビッグセール - フーズチャネル",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNWNTRFMzVE9mYm53ei1fUVpUQmRZQ3h0MlBsbFhRY09vLXJVLS02ZGVOMUpOMERxdjdSdU9idEp4ckZsNF9zMGhsWWc4RTc1YXRWRzdB?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-08T10:28:17.895249+09:00"
+    },
+    {
+      "title": "【Amazon プライムデー 2026】何が安くなる？ 先行セールの対象アイテムから、Apple製品をはじめとする目玉商品をリストアップ！ - GQ Japan",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VlJlb2xCYWN1VjgxM0MtM3BBdnh2ZEMteU9NdUFNc0NjblpPNWRuREE1ZEZjbUpJcVNZdmVkUkpLTGNVcWY4aUNBQjlJM2h0SDRsdEFQTWxzR0FESEthZ1NFWkN0aDNGYVFGX19ueWN1aEtFVTEtZEZibHhETjA?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-08T10:28:17.895249+09:00"
+    },
+    {
+      "title": "QCYイヤフォン「MeloBuds Pro」24% OFFの5300円、ヘッドフォンも低価格。Amazonプライムデー先行(24%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2123148.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 24.0,
+      "price": null,
+      "detected_at": "2026-07-08T10:28:17.895249+09:00"
+    },
     {
       "title": "【SwitchBot】Amazonプライムデー先行セール開催中。人気スマートホーム製品が最大58%OFF - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Q3ZpdHRqRkZ0SWFfbWZIWlhsOHoyNVJKbXNPVlo1LUtPVU83dXhtTEhIbFpRNDNrdXNKWVFBRXM3aE53V01XaEVlVGRKVUlCeXRaLW03VWtvSTc0Y3FMODNLcEpLRU1yTnc?oc=5",
