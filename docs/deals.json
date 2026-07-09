@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-08T10:28:17.895249+09:00",
+  "updated_at": "2026-07-09T10:50:07.793042+09:00",
   "deals": [
+    {
+      "title": "楽天セールのゲーム割引情報まとめ｜次回開催はいつ？ - GameWith",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94a3NlOU5wRzB5UFR6ZWd0VVNDN0RWVFBPWVdlNUx3dzcyUEU3U2FLTnBwMFZRdjk5S3c2V1RGZEZoVjA3eElRMXpUbm8weGc3Y1NIdnR5Um0tRmdwRE8tMGlGMG52UQ?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-09T10:50:07.793042+09:00"
+    },
+    {
+      "title": "AmazonのWi-Fiメッシュルーター「eero」がプライムデーでセール中！ Wi-Fi 7対応モデル「eero 7」1ユニットが1万5800円など - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83WXUtOVE3MXJObEVrd09CUE9ycENodjBaRHZvQ0M4Smp3cXYyUDFtWXMxWnVyMV9WLTJGSFdwUTNCWEotZTF4VklIVm5QZF9BdlVKand3N0RZSUZTTFZ4UHk1dEZYY2Rwa1lnM2NWX0s?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-09T10:50:07.793042+09:00"
+    },
+    {
+      "title": "ALLDOCUBEタブレットがAmazonプライムデーで最大約28%OFF！iPlay 80 mini Proは20,975円 - TikGadget",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdWUtMnJBWmVrUFhyVVR5eUttam9YbnNidXdBbjh0YjV2OFVKVFdkZFAyQVhpajFLRzhoWEJXRGkzZTJGbWJmMUZJQXJoUm4yLWR6dDk3dzhianRoZWZCeDlrcjA0b0MzXzNYYWlWaw?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-09T10:50:07.793042+09:00"
+    },
+    {
+      "title": "Amazonプライムデー、「偽の値下げ」に騙されない方法 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLUFZUQ3h3a3l0YUZwWXVYeUg2NVo5ZHA5WXBfNWpkNjBqS0c1M28zalhYdzN0S3NVX0dYYTFyalJKeFB6Z1M5UHZYTkNtb25renc?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-09T10:50:07.793042+09:00"
+    },
+    {
+      "title": "クリエイティブPCスピーカー「Pebble」1949円、Bluetoothトランスミッタも25% OFF。Amazonセール(25%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2123414.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-07-09T10:50:07.793042+09:00"
+    },
     {
       "title": "【きょうから】無印良品週間、3・20よりスタート 無印良品メンバーは10％オフで“お得”に買い物【前回キャンペーン時の人気商品ランキング掲載】 - 山陽新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRnNYVVJIQkVWN3BSSmVWWFRRTlBtYUJGa2tRNWpXR083UkVNUF9XNkVUQU5xVU5OT1RwVHRjZDFWbnV2aFdFcDB1NDBEbUVtOVE?oc=5",
