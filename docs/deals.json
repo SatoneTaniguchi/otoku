@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-09T10:50:07.793042+09:00",
+  "updated_at": "2026-07-10T10:49:05.189147+09:00",
   "deals": [
+    {
+      "title": "Amazon Prime Day 2026｜コレクターが選ぶおすすめのワイヤレスイヤホン【セール対象品】 - 猫居のイヤホン",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sQ2ZzbGRuVHU2cy1UeXZOMzVmS2pITHRPYjZJRXFRc2FOQ3RfcWxlbEJkZ0J3ZlROZEVUUmljYlQ0X2lTT2RObnhGcHAxeThUMktQejBfT3BTX2FMNDV1dUE2c2Y?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-10T10:49:05.189147+09:00"
+    },
+    {
+      "title": "「プシュッ」24回分をどうぞ。キリン一番搾りが1本約183円【Amazonタイムセール】 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KbE1kUFptTzQyMUQ3VnlIalFweENBWFhPSGNsMmNoUk5ySnl1dFdPbDJPZGhtZ2JnU2oyVXQ1ck1DbUVacHc2ZUdJUkFQZmxzSDNSbw?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-10T10:49:05.189147+09:00"
+    },
+    {
+      "title": "iPhone 15」と「iPhone 16e」がセールに、Amazonプライムデー - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3FXSTl2enE0QkNPblh1RWF4Q1FlczVGNXM1bHpmRjlITTZFVjU4cDhuSV9oNUFTQnR3eWJCUW5wVVRTeXFWaVZlT0pBZlEwaDVpeXZGZkl6cW9WQ01aTkQwZG9oX2NZV2pMOXh3?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-10T10:49:05.189147+09:00"
+    },
+    {
+      "title": "5GスマホやタブレットなどXiaomi製品が最大46%オフ！「Xiaomi Hyper Prime Day」が13日まで(46%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2123509.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 46.0,
+      "price": null,
+      "detected_at": "2026-07-10T10:49:05.189147+09:00"
+    },
+    {
+      "title": "日本の旅行アプリ、DL成長は国内勢の「じゃらん」が圧倒的首位 定番でも“大幅割引”キャンペーン施策が効果大 - オタク総研",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RUXJtWkFPdlVhTjhKVDFLWkg1dUZBZVoxUHY2SC1yU0VmSjNYYzFfVzgwQ0kyWWl6eVFueWtXeThYWTlpRlRieks5UQ?oc=5",
+      "source": "楽天トラベル/じゃらん セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-10T10:49:05.189147+09:00"
+    },
     {
       "title": "楽天セールのゲーム割引情報まとめ｜次回開催はいつ？ - GameWith",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94a3NlOU5wRzB5UFR6ZWd0VVNDN0RWVFBPWVdlNUx3dzcyUEU3U2FLTnBwMFZRdjk5S3c2V1RGZEZoVjA3eElRMXpUbm8weGc3Y1NIdnR5Um0tRmdwRE8tMGlGMG52UQ?oc=5",
