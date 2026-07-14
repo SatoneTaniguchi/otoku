@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-07-13T10:30:35.255689+09:00",
+  "updated_at": "2026-07-14T10:19:46.885115+09:00",
   "deals": [
+    {
+      "title": "[本日限り] Amazonセール2026【7月最新】次はプライムデー！一番安い時期・攻略法も解説 - funq.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-14T10:19:46.885115+09:00"
+    },
+    {
+      "title": "ベッセルの電動ドライバーがお得！ Amazonプライムデー ボールグリップ型電動ドライバー「220USB-S1」は3376円 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOUU9wa2RJeTQ4Z2FrbXJmTkMyekkyWkphLUpGc3ZfLWg4WS15bUpMTWU3eE91TTZmcnVUYjU0M0RfaFdSblRSLTNzMTRfUkU5QlZiNG5rMGJLa2x6NXhaR1YyVUd2NDhKYlkzUnpkY2w?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-14T10:19:46.885115+09:00"
+    },
+    {
+      "title": "【本日最終日】見逃し注意！Amazonプライムデーでお得なキャンペーン＆サブスクまとめ（レタスクラブ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTWQ2WUcwUmluUEpzWld4Vkh0a0o3N2g5a0JIWTBUNWJxZzhuOElGUVp5MXBCcXNqbENwMzhuOGZrazNOSlZFS19tN2xUNlJoMjRBUm1fMzRIRkUxWDJ1QjZsZVpNU25TY0Q5VjJyeEFEOFNWUG41bGw2VjZTQ00?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-14T10:19:46.885115+09:00"
+    },
+    {
+      "title": "Nothing、KEFと音響設計「Headphone (1)」が25% OFF。スマホも低価格(25%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2124625.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-07-14T10:19:46.885115+09:00"
+    },
+    {
+      "title": "AmazonにてKindle版「魔法少女リリカルなのは メモリアルビジュアルコレクション」が87%オフの499円で販売中！(87%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2124614.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 87.0,
+      "price": null,
+      "detected_at": "2026-07-14T10:19:46.885115+09:00"
+    },
+    {
+      "title": "蚊の季節到来！電気式蚊取り「アースノーマット」が安い！！【Amazonプライムデー】(41%割引)",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2124570.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 41.0,
+      "price": null,
+      "detected_at": "2026-07-14T10:19:46.885115+09:00"
+    },
     {
       "title": "【無印良品】最大2割引き”良いね祭”！夏の困りごとを解決する「おすすめ愛用グッズ」7選 - ヨムーノ",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TelBSdS1rT21Ed3RfYS1jZ1V3YnVYd25BQkQyb1VPdDJOWXp4YXVwdlhYVmFoN1F6TlNDYXZHNVB5c1k4?oc=5",
