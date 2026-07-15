@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-07-14T10:19:46.885115+09:00",
+  "updated_at": "2026-07-15T10:18:47.174597+09:00",
   "deals": [
+    {
+      "title": "PS Storeにて開催中の「7月のお買い得セール」が本日7月15日まで(60%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2123247.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 60.0,
+      "price": null,
+      "detected_at": "2026-07-15T10:18:47.174597+09:00"
+    },
     {
       "title": "[本日限り] Amazonセール2026【7月最新】次はプライムデー！一番安い時期・攻略法も解説 - funq.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
