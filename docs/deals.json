@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-15T10:18:47.174597+09:00",
+  "updated_at": "2026-07-16T10:26:55.010486+09:00",
   "deals": [
+    {
+      "title": "【2026年Amazonプライムデー】アスハダシリーズ・ルクシア・健康食品が最大35%OFF｜2026年7月7日(火)～2026年7月13日(月)【美容・スキンケア・健康】 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KQm1vaDFFd09IRWtKUzMxSjRpZlJuUFdSeF9yenMyaktnSXJPRGNpRF93c21XTXhhTzQ1WDBueTA5Vk1MVkpuZ3NGenBaTDVpQVA0cldYR01QX2M?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-16T10:26:55.010486+09:00"
+    },
+    {
+      "title": "Edifierのニアフィールドモニター「MR4」が20% OFF。Amazonタイムセール(20%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2125410.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-07-16T10:26:55.010486+09:00"
+    },
+    {
+      "title": "4K液晶ブラビアがAmazonタイムセール。55型が39% OFF(39%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2125367.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 39.0,
+      "price": null,
+      "detected_at": "2026-07-16T10:26:55.010486+09:00"
+    },
+    {
+      "title": "最大90%オフ！ スパイク・チュンソフト、DL版がお得な「サマーセール」開催(90%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2125243.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 90.0,
+      "price": null,
+      "detected_at": "2026-07-16T10:26:55.010486+09:00"
+    },
     {
       "title": "PS Storeにて開催中の「7月のお買い得セール」が本日7月15日まで(60%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2123247.html",
