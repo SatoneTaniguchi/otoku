@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-07-16T10:26:55.010486+09:00",
+  "updated_at": "2026-07-17T10:29:42.401753+09:00",
   "deals": [
+    {
+      "title": "Amazonプライムデーと先行セールの違いは？値段は変わる？どっちが安い？2026年最新 - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTlRS3RVSGxteElFakRTNFdlSnRLcVhSSzQ5aGpKd0VuRmliYTJZLWJ2dXRhTGZYRWgwSTJ0WkUyX1dCSlhvY01NbXprZW1QLXJYOUlqTDA2aFJoM1BxTWFBNVhoSWo2T2VabWR1OUQyUm01UnZPcjVVUTNGT2VFUGI4Q19IQktZSk1pM2JWVzNycWxWeDVQRjFlSWhuVEhRZkw5dng4cjdXbWVwQk93b2k3NWViT3FvQS00?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-17T10:29:42.401753+09:00"
+    },
+    {
+      "title": "開催中 きせかえ 映画『仮面ライダーゼッツ さよならのミッション』カードきせかえ(20%ポイント還元)",
+      "url": "https://toku.yahoo.co.jp/campaign?sectionCode=paypay&paypaybanner",
+      "source": "PayPay キャンペーン一覧",
+      "category": "ポイント還元",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-07-17T10:29:42.401753+09:00"
+    },
     {
       "title": "【2026年Amazonプライムデー】アスハダシリーズ・ルクシア・健康食品が最大35%OFF｜2026年7月7日(火)～2026年7月13日(月)【美容・スキンケア・健康】 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KQm1vaDFFd09IRWtKUzMxSjRpZlJuUFdSeF9yenMyaktnSXJPRGNpRF93c21XTXhhTzQ1WDBueTA5Vk1MVkpuZ3NGenBaTDVpQVA0cldYR01QX2M?oc=5",
