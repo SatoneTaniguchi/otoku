@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-07-18T10:21:33.389143+09:00",
+  "updated_at": "2026-07-20T10:52:44.678655+09:00",
   "deals": [
+    {
+      "title": "【本日20時】AGM-Glory 楽天市場店「スーパーSALE」先行入場でさらにお得！ - CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xRTFuR2FQX3dsX1VwdVJOVUFNaW8zMVhuUGVnTDJpeHo5ZEpqbmhpVDVjQ2kzTzNNM1llS3NzSEZxWU4zNm5xaTZlZjF4UmQ1NEtTeHdndw?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-20T10:52:44.678655+09:00"
+    },
+    {
+      "title": "AmazonプライムデーでRazer製品がセール中。軽量ゲーミングマウスは34％オフ、ラピッドトリガー搭載キーボードは35％オフ - ファミ通",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZazVVaVBHN0xySTlvNmtfVUVuWk1YRklfZEF3NmRCR1JVRDdLc0k0dEhZeHJNU2ZEZ25nLWpJSFFDY0tHTU1yeE1fSXlONjhrUFNlVjRDTmliVWJVTmlMRW12MTRuYUpVNGc?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-20T10:52:44.678655+09:00"
+    },
     {
       "title": "恐竜サバイバル「ARK: Survival Ascended」が75%オフで1,690円！ もうすぐ終了のセール情報まとめ【7月18日更新】(75%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2125997.html",
