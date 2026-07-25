@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-07-24T10:30:05.566623+09:00",
+  "updated_at": "2026-07-25T10:30:09.925891+09:00",
   "deals": [
+    {
+      "title": "【Amazonプライムデー】エフシーエルが≪最大50%OFF≫夏のドライブ応援セール開催 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KM0llM19QbEZ0YWFnVmp5NnA1aGUyVnpiQ2V5d2dYb2Nnb0wyYXFGLUJIQlRSakQ2SFhLN3kyMGtHcjJ1Wk5TX3NpZUMwSTZRdXc?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "Turtle BeachやVictrixのゲーミングデバイスが最大73%オフ！楽天お買い物マラソン(73%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127696.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 73.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "モバイルバッテリーやプロジェクターなどAnker製品が最大50%OFF！楽天お買い物マラソン(50%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127434.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "防災に役立つJackery製ポータブル電源が最大45%オフ！楽天お買い物マラソン(45%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127450.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 45.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "サンコーの暑さ対策アイテムが最大75%オフ！「猛暑に打ち勝て！夏本番セール」が31日まで(75%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127701.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 75.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "ポータブルゲーミングPCやAndroidゲーム機が最大30%オフ！天空「在庫一掃SALE」(30%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127679.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 30.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "AmazonでレグザのフルHDゲーミングモニタが23% OFF。LG有機ELモニタも低価格(23%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2127753.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 23.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
+    {
+      "title": "Amazonで「Kindle本サマーセール 第1弾」、3万冊以上が最大90％OFF！(50%割引)",
+      "url": "https://internet.watch.impress.co.jp/docs/shopping/2127499.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-07-25T10:30:09.925891+09:00"
+    },
     {
       "title": "Galaxy S26 UltraやGalaxy TabなどSamsungデバイスが最大20%オフ！楽天お買い物マラソン(20%割引)",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127446.html",
