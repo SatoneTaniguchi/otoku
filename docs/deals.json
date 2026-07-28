@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-25T10:30:09.925891+09:00",
+  "updated_at": "2026-07-28T10:26:08.607150+09:00",
   "deals": [
+    {
+      "title": "【楽天スーパーSALE】エクスプライス株式会社、楽天市場店3店舗にて日替わり399円セールや超目玉！半額以上セール品など超お得イベントを実施！2026年6月4日（木）20時スタート！ - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GVktwT3NlQjBWMFhSREdXWWVQRTUtZk9hZHpMVEl4UEY2U1Z1THExbXdSYWdZUEF2RUZEY3FVRnVWMUZSZ0w3MXZmeVFJWnNOREtoUm41UzMtTFE?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-28T10:26:08.607150+09:00"
+    },
+    {
+      "title": "【2026年7月】Amazonセールはいつ？年間日程と5つの準備 - キャラグー",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVeFpyTm9OMzExREJIMFVxeGUyLVpWQUxMMHJid1gyN210YlRhV3p6SW5IS3ZZcjkxUHRuNVRiT2JqSkVQS0dB?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-28T10:26:08.607150+09:00"
+    },
+    {
+      "title": "【Qoo10メガ割×Naturecan】Naturecanの人気商品が最大80%OFF◎メガ割クーポン使用でさらにお得！！ - CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40MHR6RE5XTGU1ZGpnclFJQW54cUd1VHBZeXZkMnNqQTZ2dDFvOUhDUUtybFpBRWJaS09rdVFEMWl0V0thNlozNW5heE5YdUZWNGlSelVVRQ?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-28T10:26:08.607150+09:00"
+    },
+    {
+      "title": "「ドラクエ ロト三部作セット」が35%オフ！ 「スクエニ SUMMER SALE Part 3」が実施(35%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2128242.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 35.0,
+      "price": null,
+      "detected_at": "2026-07-28T10:26:08.607150+09:00"
+    },
     {
       "title": "【Amazonプライムデー】エフシーエルが≪最大50%OFF≫夏のドライブ応援セール開催 - 山陽新聞",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KM0llM19QbEZ0YWFnVmp5NnA1aGUyVnpiQ2V5d2dYb2Nnb0wyYXFGLUJIQlRSakQ2SFhLN3kyMGtHcjJ1Wk5TX3NpZUMwSTZRdXc?oc=5",
