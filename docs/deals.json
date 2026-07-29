@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-07-28T10:26:08.607150+09:00",
+  "updated_at": "2026-07-29T10:26:01.191015+09:00",
   "deals": [
+    {
+      "title": "【EC事業者向け】オンラインセミナー「楽天スーパーセール直前 最終チェック！売上を左右する\"最後のひと押し\"完全解説」を8月20日に開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzaUVVc0lkSkpGWFZ3Sm5VYWtOOENSR3RNSlRvaTlMWUg2U2oyc2EzaE9OQmFoTTNtOHlHQTVjbkdnclNNaG5NNkdsdW1saXlaN3FpeGpoT0x3V0tocURVSWF2WDdJb0JZY3c?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-29T10:26:01.191015+09:00"
+    },
+    {
+      "title": "【再セール】Amazonで「iPhone Air」がプライムデーと同価格〜最大78,000円お得(値上げ後) - touchlab.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rRDVWNzNkRzV2NmF1T21QX3hBYndtUkVPckt6OVp2cEhLYkM1MHRod00zdjR4MFNJUW5fMlBJZWlJWVJOdkJ4M2pDYVV1elMwU3lBc1hzM2ZMazJkdUxXb2hJTGdCdw?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-29T10:26:01.191015+09:00"
+    },
+    {
+      "title": "プライムデーは終わったけれど…Amazonでタイムセール祭り始まる【29日9時から】 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWklLc3EyNHlNczBLYWZ3RE51NFZoN2dYODNzX3lOY2wwcFp4YmNDSlIzcm1aQjM0bndtRDhZQng5VjN0VHdWY3BNdnRtZ25iaW5aSnVRNFNRUkJWTG0tUHJPQU12dTZFV1ZCdldjdjlLc0JH?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-29T10:26:01.191015+09:00"
+    },
     {
       "title": "【楽天スーパーSALE】エクスプライス株式会社、楽天市場店3店舗にて日替わり399円セールや超目玉！半額以上セール品など超お得イベントを実施！2026年6月4日（木）20時スタート！ - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GVktwT3NlQjBWMFhSREdXWWVQRTUtZk9hZHpMVEl4UEY2U1Z1THExbXdSYWdZUEF2RUZEY3FVRnVWMUZSZ0w3MXZmeVFJWnNOREtoUm41UzMtTFE?oc=5",
