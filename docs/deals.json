@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-29T10:26:01.191015+09:00",
+  "updated_at": "2026-07-30T10:18:58.054780+09:00",
   "deals": [
+    {
+      "title": "【ニトリ】家具・大型家電「夏の感謝祭」を8月7日(金)より11日間限定開催！人気商品を期間限定価格で提供、家具引取サービスもお得。 - prtimes.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUjJsbXFBWWxxNUNaNUVJTkF1OUpIdzBXYkFkY3ZCdjR1Y1VZRkZQa3VYUjFPWGE1SHRLQ3lZd1hMSjNuOVA0ZTljdEx5QmNQblNXWWJVbElyYmtYVThwU21UUnhlb3FRQnc?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-30T10:18:58.054780+09:00"
+    },
+    {
+      "title": "待ってました。AirPods Pro 3がプライムデー後初の14%オフです - ライフハッカー",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Sczluc2JRVWVsZWhjMmdQRzhDY1ZwbDBSdEhyb283MGxjc19FUnZWem96dEJ0VUxoZGtxOWlVMGVBQi1PLVhyUXVqdUQ2RG5mTFZZUldoWWJNWXpCMkl1dDB4eVp0Y0JQelZ6dDNFVQ?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-30T10:18:58.054780+09:00"
+    },
+    {
+      "title": "アトラス「サマーセール」がPS Storeとニンテンドーeショップで開催。Switch版「ペルソナ5 ザ・ロイヤル」が70%オフ(70%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2128833.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 70.0,
+      "price": null,
+      "detected_at": "2026-07-30T10:18:58.054780+09:00"
+    },
+    {
+      "title": "AmazonサマーSale開始。JBLサウンドバーが16800円、イヤフォン「TOUR PRO 3」25% OFF(25%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2128809.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-07-30T10:18:58.054780+09:00"
+    },
     {
       "title": "【EC事業者向け】オンラインセミナー「楽天スーパーセール直前 最終チェック！売上を左右する\"最後のひと押し\"完全解説」を8月20日に開催！ - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzaUVVc0lkSkpGWFZ3Sm5VYWtOOENSR3RNSlRvaTlMWUg2U2oyc2EzaE9OQmFoTTNtOHlHQTVjbkdnclNNaG5NNkdsdW1saXlaN3FpeGpoT0x3V0tocURVSWF2WDdJb0JZY3c?oc=5",
