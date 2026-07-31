@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-30T10:18:58.054780+09:00",
+  "updated_at": "2026-07-31T10:45:42.466791+09:00",
   "deals": [
+    {
+      "title": "ニトリ、大型家具・大型家電を3.98万円以上購入で平日基本配送料金（玄関先お渡し）を無料へ＋「夏の感謝祭」を8/7〜11日間実施 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQenNNZGMwMFplbThncWNKWTFoRVRmejYxdGd5WnVhR0VTSkVmdkJjRkY2ZXNTV01oaXZkOHd1Z2NrZExIQ0FIXzNSYnRZWGJZejc4QXBwVVpXZW1BbDZWZ1l4TmpyMFRDV3lGMlRGVEJLUzJGYnE5YWo1dXlaMThLdWpnWHU2c05qbTJwVGpLNFpRZUJVbWNjbTA1YUtINk9hU3JHZGNRSVpBRDk4ZWVLQXV4WkXSAbQBQVVfeXFMUHpzTWRjMDBaZW04Z3FjSlkxaEVUZno2MXRneVp1YUdFU0pFZnZCY0ZGNmVzU1dNaGl2ZDh3dWdja2RMSENBSF8zUmJ0WVhiWXo3OEFwcFVaV2VtQWw2VmdZeE5qcjBUQ1d5RjJURlRCS1MyRmJxOWFqNXV5WjE4S3VqZ1h1NnNOam0ycFRqSzRaUWVCVW1jY20wNWFLSDZPYVNyR2RjUUlaQUQ5OGVlS0F1eFpF?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-31T10:45:42.466791+09:00"
+    },
+    {
+      "title": "「え？Apple製品も安いの？」Amazonタイムセール祭りに「AirPods」などが登場 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TGlOZVE5UWFwOWdQcDB3VGdlQjQtMXctZC1tTXd6RkwxUm90NUJqckJQNXhsbXdtdTVwdTR0cEFfUTVJTHpqWmZWOUZlS0VCTEJkbXdKczJaMXRYbjVzM3cwUFJjMW54WUl3dkI1MUJUdWV6?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-31T10:45:42.466791+09:00"
+    },
+    {
+      "title": "iPhone Airが最大26%OFF　アマゾンでApple製品がお得(26%割引)",
+      "url": "https://www.watch.impress.co.jp/docs/news/2129200.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 26.0,
+      "price": null,
+      "detected_at": "2026-07-31T10:45:42.466791+09:00"
+    },
+    {
+      "title": "【Amazonセール】iPhone Airがタイムセールに登場！ 最大26%OFFとお買い得(26%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2129143.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 26.0,
+      "price": null,
+      "detected_at": "2026-07-31T10:45:42.466791+09:00"
+    },
+    {
+      "title": "ジェットスター、国内線セール開催。9月～12月搭乗分、31日正午開始 - 旅行総合研究所タビリス",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuNWpGZzZtcS1BWFl4d3VXM2syOHhQSGhoWlZ5WnlrNWM5bnFreEd4dmtlMFpTQ3FBM0d4bUpKQzgtUWVmUS0yS0lpXy1EbThaRmlXVTJfN2FLeGh4ZXc?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-07-31T10:45:42.466791+09:00"
+    },
     {
       "title": "【ニトリ】家具・大型家電「夏の感謝祭」を8月7日(金)より11日間限定開催！人気商品を期間限定価格で提供、家具引取サービスもお得。 - prtimes.jp",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUjJsbXFBWWxxNUNaNUVJTkF1OUpIdzBXYkFkY3ZCdjR1Y1VZRkZQa3VYUjFPWGE1SHRLQ3lZd1hMSjNuOVA0ZTljdEx5QmNQblNXWWJVbElyYmtYVThwU21UUnhlb3FRQnc?oc=5",
