@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-31T10:45:42.466791+09:00",
+  "updated_at": "2026-08-01T10:47:13.154465+09:00",
   "deals": [
+    {
+      "title": "キャンペーン外部主催PayPayではじめての方限定！Rocket Now(ロケットナウ)で最大全額戻ってくるPayPayスクラッチくじ2026/8/1        〜\n        8/31(20%ポイント還元)",
+      "url": "https://paypay.ne.jp/event/rocketnow-20260801/",
+      "source": "PayPay キャンペーン一覧",
+      "category": "ポイント還元",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-08-01T10:47:13.154465+09:00"
+    },
+    {
+      "title": "「ドラクエ5」スマホ版が40%オフ！ スクエニのスマホタイトルを対象としたサマーセールがスタート(40%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2129767.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 40.0,
+      "price": null,
+      "detected_at": "2026-08-01T10:47:13.154465+09:00"
+    },
+    {
+      "title": "ジェットスター、国内線セールで片道3790円から。成田～新千歳4590円、成田～福岡4990円など（トラベル Watch） - news.yahoo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWF84NVY3Z1p0NVlUVm9nVWNyUmhVTzRXaTFJQkFqaHlpaGFpN3dGSFl3bWowVnZMRDNXTzd6RDhfeVprYS03MTNzOHlFeUc3cEtoOXAzUGdiN3VhN3RTUUh2RldpcUtXYkoybldQSWhQMk1sZjlzeDNBa2k2UTg?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-01T10:47:13.154465+09:00"
+    },
+    {
+      "title": "スプリング・ジャパン、就航12周年記念キャンペーンを開催 国内線を対象に4,500円～のセールを本日から実施 - sky-budget.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nd0JBZHI0WGVLZFVkOFJ1QUxZTHB3QTY2dDV3bm1BWWw0eG0xNXlFbGl2UThUQkJoeUJEdnZCNDdnZmFkYUJVSzltVDZ3dVB6OGtzWVB6Q0JVbE1kLUY5bmJiRkNfQlVKcnA2Vg?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-01T10:47:13.154465+09:00"
+    },
     {
       "title": "ニトリ、大型家具・大型家電を3.98万円以上購入で平日基本配送料金（玄関先お渡し）を無料へ＋「夏の感謝祭」を8/7〜11日間実施 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQenNNZGMwMFplbThncWNKWTFoRVRmejYxdGd5WnVhR0VTSkVmdkJjRkY2ZXNTV01oaXZkOHd1Z2NrZExIQ0FIXzNSYnRZWGJZejc4QXBwVVpXZW1BbDZWZ1l4TmpyMFRDV3lGMlRGVEJLUzJGYnE5YWo1dXlaMThLdWpnWHU2c05qbTJwVGpLNFpRZUJVbWNjbTA1YUtINk9hU3JHZGNRSVpBRDk4ZWVLQXV4WkXSAbQBQVVfeXFMUHpzTWRjMDBaZW04Z3FjSlkxaEVUZno2MXRneVp1YUdFU0pFZnZCY0ZGNmVzU1dNaGl2ZDh3dWdja2RMSENBSF8zUmJ0WVhiWXo3OEFwcFVaV2VtQWw2VmdZeE5qcjBUQ1d5RjJURlRCS1MyRmJxOWFqNXV5WjE4S3VqZ1h1NnNOam0ycFRqSzRaUWVCVW1jY20wNWFLSDZPYVNyR2RjUUlaQUQ5OGVlS0F1eFpF?oc=5",
