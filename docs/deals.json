@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-01T10:47:13.154465+09:00",
+  "updated_at": "2026-08-02T10:43:22.970185+09:00",
   "deals": [
+    {
+      "title": "スプリング・ジャパン、就航12周年記念キャンペーン開催中 国内線タイムセールや航空券プレゼントキャンペーンなど - TRAICY（トライシー）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qcUhuaHIybW5DRXpUM2pzdUhQYXZGdlMtR0R2UnpicDRfbkY2Q3l3ZEZ4c00xZzFBVWY1ZjkxaGswVlB3WlBORXJhVG9wd3pJdVZ3V1JOQQ?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-02T10:43:22.970185+09:00"
+    },
+    {
+      "title": "【ドコモから入会限定】お得なディズニーストア割引特典！2026年8月21日(金) 〜 2026年8月23日(日) - Disney Plus",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CU3Bpa1FDaFl3bmo0WjJRUjd2MUllOUJSUTMwZlR1WGRPRExESTYwVXJRM0ZOUlZEcXJVM0JYUWMzUzdGd0NiVGRiU0hQRURZclNCQUN4eTNDbkhtbmxIMldmVThhTDFHdWtoRklQNlc5SWl4TGlqOE1n?oc=5",
+      "source": "テーマパーク割引 ニュース監視",
+      "category": "イベント・レジャー",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-02T10:43:22.970185+09:00"
+    },
     {
       "title": "キャンペーン外部主催PayPayではじめての方限定！Rocket Now(ロケットナウ)で最大全額戻ってくるPayPayスクラッチくじ2026/8/1        〜\n        8/31(20%ポイント還元)",
       "url": "https://paypay.ne.jp/event/rocketnow-20260801/",
@@ -880,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 34.0,
-      "price": null,
-      "detected_at": "2026-07-07T10:58:33.177890+09:00"
-    },
-    {
-      "title": "M.2 SSDやmicroSD ExpressカードなどNextorage製品が最大20%オフ！Amazonプライムデー先行セール(20%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122762.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
       "price": null,
       "detected_at": "2026-07-07T10:58:33.177890+09:00"
     }
