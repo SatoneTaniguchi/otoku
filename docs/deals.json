@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-02T10:43:22.970185+09:00",
+  "updated_at": "2026-08-03T10:45:50.883715+09:00",
   "deals": [
+    {
+      "title": "キャンペーン外部主催対象銀行をはじめてチャージ用口座に登録し、チャージ＆支払いで最大500ポイントもらえるキャンペーン2026/8/3        〜\n        9/30(20%ポイント還元)",
+      "url": "https://paypay.ne.jp/event/bank-20260803/",
+      "source": "PayPay キャンペーン一覧",
+      "category": "ポイント還元",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-08-03T10:45:50.883715+09:00"
+    },
     {
       "title": "スプリング・ジャパン、就航12周年記念キャンペーン開催中 国内線タイムセールや航空券プレゼントキャンペーンなど - TRAICY（トライシー）",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qcUhuaHIybW5DRXpUM2pzdUhQYXZGdlMtR0R2UnpicDRfbkY2Q3l3ZEZ4c00xZzFBVWY1ZjkxaGswVlB3WlBORXJhVG9wd3pJdVZ3V1JOQQ?oc=5",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 25.0,
-      "price": null,
-      "detected_at": "2026-07-07T10:58:33.177890+09:00"
-    },
-    {
-      "title": "ゲーミングモニターやプロジェクターなどBenQ製品が最大34%オフ！Amazonプライムデー先行セール(34%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122767.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 34.0,
       "price": null,
       "detected_at": "2026-07-07T10:58:33.177890+09:00"
     }
