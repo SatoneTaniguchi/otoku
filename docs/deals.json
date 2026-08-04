@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-03T10:45:50.883715+09:00",
+  "updated_at": "2026-08-04T10:21:55.744337+09:00",
   "deals": [
+    {
+      "title": "値上げ予定のWi-Fi 7ルーター「WSR3600BE4P」がクーポン+ポイント還元で実質1万円未満に、WSR6500BE6Pもクーポン適用可【追記】 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmUDNkbHZKTHM2RDI4RFRabWl6LWpfSFZEQnQzc2Qyc1l2bW5rcjUyQ3o5a21mTkpjWWpfWXhna1lWNU84Yko0VHppdXppSjZKVGtsZ1dwYlJObGtUSTRUY2NKMVlqYUhNUUdqTQ?oc=5",
+      "source": "ヤマダ電機 セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-04T10:21:55.744337+09:00"
+    },
     {
       "title": "キャンペーン外部主催対象銀行をはじめてチャージ用口座に登録し、チャージ＆支払いで最大500ポイントもらえるキャンペーン2026/8/3        〜\n        9/30(20%ポイント還元)",
       "url": "https://paypay.ne.jp/event/bank-20260803/",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 45.0,
-      "price": null,
-      "detected_at": "2026-07-07T10:58:33.177890+09:00"
-    },
-    {
-      "title": "EDIFIERのアクティブスピーカー「M90」25% OFF、「MR4 MKII」も23384円に。Amazon プライムデー(25%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2122706.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 25.0,
       "price": null,
       "detected_at": "2026-07-07T10:58:33.177890+09:00"
     }
