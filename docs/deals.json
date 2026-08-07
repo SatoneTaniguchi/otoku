@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-06T10:24:42.543844+09:00",
+  "updated_at": "2026-08-07T11:03:03.769151+09:00",
   "deals": [
+    {
+      "title": "おもちゃ・スケールプラモ・トイガンなどが最大50%オフ！ DMM通販にて「激アツ！おもちゃ・ホビー夏セール」が開催(50%割引)",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2131243.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-08-07T11:03:03.769151+09:00"
+    },
+    {
+      "title": "【Kindleセール】続編コミカライズ刊行記念！「ゲート」シリーズ対象作品が無料＆最大80%オフ！(80%割引)",
+      "url": "https://manga.watch.impress.co.jp/docs/news/2131093.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 80.0,
+      "price": null,
+      "detected_at": "2026-08-07T11:03:03.769151+09:00"
+    },
     {
       "title": "haruharu wonder、Qoo10メガ割に参加！人気商品がお得に買えるチャンス - wowKorea",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSHBWdlVXNThSeDBDTm9LZ3FGcGNzcWxpdWstcEVQZkRuU1pSbllVUDJFNnh3bFdlZDFBMHJJUXZmU055LWN3T1NLUW1aa2hHUDk0OHhET1VVclk?oc=5",
@@ -880,24 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 31.0,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "ポケトークや紛失防止タグ、更新料0円のセキュリティソフトなどが最大77%オフ！Amazonプライムデー先行セール(77%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122379.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 77.0,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "SteelSeriesのゲーミングデバイスが最大約47%オフ！期間限定セール(47%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2122290.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 47.0,
       "price": null,
       "detected_at": "2026-07-07T22:30:55.258784+09:00"
     }
