@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-07T11:03:03.769151+09:00",
+  "updated_at": "2026-08-08T09:46:58.337673+09:00",
   "deals": [
+    {
+      "title": "Samsung、楽天スーパーSALEで最新Galaxy製品が最大15%OFF。6月4日20時開始、Galaxy S26やTab S11、Watch8シリーズなどが対象 - Smart Watch Life",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HMzlYNWpMTGdEelhOMzQ2M0kyY1VSamdIV1FtT3JBdHM2RTM2c3B2d0JONW5CLUpKZ0lrTEhZWTBnQTQtXzNVQk5Rc1Q?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-08T09:46:58.337673+09:00"
+    },
+    {
+      "title": "Amazonデバイス対象のサマーセール。Fire TV Stick HDが29% OFF(29%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2131600.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 29.0,
+      "price": null,
+      "detected_at": "2026-08-08T09:46:58.337673+09:00"
+    },
+    {
+      "title": "スプリング・ジャパン、国内線で就航12周年記念タイムセール 東京/成田〜札幌/千歳線が片道4,500円など - TRAICY（トライシー）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fTGN5S09lTmgwMnBPTkVHLUQ4X01CVDZabVdjQm9jdTlpYy1JdzFzM0VRbjhwV0hpNnpUNmpOX2dZWFBKMmdnWHJkTWlFT1dsWFNaRnZjSQ?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-08T09:46:58.337673+09:00"
+    },
     {
       "title": "おもちゃ・スケールプラモ・トイガンなどが最大50%オフ！ DMM通販にて「激アツ！おもちゃ・ホビー夏セール」が開催(50%割引)",
       "url": "https://hobby.watch.impress.co.jp/docs/news/2131243.html",
@@ -871,33 +898,6 @@
       "source": "Amazon プライムセール ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "プライムデーはApple製品がお得　iPhone Airが最大26%OFF(26%割引)",
-      "url": "https://www.watch.impress.co.jp/docs/news/2123008.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 26.0,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "HPのOffice付きノートが30%オフでOfficeなしより安い逆転現象(30%割引)",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123191.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 30.0,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "CIOの小型GaN充電器が31%オフでセール中。Amazonでセール(31%割引)",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123154.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 31.0,
       "price": null,
       "detected_at": "2026-07-07T22:30:55.258784+09:00"
     }
