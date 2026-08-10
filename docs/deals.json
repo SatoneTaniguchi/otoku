@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-09T09:50:41.347286+09:00",
+  "updated_at": "2026-08-10T09:53:06.291339+09:00",
   "deals": [
+    {
+      "title": "Amazonデバイスが今欲しい→プライムデーで買い損ねた→「ちょいセール」開催中ですよ - ゴリミー",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZkVrOWtaUksxcEdhTzlRZS1nRHRxcmdkSVdtZUpyX05WeVdvcy1CTUdIR3FkcnUzZG1NYVRjZnR5bElySi1RQjFETDNfM2dJN3JlUHFB?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-10T09:53:06.291339+09:00"
+    },
     {
       "title": "ヤマダデンキのアイコス取扱店「IQOSショップ」はここ！割引はある？売り場はどこ？ - relazo.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxTUFuQ19nNXVRUHNNSHEzQ2xfRlREMXhoSm1sSDlTMFFNTXp6TER6RV9NQ3pZcG1KcURxR2gtLVkxd0tzQ3c?oc=5",
@@ -887,15 +896,6 @@
       "title": "【DORMIE】ウェブ限定のエントリーモデル・ゴルフ距離計「T80」が対象、「楽天スーパーSALE」連動セールを6月4日（木）より開催 - storyweb.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LQkJmempXUEdvT09OaHFnVzczbDJMY2JFZHNIbTlwbXBmeU10X1dwU1NiMlp3d3BWd3dIbldwU0xwcVZhRUUzdEhpQQ?oc=5",
       "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "バッファロー製ワイヤレスマウスがAmazonプライムデーでセールに - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSHZNelBHbEdpZmd3bnFUMGU5U2ZLS216UloyX0taS3VESG0zZVhkZ1h5cWVWTTBaWUhlYzRacTl3czBwV3YyY3F4NS10MlZER2w3QjFwT1lMTWZDUGJVNDZuVS16M2FMbWtaYW9vZVk?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
       "price": null,
