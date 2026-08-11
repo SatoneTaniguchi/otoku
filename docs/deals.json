@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-10T09:53:06.291339+09:00",
+  "updated_at": "2026-08-11T09:52:25.266730+09:00",
   "deals": [
+    {
+      "title": "【2026】JALタイムセール 次回いつ？早見表や運賃・買い方・年何回 - airstair.jp",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wSEhSb1Bud2VzUUM0eE9vRXBTLUwtbU50VkZWOElCRXl1Qnllb0NXTlRmVklVVVpFVV9NUGZiMWhDR010RFE?oc=5",
+      "source": "ANA/JAL セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-11T09:52:25.266730+09:00"
+    },
+    {
+      "title": "【2026】ソラシドエアのセール 次回いつ？ソラシドスペシャル攻略法・クーポンまとめ - airstair.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uQXdBVWFBVUI2SnRCNmR6TTgyVUdXa3hJTHBVb3JieWhVVE5XRXNrWW1kb3ZnaU9mZHNMZEx4TWVLb1dmOGRldHBmZFR4QQ?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-11T09:52:25.266730+09:00"
+    },
     {
       "title": "Amazonデバイスが今欲しい→プライムデーで買い損ねた→「ちょいセール」開催中ですよ - ゴリミー",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZkVrOWtaUksxcEdhTzlRZS1nRHRxcmdkSVdtZUpyX05WeVdvcy1CTUdIR3FkcnUzZG1NYVRjZnR5bElySi1RQjFETDNfM2dJN3JlUHFB?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-07T22:42:58.653069+09:00"
-    },
-    {
-      "title": "【2026年7月更新】iPhone17eキャンペーンと安く買う方法！お得なキャリアはどこ？ - economical.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpN3NwOGxOaUEyYlhDTWVBR3J6RnBNMEZqcVRxNWxmQTRkbUVoV0w2TVU4RmZsS3hQWHZsdk5yTVdyNHR0Qk9KZS15NHBsZ3dLYWZiVWlIdw?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
-    },
-    {
-      "title": "【DORMIE】ウェブ限定のエントリーモデル・ゴルフ距離計「T80」が対象、「楽天スーパーSALE」連動セールを6月4日（木）より開催 - storyweb.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LQkJmempXUEdvT09OaHFnVzczbDJMY2JFZHNIbTlwbXBmeU10X1dwU1NiMlp3d3BWd3dIbldwU0xwcVZhRUUzdEhpQQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-07T22:30:55.258784+09:00"
     }
   ]
 }
