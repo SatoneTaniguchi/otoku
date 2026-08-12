@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-11T09:52:25.266730+09:00",
+  "updated_at": "2026-08-12T09:58:44.798635+09:00",
   "deals": [
+    {
+      "title": "PS Storeにて開催中の「Summer Sale」が本日8月12日まで。PS5/PS4タイトルが最大80%オフに(80%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2130906.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 80.0,
+      "price": null,
+      "detected_at": "2026-08-12T09:58:44.798635+09:00"
+    },
+    {
+      "title": "Peach、航空券と宿泊がセットになった「ラストサマーセール」を開催中 - sky-budget.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXc1dtYkdCcWQ2RkNqWTZGSFdVUGpHNVdjVm11cmNRdXVZckd2LW8tdkxtY3d1b3I0VkRjalIwdkIzOWdZSXpBczNGcVhmdFh1MHUySG0yekxJOF9fWXo3THJhWQ?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-12T09:58:44.798635+09:00"
+    },
     {
       "title": "【2026】JALタイムセール 次回いつ？早見表や運賃・買い方・年何回 - airstair.jp",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wSEhSb1Bud2VzUUM0eE9vRXBTLUwtbU50VkZWOElCRXl1Qnllb0NXTlRmVklVVVpFVV9NUGZiMWhDR010RFE?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": 24.0,
       "price": null,
       "detected_at": "2026-07-08T10:28:17.895249+09:00"
-    },
-    {
-      "title": "【SwitchBot】Amazonプライムデー先行セール開催中。人気スマートホーム製品が最大58%OFF - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Q3ZpdHRqRkZ0SWFfbWZIWlhsOHoyNVJKbXNPVlo1LUtPVU83dXhtTEhIbFpRNDNrdXNKWVFBRXM3aE53V01XaEVlVGRKVUlCeXRaLW03VWtvSTc0Y3FMODNLcEpLRU1yTnc?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-07T22:47:53.669912+09:00"
-    },
-    {
-      "title": "ピーチ、国内外の航空券が片道4990円～の七夕セール。成田/関空～札幌/福岡/那覇/ソウル/台北など対象（トラベル Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VlBmSXNUb092X1R6YUE2dW5QZDR2MUFmQWtRNk8zcVJ2VF8tSVREdmdJNE1DSWxla1lQNUVHOXZRd1VHNVRWSnExb0F1UDNHMHJiUFFTNElEaTU4bWl3OW11eVZ0YUVnOV93WHFWbXhSZDl4NlBCeUh6WmgwaUk?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-07T22:42:58.653069+09:00"
     }
   ]
 }
