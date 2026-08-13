@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-12T09:58:44.798635+09:00",
+  "updated_at": "2026-08-13T10:00:30.585103+09:00",
   "deals": [
+    {
+      "title": "韓国発ヘアケアブランド「オールマシル」、Qoo10メガ割に参加！お得なセール情報をお届け - wowKorea",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcVVOY1B2MXFlVW5jNk5BV0JCcFY5QjJXUGJuOTJrRW41TFVCbUJZclJvQ0NUdVRKaUxqX1ZxWVRJeVI2M3JVVl9OUURWQ2taTFUzM0w5MXJ0QQ?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-13T10:00:30.585103+09:00"
+    },
+    {
+      "title": "【2026年8月】航空券セール・キャンペーン最新まとめ 開催中のセールと次回はいつか - airstair.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwTk1iTDJKM0RXdkp3T255QTB1aFRwWTlPc3R0Wm1mX1B0dk94ejl3ek5aZWZJN25kYnVkcUJVREI3bGFNWnBkM2E1aw?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-13T10:00:30.585103+09:00"
+    },
     {
       "title": "PS Storeにて開催中の「Summer Sale」が本日8月12日まで。PS5/PS4タイトルが最大80%オフに(80%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2130906.html",
@@ -880,24 +898,6 @@
       "source": "Amazon プライムセール ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-08T10:28:17.895249+09:00"
-    },
-    {
-      "title": "【Amazon プライムデー 2026】何が安くなる？ 先行セールの対象アイテムから、Apple製品をはじめとする目玉商品をリストアップ！ - GQ Japan",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VlJlb2xCYWN1VjgxM0MtM3BBdnh2ZEMteU9NdUFNc0NjblpPNWRuREE1ZEZjbUpJcVNZdmVkUkpLTGNVcWY4aUNBQjlJM2h0SDRsdEFQTWxzR0FESEthZ1NFWkN0aDNGYVFGX19ueWN1aEtFVTEtZEZibHhETjA?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-08T10:28:17.895249+09:00"
-    },
-    {
-      "title": "QCYイヤフォン「MeloBuds Pro」24% OFFの5300円、ヘッドフォンも低価格。Amazonプライムデー先行(24%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2123148.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 24.0,
       "price": null,
       "detected_at": "2026-07-08T10:28:17.895249+09:00"
     }
