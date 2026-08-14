@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-13T10:00:30.585103+09:00",
+  "updated_at": "2026-08-14T09:59:42.662392+09:00",
   "deals": [
+    {
+      "title": "「キングダム ハーツ」シリーズが最大70%OFF！ 「スクエニ SUMMER SALE Part 4」がPSストア、ニンテンドーeショップ、Steamで開催(70%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2132614.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 70.0,
+      "price": null,
+      "detected_at": "2026-08-14T09:59:42.662392+09:00"
+    },
     {
       "title": "韓国発ヘアケアブランド「オールマシル」、Qoo10メガ割に参加！お得なセール情報をお届け - wowKorea",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcVVOY1B2MXFlVW5jNk5BV0JCcFY5QjJXUGJuOTJrRW41TFVCbUJZclJvQ0NUdVRKaUxqX1ZxWVRJeVI2M3JVVl9OUURWQ2taTFUzM0w5MXJ0QQ?oc=5",
@@ -888,15 +897,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRnNYVVJIQkVWN3BSSmVWWFRRTlBtYUJGa2tRNWpXR083UkVNUF9XNkVUQU5xVU5OT1RwVHRjZDFWbnV2aFdFcDB1NDBEbUVtOVE?oc=5",
       "source": "無印良品週間 ニュース監視",
       "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-08T10:28:17.895249+09:00"
-    },
-    {
-      "title": "大阪王将公式通販Amazon店 Amazonプライムデー開催！Amazonプライム会員限定の年に1度の最大級ビッグセール - フーズチャネル",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNWNTRFMzVE9mYm53ei1fUVpUQmRZQ3h0MlBsbFhRY09vLXJVLS02ZGVOMUpOMERxdjdSdU9idEp4ckZsNF9zMGhsWWc4RTc1YXRWRzdB?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-08T10:28:17.895249+09:00"
