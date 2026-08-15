@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-14T09:59:42.662392+09:00",
+  "updated_at": "2026-08-15T09:35:32.912532+09:00",
   "deals": [
+    {
+      "title": "アンカー「Soundcore Liberty 5」がAmazonで20% OFF。“ウルトラノイキャン3.5”採用モデル(20%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2132819.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-08-15T09:35:32.912532+09:00"
+    },
     {
       "title": "「キングダム ハーツ」シリーズが最大70%OFF！ 「スクエニ SUMMER SALE Part 4」がPSストア、ニンテンドーeショップ、Steamで開催(70%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2132614.html",
@@ -891,15 +900,6 @@
       "discount_percent": 25.0,
       "price": null,
       "detected_at": "2026-07-09T10:50:07.793042+09:00"
-    },
-    {
-      "title": "【きょうから】無印良品週間、3・20よりスタート 無印良品メンバーは10％オフで“お得”に買い物【前回キャンペーン時の人気商品ランキング掲載】 - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRnNYVVJIQkVWN3BSSmVWWFRRTlBtYUJGa2tRNWpXR083UkVNUF9XNkVUQU5xVU5OT1RwVHRjZDFWbnV2aFdFcDB1NDBEbUVtOVE?oc=5",
-      "source": "無印良品週間 ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-08T10:28:17.895249+09:00"
     }
   ]
 }
