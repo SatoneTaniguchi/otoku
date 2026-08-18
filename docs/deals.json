@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-15T09:35:32.912532+09:00",
+  "updated_at": "2026-08-18T09:34:45.391060+09:00",
   "deals": [
+    {
+      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-18T09:34:45.391060+09:00"
+    },
     {
       "title": "アンカー「Soundcore Liberty 5」がAmazonで20% OFF。“ウルトラノイキャン3.5”採用モデル(20%割引)",
       "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2132819.html",
@@ -889,15 +898,6 @@
       "source": "Amazon プライムセール ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-09T10:50:07.793042+09:00"
-    },
-    {
-      "title": "クリエイティブPCスピーカー「Pebble」1949円、Bluetoothトランスミッタも25% OFF。Amazonセール(25%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2123414.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 25.0,
       "price": null,
       "detected_at": "2026-07-09T10:50:07.793042+09:00"
     }
