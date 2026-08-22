@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-19T09:35:03.893456+09:00",
+  "updated_at": "2026-08-22T09:34:49.397406+09:00",
   "deals": [
+    {
+      "title": "【8月22日更新】MacBook Proのセールを逃さずに安く買う７つの方法とどこで買うべきかを徹底解説 - ヤマネックス株式会社",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTejZzb2gtVWd0TlROQ0dsUGFEZzR2aXdodUpONXVHTHFfQzNDWnV0MWxycEQ1YmVfSEMydVZPM0JkOW1pNU9PUTZsdXJYakZzU09vYzRLc1BnMDBrYUlwbFR1MUxFUGhNRlpXNWJCLVVNazBMUmc?oc=5",
+      "source": "ヤマダ電機 セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-22T09:34:49.397406+09:00"
+    },
+    {
+      "title": "「ドラクエ7」スマホ版が期間限定で40%オフ！ セール実施中(40%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2134616.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 40.0,
+      "price": null,
+      "detected_at": "2026-08-22T09:34:49.397406+09:00"
+    },
+    {
+      "title": "NextorageのSDカードやCFExpressカードが最大35%オフ！Amazonセール(35%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2134354.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 35.0,
+      "price": null,
+      "detected_at": "2026-08-22T09:34:49.397406+09:00"
+    },
     {
       "title": "【8月18日更新】MacBook Neoを安く買う７つの方法！最安値は？学割はある？お得に買う裏技まで徹底調査 - mobile1.yamanex.co.jp",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GalBpSlBfX1hPQTRZdVZTc3BicjZqRkpFeEQyNGt5ZFFUdUZxRVBlWXZQdnpsWnhFaHp6STBNWUxVaTVJRnhzYWpvN1laYlNSdWxEMnJQNUxIQTJiYVR5RG41dFZVVjdFYTNZLTh0Nk9yZw?oc=5",
@@ -873,33 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-10T10:49:05.189147+09:00"
-    },
-    {
-      "title": "5GスマホやタブレットなどXiaomi製品が最大46%オフ！「Xiaomi Hyper Prime Day」が13日まで(46%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2123509.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 46.0,
-      "price": null,
-      "detected_at": "2026-07-10T10:49:05.189147+09:00"
-    },
-    {
-      "title": "日本の旅行アプリ、DL成長は国内勢の「じゃらん」が圧倒的首位 定番でも“大幅割引”キャンペーン施策が効果大 - オタク総研",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RUXJtWkFPdlVhTjhKVDFLWkg1dUZBZVoxUHY2SC1yU0VmSjNYYzFfVzgwQ0kyWWl6eVFueWtXeThYWTlpRlRieks5UQ?oc=5",
-      "source": "楽天トラベル/じゃらん セール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-10T10:49:05.189147+09:00"
-    },
-    {
-      "title": "楽天セールのゲーム割引情報まとめ｜次回開催はいつ？ - GameWith",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94a3NlOU5wRzB5UFR6ZWd0VVNDN0RWVFBPWVdlNUx3dzcyUEU3U2FLTnBwMFZRdjk5S3c2V1RGZEZoVjA3eElRMXpUbm8weGc3Y1NIdnR5Um0tRmdwRE8tMGlGMG52UQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-09T10:50:07.793042+09:00"
     }
   ]
 }
