@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-25T09:36:11.065392+09:00",
+  "updated_at": "2026-08-26T09:37:05.466155+09:00",
   "deals": [
+    {
+      "title": "MEMEBOXがプロデュースする「Nooni（ヌニ）」がQoo10「メガ割」で最大45％OFF！！日本TikTok累計 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1S1M1N2JKUi1CUlNEYWI5cTl5ZWhmWXBmUnZXRnpFcGdoRE1fNG5KOEJlR2dVV3F5Q3QzWEE0c0huQXpXaFRUdXl5ZXQ0TFZ5Vko3cFZDd3BTdVh6N3UwblZxNjJWVW9fTmRabzVlelFLODgyR3dvUFdMaw?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-26T09:37:05.466155+09:00"
+    },
+    {
+      "title": "サンコー、最大60%OFFの「夏物クリアランスセール」を開催(60%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2135523.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 60.0,
+      "price": null,
+      "detected_at": "2026-08-26T09:37:05.466155+09:00"
+    },
+    {
+      "title": "カゴメ「野菜生活100」の720mL×15本セットが30%オフで1,109円引き(30%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2135246.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 30.0,
+      "price": null,
+      "detected_at": "2026-08-26T09:37:05.466155+09:00"
+    },
     {
       "title": "Ankerの240W対応Type-Cケーブルが20%オフ(20%割引)",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2134884.html",
@@ -873,33 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-11T10:28:17.895290+09:00"
-    },
-    {
-      "title": "アドビCreative Cloud 50%OFFやiPhoneなど　プライムデー人気商品(50%割引)",
-      "url": "https://www.watch.impress.co.jp/docs/news/2124327.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 50.0,
-      "price": null,
-      "detected_at": "2026-07-11T10:28:17.895290+09:00"
-    },
-    {
-      "title": "【Kindleセール】「鋼の錬金術師」がセール中！1巻は80%オフ、2巻以降も最大50％オフの割引に(80%割引)",
-      "url": "https://manga.watch.impress.co.jp/docs/news/2124321.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 80.0,
-      "price": null,
-      "detected_at": "2026-07-11T10:28:17.895290+09:00"
-    },
-    {
-      "title": "Amazon Prime Day 2026｜コレクターが選ぶおすすめのワイヤレスイヤホン【セール対象品】 - 猫居のイヤホン",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sQ2ZzbGRuVHU2cy1UeXZOMzVmS2pITHRPYjZJRXFRc2FOQ3RfcWxlbEJkZ0J3ZlROZEVUUmljYlQ0X2lTT2RObnhGcHAxeThUMktQejBfT3BTX2FMNDV1dUE2c2Y?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-10T10:49:05.189147+09:00"
     }
   ]
 }
