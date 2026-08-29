@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-08-28T16:29:32.219471+09:00",
+  "updated_at": "2026-08-29T13:39:33.647536+09:00",
   "deals": [
+    {
+      "title": "【ニトリ】「毎月テーマ型セール」第3弾を開催。9月のテーマは「秋の模様替え」、対象商品350アイテムを期間限定10％OFFで提供。 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQkNZYjNoc01kVzMzaXlEb29Wb09RNWZ5T0lnZ2I0R3RPaXdJTjF2Ql94YjdIOTI4VDRZaVIxeGoycEkzZHdVbG05S2I1ZENXMFRvbG1EYlpGZmNQT1ZwdU5icDJ2T1A1eDVzUDc5M0VXdw?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "【9月の楽天スーパーSALEまでもう少し！】「商品比較サイト高評価」×「割引予想アイテム」のおすすめ39商品集めました! - マイベスト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fTWVYX29kRE5KZTIxUXVseDMweVh2c2V6RXlKWmdneUduOE0wNFJIcUJzVW5Wb1J3amxLSFotM3FoOVE1c3RQYQ?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "【楽天スーパーセール】9/4〜9/11まで開催。人気スニーカー＆ファッション商品などが最大半額以上の大幅値引き【Maison Margiela MM6 x Salomon / Nike / adidasなどショップまとめ】 - uptodate.tokyo",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JM0I5VzNYMTdJZkducTJ0VGpCREpsS1pkRXQxRkJOMGY3ejkydnFkaHZIdVBnRktydVplaW02VEZVWkd5aEZ5ekpDczVEcjhJYjVLclFfeDd2QzJLOHhsLWtR?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "【Amazonスマイルセール攻略法】8月28日から開催！ オトクになる方法やセール対象商品まとめ - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pQks2OVdycnhNZDdFMEN4WFNtRTZBOVZNV3hyTUtfVHJPUnpYQWV2X0hRc1BCOW5xUW90ZjJLVmFCcEVMV0JDMUUyY1Fwak1ySmJQWg?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "「メガ割で圧勝できました」に1600いいね、Qoo10セールがXで祭りになる理由 - shiritomo",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xSTV5NzhaY2hROGxBczMxRm1kdHBYS21xRjZZTGZBbFQwbXRxTFBGTUZQckZLSUh4RlRhUUxidUJWQQ?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "Qoo10、2026年8月28日〜9月9日 過去最大級規模の「20%メガ割」開催 - ECのミカタ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUFU3RTZQSmFISV9GWTExYnNmcC1zMG5kVk1oRFlwaTZHWjV3T1dsbnZaS2x1NXlsb3NLWGJxa20wTGhDSVJRZ1dRUG10TG9URUloZkVR?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "「Dead by Daylight」Switch版が65%オフで1,610円！ もうすぐ終了のセール情報まとめ【8月29日更新】(65%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2136533.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 65.0,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "キャンペーン：本日17時にジェットスター国内線・アジア路線セールが開始 片道2,990円から 台北・香港も対象 - デジカメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cUV4aW94Y1dGNENkWjQ1M2hWbkZqczYydDk0a0R5ZW5ZNDh2VHppeks4YXdvRmtuZXB6YlJNam9ldTJQa1BVYlkwSVY5c1JqU0Z6TWJPZlJlRzBsSzlwXzZ4a25vS2dBMjNlTHJkNA?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
+    {
+      "title": "【宮崎2026】ジェットスター「スーパースターセール」開催中！成田→宮崎が片道5,190円から|｜ほんみや宮崎 - ほんみや宮崎",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTi1WRVF1R1lxMGNhMXlrTVRnSi0tcnc2QUx0VHN0TXpjU0Rya1pCcVZBN3cwdWdUNEVfeEJCdUoyUkJIVjFydEl6SS13VHd4NzB0SkdWY0szLXpwbkUyN01QMDA2SEhySzNQQVFTU0dqUXZVdHpwaHVoSXBKOVBqcEVLbVNZU0F0MEE?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-29T13:39:33.647536+09:00"
+    },
     {
       "title": "楽天スーパーセール完全攻略ガイド（2026年9月）：いつから開始？ クーポンやお得に買い物をするコツ・情報まとめ - 電撃オンライン",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zck9MRkZCYkxOd0ZhZ0Q3QU1KV08wRFpzeFVncUJ6a2c5TElCc2ZKWVpfdW5xd2ttUVZPVXUzLXFoYldQMlpXU2I2SUkyMllUSUJqdDk0V3VrUQ?oc=5",
@@ -819,87 +900,6 @@
       "discount_percent": 60.0,
       "price": null,
       "detected_at": "2026-07-15T10:18:47.174597+09:00"
-    },
-    {
-      "title": "[本日限り] Amazonセール2026【7月最新】次はプライムデー！一番安い時期・攻略法も解説 - funq.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
-      "source": "ニトリ セール ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-14T10:19:46.885115+09:00"
-    },
-    {
-      "title": "ベッセルの電動ドライバーがお得！ Amazonプライムデー ボールグリップ型電動ドライバー「220USB-S1」は3376円 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOUU9wa2RJeTQ4Z2FrbXJmTkMyekkyWkphLUpGc3ZfLWg4WS15bUpMTWU3eE91TTZmcnVUYjU0M0RfaFdSblRSLTNzMTRfUkU5QlZiNG5rMGJLa2x6NXhaR1YyVUd2NDhKYlkzUnpkY2w?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-14T10:19:46.885115+09:00"
-    },
-    {
-      "title": "【本日最終日】見逃し注意！Amazonプライムデーでお得なキャンペーン＆サブスクまとめ（レタスクラブ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTWQ2WUcwUmluUEpzWld4Vkh0a0o3N2g5a0JIWTBUNWJxZzhuOElGUVp5MXBCcXNqbENwMzhuOGZrazNOSlZFS19tN2xUNlJoMjRBUm1fMzRIRkUxWDJ1QjZsZVpNU25TY0Q5VjJyeEFEOFNWUG41bGw2VjZTQ00?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-14T10:19:46.885115+09:00"
-    },
-    {
-      "title": "Nothing、KEFと音響設計「Headphone (1)」が25% OFF。スマホも低価格(25%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2124625.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 25.0,
-      "price": null,
-      "detected_at": "2026-07-14T10:19:46.885115+09:00"
-    },
-    {
-      "title": "AmazonにてKindle版「魔法少女リリカルなのは メモリアルビジュアルコレクション」が87%オフの499円で販売中！(87%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2124614.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 87.0,
-      "price": null,
-      "detected_at": "2026-07-14T10:19:46.885115+09:00"
-    },
-    {
-      "title": "蚊の季節到来！電気式蚊取り「アースノーマット」が安い！！【Amazonプライムデー】(41%割引)",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2124570.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 41.0,
-      "price": null,
-      "detected_at": "2026-07-14T10:19:46.885115+09:00"
-    },
-    {
-      "title": "【無印良品】最大2割引き”良いね祭”！夏の困りごとを解決する「おすすめ愛用グッズ」7選 - ヨムーノ",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TelBSdS1rT21Ed3RfYS1jZ1V3YnVYd25BQkQyb1VPdDJOWXp4YXVwdlhYVmFoN1F6TlNDYXZHNVB5c1k4?oc=5",
-      "source": "無印良品週間 ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-13T10:30:35.255689+09:00"
-    },
-    {
-      "title": "【本日最終日・最大65％OFF】“高いから後回し”で失っていたもの。Amazonプライムデーで、ルンバを選ぶ理由 - Business Insider Japan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4LTFHM21YbW5Fb1Z2QUdVVWpOdHZUMWJOSDBoTGFxX2VUVDhrWnNUWVhzRGp6VlloSV9mYVVhdTVaZW9FOEhTSGNCci1CQzRTMXAtY3RCbWIxQVFNWnRwS0pqbzl6QQ?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-13T10:30:35.255689+09:00"
-    },
-    {
-      "title": "【33％OFFも】夏ツーリングの準備はOK? 高コスパな「コミネ」の必見ギアがセール価格に! Amazonプライムデーの攻略法＆おすすめアイテム7選を紹介 - ヤングマシン",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GaWN0enhlMWpOcktUWVBGRTZQeFdyUzZNbVBQZTVmYTJET3l3QzJKT29SNGNGdjJYLWpLNE12SjF1V2FQN2dxVEFWS0E3amJXRXdFZmc3NA?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-13T10:30:35.255689+09:00"
     }
   ]
 }
