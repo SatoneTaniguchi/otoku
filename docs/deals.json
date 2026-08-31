@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-29T13:39:33.647536+09:00",
+  "updated_at": "2026-08-31T11:07:17.735279+09:00",
   "deals": [
+    {
+      "title": "【Qoo10メガ割開催】テレビで話題の自撮りモニター「Camee」が20％OFF。旅行・推し活・Vlog・家族写真まで、高画質な背面カメラで\"失敗しない自撮り\"を。 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sbGVrVnJGdkFEZ3I1amcxZTFueG92dEppc25Bd1BLRGdDNWJyUC1PT2J4X21zNVdvSTZ3b1p3NkdCcWJVQTNnMWNrYUdUaFVnTVpoUU1qNEg1TkcxRVQzTW8yU1RXdUI0a3c?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-08-31T11:07:17.735279+09:00"
+    },
     {
       "title": "【ニトリ】「毎月テーマ型セール」第3弾を開催。9月のテーマは「秋の模様替え」、対象商品350アイテムを期間限定10％OFFで提供。 - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQkNZYjNoc01kVzMzaXlEb29Wb09RNWZ5T0lnZ2I0R3RPaXdJTjF2Ql94YjdIOTI4VDRZaVIxeGoycEkzZHdVbG05S2I1ZENXMFRvbG1EYlpGZmNQT1ZwdU5icDJ2T1A1eDVzUDc5M0VXdw?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": 90.0,
       "price": null,
       "detected_at": "2026-07-16T10:26:55.010486+09:00"
-    },
-    {
-      "title": "PS Storeにて開催中の「7月のお買い得セール」が本日7月15日まで(60%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2123247.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 60.0,
-      "price": null,
-      "detected_at": "2026-07-15T10:18:47.174597+09:00"
     }
   ]
 }
