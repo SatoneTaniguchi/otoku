@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-31T11:07:17.735279+09:00",
+  "updated_at": "2026-09-01T11:27:43.999924+09:00",
   "deals": [
+    {
+      "title": "【最大約20％OFF】SUNEASTが「楽天スーパーSALE」に参加！人気SSD・メモリーカードを特別価格で販売、新商品も楽天先行登場 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYWZULUVDSm9PYmxrMlYyazZjQnNEM2NqSklrNDRHekoteDhsT1dJU2x1UXZxWEZ3QmgybHZtcVBPckZMcEVENW9vQVEzZGRWM2VrQTVpTkVmRl9ocERUVDlJcGtWUlNld3c?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-01T11:27:43.999924+09:00"
+    },
+    {
+      "title": "フレージュが楽天スーパーSALEに参加 最大50％OFFの特別価格で提供 - j-cast.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTTJUb0cwbzl5c0l0cjA2Q09QQlUwLW53dVF0YnEtV1Brc3JtMDJ0eGpMbkNNZHFsLTFiYk16VTRwNDlPbHlKMURHQWMxTC1PLUJZUklWSFpoSW83VU1OZi1FRjJjMnM?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-01T11:27:43.999924+09:00"
+    },
+    {
+      "title": "マネーフォワードME「Prime Coupon」にQoo10追加 メガ割でも使える10％OFFクーポン - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55VExLN1k1YTFYTVlaY3VUYkFMQzQ3UmF0dXdZbEVhUThLb2E1cERSemE3S0dIbzEtd2xHX1VTNExsckc0emhEWDNycm1mUnVaRHYyN3lRTlBNOUZrVHZj?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-01T11:27:43.999924+09:00"
+    },
     {
       "title": "【Qoo10メガ割開催】テレビで話題の自撮りモニター「Camee」が20％OFF。旅行・推し活・Vlog・家族写真まで、高画質な背面カメラで\"失敗しない自撮り\"を。 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sbGVrVnJGdkFEZ3I1amcxZTFueG92dEppc25Bd1BLRGdDNWJyUC1PT2J4X21zNVdvSTZ3b1p3NkdCcWJVQTNnMWNrYUdUaFVnTVpoUU1qNEg1TkcxRVQzTW8yU1RXdUI0a3c?oc=5",
@@ -871,33 +898,6 @@
       "source": "Amazon プライムセール ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-16T10:26:55.010486+09:00"
-    },
-    {
-      "title": "Edifierのニアフィールドモニター「MR4」が20% OFF。Amazonタイムセール(20%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2125410.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-07-16T10:26:55.010486+09:00"
-    },
-    {
-      "title": "4K液晶ブラビアがAmazonタイムセール。55型が39% OFF(39%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2125367.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 39.0,
-      "price": null,
-      "detected_at": "2026-07-16T10:26:55.010486+09:00"
-    },
-    {
-      "title": "最大90%オフ！ スパイク・チュンソフト、DL版がお得な「サマーセール」開催(90%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2125243.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 90.0,
       "price": null,
       "detected_at": "2026-07-16T10:26:55.010486+09:00"
     }
