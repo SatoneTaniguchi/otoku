@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-01T11:27:43.999924+09:00",
+  "updated_at": "2026-09-02T10:48:41.668159+09:00",
   "deals": [
+    {
+      "title": "【楽天スーパーSALE｜最大66％OFF】食欲の秋にも大活躍！“時短＆ヘルシー”で人気の調理家電、ベストセラーのコーヒー器具やオーラルケア製品など人気商品を中心に50アイテム以上がお得なプライスに - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wcllyQzFtdzFvaVoxRWhlVUx1c2VxUHJURUVBNGdDdGVwOWpUbzJDNmtwTUdGa2tWNmhTMTNQbU9KUDVWQnFBTm5IcGhDTDFiakhxQjJMSXZnXzU0TWZSbWRrSlZFZ2VXakE?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-02T10:48:41.668159+09:00"
+    },
+    {
+      "title": "ピーチ、国内外の航空券が片道3000円～のタイムセール。燃油サーチャージなし - トラベル Watch",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41U1Fjdm8zYzdjTF9zUnFjZ1U1R0pJQjJoUXRSeXNBTmFYT2F6cFZpVW9sXzB3UXZxRVBXcy1GSm9uQk00bV81NUdFUF9mWWFKNUV1M1pXM2x1R28yemR0aFg1dmJDNzk0?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-02T10:48:41.668159+09:00"
+    },
     {
       "title": "【最大約20％OFF】SUNEASTが「楽天スーパーSALE」に参加！人気SSD・メモリーカードを特別価格で販売、新商品も楽天先行登場 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYWZULUVDSm9PYmxrMlYyazZjQnNEM2NqSklrNDRHekoteDhsT1dJU2x1UXZxWEZ3QmgybHZtcVBPckZMcEVENW9vQVEzZGRWM2VrQTVpTkVmRl9ocERUVDlJcGtWUlNld3c?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-17T10:29:42.401753+09:00"
-    },
-    {
-      "title": "開催中 きせかえ 映画『仮面ライダーゼッツ さよならのミッション』カードきせかえ(20%ポイント還元)",
-      "url": "https://toku.yahoo.co.jp/campaign?sectionCode=paypay&paypaybanner",
-      "source": "PayPay キャンペーン一覧",
-      "category": "ポイント還元",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-07-17T10:29:42.401753+09:00"
-    },
-    {
-      "title": "【2026年Amazonプライムデー】アスハダシリーズ・ルクシア・健康食品が最大35%OFF｜2026年7月7日(火)～2026年7月13日(月)【美容・スキンケア・健康】 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KQm1vaDFFd09IRWtKUzMxSjRpZlJuUFdSeF9yenMyaktnSXJPRGNpRF93c21XTXhhTzQ1WDBueTA5Vk1MVkpuZ3NGenBaTDVpQVA0cldYR01QX2M?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-16T10:26:55.010486+09:00"
     }
   ]
 }
