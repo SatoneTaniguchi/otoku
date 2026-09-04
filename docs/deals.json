@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-03T10:54:45.609246+09:00",
+  "updated_at": "2026-09-04T10:50:46.535015+09:00",
   "deals": [
+    {
+      "title": "楽天市場・楽天トラベル「スーパーSALE」先行開始　冷蔵庫半額・宿泊35%オフ(35%割引)",
+      "url": "https://www.watch.impress.co.jp/docs/news/2138086.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 35.0,
+      "price": null,
+      "detected_at": "2026-09-04T10:50:46.535015+09:00"
+    },
     {
       "title": "【夏の蓄積疲労に】完全無添加バスソルト「エプソピア」、楽天スーパーSALE連動で「2個購入で＋1個プレゼント」＆最大20％OFFクーポン配布の特別キャンペーンを開催！ - Excite エキサイト",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkMGVjQUIzVmRWNy0zTnpPSlprZ1B1N1lZZE9Tano3YjVNWmxJTzZqckZ1cUwyN2V3SUxmZ0RwQ0VzU1ZNSGlIajJOUFVQZmJKdF9KT2c3eGJ1VzhTelZqWHZR?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-21T10:27:13.167482+09:00"
-    },
-    {
-      "title": "【本日20時】AGM-Glory 楽天市場店「スーパーSALE」先行入場でさらにお得！ - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xRTFuR2FQX3dsX1VwdVJOVUFNaW8zMVhuUGVnTDJpeHo5ZEpqbmhpVDVjQ2kzTzNNM1llS3NzSEZxWU4zNm5xaTZlZjF4UmQ1NEtTeHdndw?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-20T10:52:44.678655+09:00"
     }
   ]
 }
