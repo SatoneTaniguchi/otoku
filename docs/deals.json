@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-09-04T10:50:46.535015+09:00",
+  "updated_at": "2026-09-05T10:50:12.090789+09:00",
   "deals": [
+    {
+      "title": "ニトリnews｜8月既存店4.4%増/家具・家電・寝具寝装品など好調 - 流通スーパーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMjRNQUlpOF9ZcUgyS1ZQVDNIRTRTTVhFVTdKckpUT1FqajY4S0N0cFZFLVA4WE1aNjVEVHllUEVyN0tCSUZueWsxV0RCdFRuQ1B5TE82bWxwdw?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "楽天スーパーセール9月は何日がお得？2026年の狙い目・ポイントアップ日・キャンペーン情報まとめ - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2ZQSkpsRVgyX251dDVLWkRIczRPeE9KbFJXdlI5ZGFPYlFzT3hjTGp5azE0VDUzSjZEdW9DUENWZEhqUTJhMGF0V2J1SHN1YzZGdEptWVoxU1dwT1dnSWxJbzQ2T3FRMVJLQjctMDRNSGFPWnNuclFXamJ6UHlCSzN1by0wWjAyY3lxTVppd1dYcmF3czQxbmxXZks5SnJyZEoycy1qXzRaZTlzQUlQTDhXVzNpMEx4R3hYY0JQTUxqREFXZlpaWjhvdGFySVhvMTZ1dXFLMDJzUm5JVW9OVkpBcTc?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "サンワダイレクト楽天市場店 「楽天スーパーSALE」イベント開催！店内アイテム1,200点以上が半額＆割引！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vNkVxUDdIYTR6ZUNGSGpFX1haa1JmYnRjTktJNm9IcnZlZ3d6SEVldkdxeC1YV2FEalNWNWtFS25kU1pWMzJjS2xHNVpaTmRJNmtPVlA0TzJCaGc5ZHJKdHdrVWIxZ2tkMkpYZzhvWmNIR3J1STBmWVYzRQ?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "【9月最新】Qoo10メガ割で買うべきおすすめコスメ31選。LDKの高評価アイテムとお得なセットを紹介 - 360life.shinyusha.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92VUp6RUJZSVlRcmdSVmE5WlRMM0FuX1Nta0FGcEs1TlR6OW5uQk9jZldfMkdIc0wwQVc0dkZrOHFKVW95cXhoMjBOclhQOFpqR3Viem95WWNKeUVu?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "ハナミスイがQoo10メガ割でフェムケア製品の限定セット販売とクーポン配布を実施 - wowKorea",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QdnJhX1hfUWV1ejI5UU5DblNSYzFtTFhyM1h3Tm5jVWZfS0ZpNzVjOUJfOUVuQldwUDF4SGFSMDEyMGJxOVg3Ml9lS1VRTXBWVkxOX3JPM1lYdw?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "Xiaomi製品が最大50%オフ！楽天スーパーSALE(50%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138418.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "【楽天スーパーSALE】フィリップスのサウンドバーが最大57%OFFに！ 9月4日20時からセール開始(57%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2138193.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 57.0,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "【2026年】次回の楽天セールはいつ？どれがお得？年間カレンダーをチェック - mag.app-liv.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLY1gtdjY2aUhFN1ppdmtiUVZMSGdyMDJvU3hjekhNQW9jWXVPYVJaRkZwTGpPYS1wZkFQdVptTF9jQnVuYlI4eXZMSFZMVTQ?oc=5",
+      "source": "楽天トラベル/じゃらん セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "ALLDOCUBEのタブレットが楽天スーパーSALEでお買い得に！人気の「8インチ3兄弟」もセール対象 - ウインタブ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KYi16RWdZQjRSdzVlY3ZUdDA1NExWWVVicGJiemxUYzB4bGxpZncyeHZwTFRVR1dPbzc5bTl4amZJUE54cmZRZFFqdFp3Q1h1NFpMSEY3RDRQczU1dVBmSzlwRlhvQjA?oc=5",
+      "source": "楽天トラベル/じゃらん セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
+    {
+      "title": "【楽天スーパーセール】GTPLAYERゲーミングチェアが62％オフで大幅値下げ。メタモンSwitch2コントローラーや『あつ森』ヘッドセットもお買い得 - ファミ通.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QUVpyUXhHYmhaTVBxSnJZLVJINWozQzhTYWxkRHNmWTRIR0plZkF1VFRmeDIxdnBfRUI4d1N3R0RSS25SV2FKdkp2LTlOc1U3NFk4dWp2Zw?oc=5",
+      "source": "楽天トラベル/じゃらん セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-05T10:50:12.090789+09:00"
+    },
     {
       "title": "楽天市場・楽天トラベル「スーパーSALE」先行開始　冷蔵庫半額・宿泊35%オフ(35%割引)",
       "url": "https://www.watch.impress.co.jp/docs/news/2138086.html",
@@ -810,96 +900,6 @@
       "discount_percent": 30.0,
       "price": null,
       "detected_at": "2026-07-25T10:30:09.925891+09:00"
-    },
-    {
-      "title": "AmazonでレグザのフルHDゲーミングモニタが23% OFF。LG有機ELモニタも低価格(23%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2127753.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 23.0,
-      "price": null,
-      "detected_at": "2026-07-25T10:30:09.925891+09:00"
-    },
-    {
-      "title": "Amazonで「Kindle本サマーセール 第1弾」、3万冊以上が最大90％OFF！(50%割引)",
-      "url": "https://internet.watch.impress.co.jp/docs/shopping/2127499.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 50.0,
-      "price": null,
-      "detected_at": "2026-07-25T10:30:09.925891+09:00"
-    },
-    {
-      "title": "Galaxy S26 UltraやGalaxy TabなどSamsungデバイスが最大20%オフ！楽天お買い物マラソン(20%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127446.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-07-24T10:30:05.566623+09:00"
-    },
-    {
-      "title": "Xiaomiのスマートフォン・タブレットなどが最大27%オフ！楽天お買い物マラソン(27%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127449.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 27.0,
-      "price": null,
-      "detected_at": "2026-07-24T10:30:05.566623+09:00"
-    },
-    {
-      "title": "最大95%オフ！ 駿河屋にて通販限定セール「駿河屋 推し活・夏祭り応援セール」が7月24日12時より開催(95%割引)",
-      "url": "https://hobby.watch.impress.co.jp/docs/news/2127331.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 95.0,
-      "price": null,
-      "detected_at": "2026-07-24T10:30:05.566623+09:00"
-    },
-    {
-      "title": "【楽天スーパーSALE開催】 メンズコスメのザスも参戦。人気商品が最大50％OFF！ - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHYtcWpoYVlsRzlBdnItVXlrcXZRcnhxaWliWkt1Y24xUUxqMUtMaE8tODNjb2psdEI5WVRodHFrajhEWDRlc0hlMi1mYjBGUGJwUTNDTlFGRjdGbl9iSU5IM2RKeDZ4LWh1X1E3N3RHSnFWc1R5VjJPdlZnWURScGEyeDFmUnZkY1pSYmxTTVBCLXJRV0JKeEdlbndrdXJrNV95cGZiRXlfdTVkUFg2ZFZDQQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-23T10:45:39.491741+09:00"
-    },
-    {
-      "title": "プライムデーは終わったけど…「ジェラピケ」はセールプライス！ひんやり涼しい接触冷感がねらいめ - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZWmpHRFJIU2hVSHdlbDc2Z0pfUnZpVk01TkxhY0s5UkpNbkJnazk1WXFXVkVEdElRV3lGcWhjQWNySmU1YVZGaXRySXFyNjZpbHhkb3NzTGR6Mnh2eVREX0ZYMDZiVXJTXzNaY0hhLUZLVW1T?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-23T10:45:39.491741+09:00"
-    },
-    {
-      "title": "「Amazonプライムデー」先行セール開幕 Apple製品も登場 特別価格で販売【きょうから3日間開催】 - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNLWtUb1hwUHhzQ1M4OW5teVNwYUI3STduZjREWVRYYktQb3ZaWnZQRmZWS05TdlZoS2tQUnJRR3h5NkUwOEZZWDh2Z2ROQ0lZdzNDSWNxcXJ1enJLZGJIdWV0b2dEZEV4N0Y2Smd1eEZqRnlhamNldUpOYkpBLWFyTll4TGUyNlRFS1Fwd1M1Nk82WnlIVlFsSXQtSkwybzBmSzRIb3lfTWVCazA4aU1XaWF2VUplRFB4QlhVWWEwckJJYUFkNXF1ZFFrXzYtVF95bkZBTnh2VTRQRkhSWl9jaGY4WEtzRy1WajNQTjE0WVNNa3F3ZW1SMEQ3QWtyU3hOVEtxUERQTWVKX3RxX28wMmdsUGo4a1U1SVJxNWVzVzF3Z1FUa00wazRwZ01wTERKbEthbnFCcHp4cXZ0bWZUOVctRy10b3JROVliM1JKaw?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-22T10:25:49.285293+09:00"
-    },
-    {
-      "title": "【特大セール】Amazonプライムデーの先行セールで約５万円分を購入したので紹介してみた - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CVG4zUTJnRF9lRXhEaEV1M1RIdlpDcDBXaTRNS3RQTWZxZVB5cFVvcC0taFlnUXVYZ3NIdVZwV290VHY3VlVBOWN3R2IyZnppUlo2ZndrMHlCMk95?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-21T10:27:13.167482+09:00"
-    },
-    {
-      "title": "【Amazon プライムデー】最大40%OFF！先行セール本日7月7日（火）スタート - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HV1RTcXdBZ2FsdlhTbnV4WW5qeGdFekhjUGJvclBEYmdSbXZQdmxINzYyNHdhbUF4WVdRNXRRWjdGaEtBR3QyalR4ZGxIM0wtVmpvcVVqdk4yQTA?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-21T10:27:13.167482+09:00"
     }
   ]
 }
