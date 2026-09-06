@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-05T10:50:12.090789+09:00",
+  "updated_at": "2026-09-06T10:45:48.662472+09:00",
   "deals": [
+    {
+      "title": "SUNEASTやLexarのSDカード/SSDなどが最大約20%オフ！楽天スーパーSALE(20%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138508.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-09-06T10:45:48.662472+09:00"
+    },
     {
       "title": "ニトリnews｜8月既存店4.4%増/家具・家電・寝具寝装品など好調 - 流通スーパーニュース",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMjRNQUlpOF9ZcUgyS1ZQVDNIRTRTTVhFVTdKckpUT1FqajY4S0N0cFZFLVA4WE1aNjVEVHllUEVyN0tCSUZueWsxV0RCdFRuQ1B5TE82bWxwdw?oc=5",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 75.0,
-      "price": null,
-      "detected_at": "2026-07-25T10:30:09.925891+09:00"
-    },
-    {
-      "title": "ポータブルゲーミングPCやAndroidゲーム機が最大30%オフ！天空「在庫一掃SALE」(30%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127679.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 30.0,
       "price": null,
       "detected_at": "2026-07-25T10:30:09.925891+09:00"
     }
