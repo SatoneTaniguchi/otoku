@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-07T10:41:51.313363+09:00",
+  "updated_at": "2026-09-08T10:53:04.622608+09:00",
   "deals": [
+    {
+      "title": "楽天スーパーSALE、サンワダイレクトで1200点以上が半額・割引 11日まで - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWHZneGJnd2FXSThaLUJwbkpMeFFfa1hvay0xODc5S0FYYm9MOWh4RkROZmRlSjBjYmVoNkM4Mm8zLUpPbUdZMndGVHkzQ1BTbWNCSDdPcHROdnNyZkhoSVpibm5EUWM?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-08T10:53:04.622608+09:00"
+    },
+    {
+      "title": "【楽天スーパーSALE開催中】写真・動画撮影をもっと快適に。Lexarの高速CFexpress・SDカードが期間限定10％OFF - prtimes.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HQk8xcGQ1M25FRnJIam9MWTdNMVMtZnU5cS1KOTNiLUNobHNOb3pXNjZ4ZmtvaTFyRGNKMVFEeXdzSnNILTZTbFRMTU5aQlNkR1oyUk5wWUxWWkphQ2duTkJQV0pDcTEzTlE?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-08T10:53:04.622608+09:00"
+    },
     {
       "title": "【9月7日更新】Meta Questはどこで買うとお得？最安値は？安く買う方法を徹底調査！ - ヤマネックス株式会社",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LeWJ6YnRHeWZaemk0aVFUaXpaQlYxLUlFZDE2LUFKbGdXTkdYQkFCYkFZX3ZVNDB2MkNWZ005cFlYcFpnM3Q4MGFHbXNmd0p4bjNKYlIydEdnWThQTzh4cUVXRE1lZ1pFUXAyTkZtdWJ5eUU?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-07-28T10:26:08.607150+09:00"
-    },
-    {
-      "title": "「ドラクエ ロト三部作セット」が35%オフ！ 「スクエニ SUMMER SALE Part 3」が実施(35%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2128242.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 35.0,
-      "price": null,
-      "detected_at": "2026-07-28T10:26:08.607150+09:00"
-    },
-    {
-      "title": "【Amazonプライムデー】エフシーエルが≪最大50%OFF≫夏のドライブ応援セール開催 - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KM0llM19QbEZ0YWFnVmp5NnA1aGUyVnpiQ2V5d2dYb2Nnb0wyYXFGLUJIQlRSakQ2SFhLN3kyMGtHcjJ1Wk5TX3NpZUMwSTZRdXc?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-25T10:30:09.925891+09:00"
     }
   ]
 }
