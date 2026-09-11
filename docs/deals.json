@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-10T10:55:23.913165+09:00",
+  "updated_at": "2026-09-11T10:54:03.548470+09:00",
   "deals": [
+    {
+      "title": "楽天スーパーセールは明日（9/11）1時59分まで。UGREENワイヤレスイヤホンが45％オフ、Switch/PS5ソフトやゲーミングデバイスもお買い得 - ファミ通",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rRWJGek12MXdMdHJzVUFKVGxSbWVjeUdjYnhWRndQeWZqQ3psanlaNUxfeFllS21VOXRoaWFrdV80a2R1NjdDRWhndnBWeHppUjlhZk4tVQ?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-11T10:54:03.548470+09:00"
+    },
+    {
+      "title": "楽天スーパーSALEも今夜がラスト！半額続々の「限定タイムセール」を見逃すな - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDRHS3lFbEl3RWhDU2hyMTQ0cTRHYzNtZW52eDhZb0xKbXZGbmxwZk5UOUNqUWxiUVQwbjN0Ry1aZHhTY1djZXpkYi0tZWpteXZSNlFqWFUxemJiVU92YlpvLVdGU2tVcEpFQ1FjSmhmMmdaX1ZObFRBY1djZzhMMmhCajNveUZsazFhQU01S3V2ZUtuR3c?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-11T10:54:03.548470+09:00"
+    },
     {
       "title": "【楽天スーパーSALE】9/10・11限定クーポン配布！植物性100％、乳・卵不使用のヴィーガンスイーツ＆フードがさらにお得に｜MERCY Vegan Factory 楽天市場 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhSU5vMEx5emMxU2h2Tnoza0JzdWszM2hTbk1kZ05EYXU4N2dVd25yZ2NqWThOeEhQS1phdUw4NTZobmtCejhRb2NFcjVubTU4dmpVY09FOHRkVnBxT1JkbDh3ZWhJZDgxNUE?oc=5",
@@ -880,24 +898,6 @@
       "source": "ニトリ セール ニュース監視",
       "category": "生活雑貨・家具",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-30T10:18:58.054780+09:00"
-    },
-    {
-      "title": "待ってました。AirPods Pro 3がプライムデー後初の14%オフです - ライフハッカー",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Sczluc2JRVWVsZWhjMmdQRzhDY1ZwbDBSdEhyb283MGxjc19FUnZWem96dEJ0VUxoZGtxOWlVMGVBQi1PLVhyUXVqdUQ2RG5mTFZZUldoWWJNWXpCMkl1dDB4eVp0Y0JQelZ6dDNFVQ?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-30T10:18:58.054780+09:00"
-    },
-    {
-      "title": "アトラス「サマーセール」がPS Storeとニンテンドーeショップで開催。Switch版「ペルソナ5 ザ・ロイヤル」が70%オフ(70%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2128833.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 70.0,
       "price": null,
       "detected_at": "2026-07-30T10:18:58.054780+09:00"
     }
