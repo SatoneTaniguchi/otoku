@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-11T10:54:03.548470+09:00",
+  "updated_at": "2026-09-12T10:59:03.016133+09:00",
   "deals": [
+    {
+      "title": "【9月速報】iPhoneの投げ売り最新情報!1円iPhoneや返却なしのゲリラセール機種も! - economical.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMGxzX2ota0duNWdIZVhzMkYzVFl3M0xHam04T1N5Vm9jTE9VTGx0bHRfZU1yTEZyYjdQQzRHNVY4dGlwaW9ZV1daUUNmaHNhelRQYkl5UkFQMGs?oc=5",
+      "source": "ヤマダ電機 セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-12T10:59:03.016133+09:00"
+    },
+    {
+      "title": "【9月速報】Google Pixelの投げ売り最新情報!セールで一番安くなる時期やプロモーションコードは? - economical.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwT1NTUFkyb05KeW0xcEJwWmlJSkFjZ3RnNkNDdzJoc2dMNWdGdUF0UTFFS2RPMHVGMEVGXzRrMnZOeEJoa1VqNS0xSG83ZVYtSkVtaTlaYmR1UVpLVFd1X0tabw?oc=5",
+      "source": "ヤマダ電機 セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-12T10:59:03.016133+09:00"
+    },
     {
       "title": "楽天スーパーセールは明日（9/11）1時59分まで。UGREENワイヤレスイヤホンが45％オフ、Switch/PS5ソフトやゲーミングデバイスもお買い得 - ファミ通",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rRWJGek12MXdMdHJzVUFKVGxSbWVjeUdjYnhWRndQeWZqQ3psanlaNUxfeFllS21VOXRoaWFrdV80a2R1NjdDRWhndnBWeHppUjlhZk4tVQ?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": 26.0,
       "price": null,
       "detected_at": "2026-07-31T10:45:42.466791+09:00"
-    },
-    {
-      "title": "ジェットスター、国内線セール開催。9月～12月搭乗分、31日正午開始 - 旅行総合研究所タビリス",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuNWpGZzZtcS1BWFl4d3VXM2syOHhQSGhoWlZ5WnlrNWM5bnFreEd4dmtlMFpTQ3FBM0d4bUpKQzgtUWVmUS0yS0lpXy1EbThaRmlXVTJfN2FLeGh4ZXc?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-31T10:45:42.466791+09:00"
-    },
-    {
-      "title": "【ニトリ】家具・大型家電「夏の感謝祭」を8月7日(金)より11日間限定開催！人気商品を期間限定価格で提供、家具引取サービスもお得。 - prtimes.jp",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUjJsbXFBWWxxNUNaNUVJTkF1OUpIdzBXYkFkY3ZCdjR1Y1VZRkZQa3VYUjFPWGE1SHRLQ3lZd1hMSjNuOVA0ZTljdEx5QmNQblNXWWJVbElyYmtYVThwU21UUnhlb3FRQnc?oc=5",
-      "source": "ニトリ セール ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-07-30T10:18:58.054780+09:00"
     }
   ]
 }
