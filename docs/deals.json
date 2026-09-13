@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-12T10:59:03.016133+09:00",
+  "updated_at": "2026-09-13T10:52:45.330557+09:00",
   "deals": [
+    {
+      "title": "Peach の「片道5,000円タイムセール」9月14日の23:59まで、関西～香港やシンガポールも5,000円？ 秋冬の対象路線を調べてみた - 旅とおでかけ 鉄道チャンネル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40VzBpOERpR3VmUFhaQTZJNTN2dEJLVDhCaVpNSFBzVGVpY0NFZzNlekFWS1FZS3Z4bUZJY2dDYXA4THNmX3BqZEVUMHI?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-13T10:52:45.330557+09:00"
+    },
     {
       "title": "【9月速報】iPhoneの投げ売り最新情報!1円iPhoneや返却なしのゲリラセール機種も! - economical.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMGxzX2ota0duNWdIZVhzMkYzVFl3M0xHam04T1N5Vm9jTE9VTGx0bHRfZU1yTEZyYjdQQzRHNVY4dGlwaW9ZV1daUUNmaHNhelRQYkl5UkFQMGs?oc=5",
@@ -886,15 +895,6 @@
     {
       "title": "iPhone Airが最大26%OFF　アマゾンでApple製品がお得(26%割引)",
       "url": "https://www.watch.impress.co.jp/docs/news/2129200.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 26.0,
-      "price": null,
-      "detected_at": "2026-07-31T10:45:42.466791+09:00"
-    },
-    {
-      "title": "【Amazonセール】iPhone Airがタイムセールに登場！ 最大26%OFFとお買い得(26%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2129143.html",
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 26.0,
