@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-14T11:10:13.189101+09:00",
+  "updated_at": "2026-09-15T11:16:45.993045+09:00",
   "deals": [
+    {
+      "title": "画像4 / 7＞【2026年9月4日から11日まで】楽天スーパーSALE開催中！最大11倍の「買いまわり」やクーポンなど攻略法を解説 - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zeFVlV0tVQ1BUQm1UNTFWQkFadUp3NGNQeUlJMzZvSzJaYWxiMVltYW1pQ3dMZ0FQZVFFeWVubnRPUlZha2tObWctRURxX05jTFE4YWxnMDFMRHJVbEhWWUkxT0tzQ3I5aFd1eGd3?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-15T11:16:45.993045+09:00"
+    },
+    {
+      "title": "ソニー、PS5周辺機器セール。Amazonで純正ヘッドセットが最大29% OFF(29%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2140759.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 29.0,
+      "price": null,
+      "detected_at": "2026-09-15T11:16:45.993045+09:00"
+    },
+    {
+      "title": "ジェットスター国内7路線セール【9/15 16:59締切】成田〜旭川3,990円〜、関西〜札幌5,190円～・来年1月搭乗分まで対象 - 旅とおでかけ 鉄道チャンネル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPVjJhOXFwVGxiRHFuZDUzUGFCMWw2OGRJcXhkR0NhNXVJV3lSazRSemRkME9EbGl1SEtNOElpNHBPTFBGQ0o2R2JZTFE?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-15T11:16:45.993045+09:00"
+    },
+    {
+      "title": "【旅行】最大60%オフ「九州ふっこう応援割」初めての予約ガイド！いつから？対象エリアは？【聖地巡礼】（もみ） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXJvVWd6bEhhTWM1MGF0YVQzaGx1bDR0U1d0MWRNeUhVUmN2TnNyMzVDTjBsVnZ6aEZaMWx3R0o3LUpaa2JCS2h1bnpCTHk1Y2RRSDVmcUJIZjF1V2Y4RmZpNHIyc2ZkT19FYk9zNTlGMHdSblduWjI4QXFFc1VSNU5NbFI3Rngy?oc=5",
+      "source": "楽天トラベル/じゃらん セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-15T11:16:45.993045+09:00"
+    },
     {
       "title": "【楽天スーパーセール9月】半額商品・50%OFFクーポン一覧は？開催日程とおすすめセール情報 - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaVh1ekF3Ql9jeHhoai1vamNaM2RGcHJSbFRxSkpud2NhX1EwZmN3bVh6clJQeXBJS2h1aTdLVl9LZHI2MDhiVUFBaGMteDFHMWhIb3VEbkU4Tm9lWlZxQnJFQ3lwV1BUc0R3TXZPYW5FWFJLQ3NCZTk4QnZ3UDNFVXUxd08wOUFJUjAxNU1mMjdhME9uT1p6b2gwUFQzNVQ2NjdCMUs1MTN0ZUdnQVBhMEZTaUhZV2NDRmNoSm04NDNSM3VkYy0tSEFfMFVsMWtOeWUweWpxeC16dGcwQzZhWUFSaHFYZkU?oc=5",
@@ -864,42 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-02T10:43:22.970185+09:00"
-    },
-    {
-      "title": "キャンペーン外部主催PayPayではじめての方限定！Rocket Now(ロケットナウ)で最大全額戻ってくるPayPayスクラッチくじ2026/8/1        〜\n        8/31(20%ポイント還元)",
-      "url": "https://paypay.ne.jp/event/rocketnow-20260801/",
-      "source": "PayPay キャンペーン一覧",
-      "category": "ポイント還元",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-08-01T10:47:13.154465+09:00"
-    },
-    {
-      "title": "「ドラクエ5」スマホ版が40%オフ！ スクエニのスマホタイトルを対象としたサマーセールがスタート(40%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2129767.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 40.0,
-      "price": null,
-      "detected_at": "2026-08-01T10:47:13.154465+09:00"
-    },
-    {
-      "title": "ジェットスター、国内線セールで片道3790円から。成田～新千歳4590円、成田～福岡4990円など（トラベル Watch） - news.yahoo.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWF84NVY3Z1p0NVlUVm9nVWNyUmhVTzRXaTFJQkFqaHlpaGFpN3dGSFl3bWowVnZMRDNXTzd6RDhfeVprYS03MTNzOHlFeUc3cEtoOXAzUGdiN3VhN3RTUUh2RldpcUtXYkoybldQSWhQMk1sZjlzeDNBa2k2UTg?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-01T10:47:13.154465+09:00"
-    },
-    {
-      "title": "スプリング・ジャパン、就航12周年記念キャンペーンを開催 国内線を対象に4,500円～のセールを本日から実施 - sky-budget.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nd0JBZHI0WGVLZFVkOFJ1QUxZTHB3QTY2dDV3bm1BWWw0eG0xNXlFbGl2UThUQkJoeUJEdnZCNDdnZmFkYUJVSzltVDZ3dVB6OGtzWVB6Q0JVbE1kLUY5bmJiRkNfQlVKcnA2Vg?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-01T10:47:13.154465+09:00"
     }
   ]
 }
