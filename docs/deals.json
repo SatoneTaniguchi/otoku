@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-17T11:13:48.350149+09:00",
+  "updated_at": "2026-09-18T11:00:44.211776+09:00",
   "deals": [
+    {
+      "title": "2,490円でいいの!?【秋の感謝祭】「チャコールグレーなんてどんどん在庫なくなりそう…」複数買いするなら今しかない!!限定セール3選 - ヨムーノ",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkd2NZSnpyUHNPTmFBeWEtMmlPV2JKemlvbVgwNWlNSXRaMnpfQ3lRTFo0VWdoaGQwT1ZSOFZ4S0NxMWlF?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-18T11:00:44.211776+09:00"
+    },
+    {
+      "title": "【2026】敬老の日は三世代でお得に！シニア無料・割引のスポット＆キャンペーン8選 - いこーよニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55a00tdU1KeGhVTEttOE4tTlZXTmc3UXNPcThlczFGakF1WlV3b1E1Z3JsTXBtdFc4Rm1uUG9qVlpUUjlBMnMyVWdRVmtqUXdUNlE?oc=5",
+      "source": "映画・美術館割引デー ニュース監視",
+      "category": "イベント・レジャー",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-18T11:00:44.211776+09:00"
+    },
     {
       "title": "メガ割でのお得な買い物術は？ 意外な裏技は？ Qoo10攻略法を聞いてみた - マイナビウーマン",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xRXQ1RXYtVkxwZV85dm1IZ2VRZHFSTE8tOUI4OER5aTh1c0lrX25NQnZ3dFQzWXdCVUNnUkRTUmg4YkVMNGVGWGU3WlZmRUFTOGp6LXFVLW1XbFZhY0Nj?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": 25.0,
       "price": null,
       "detected_at": "2026-08-06T10:24:42.543844+09:00"
-    },
-    {
-      "title": "アンカー“ウルトラノイキャン2.0”イヤフォンが25% OFF。Amazonタイムセール(25%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2130469.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 25.0,
-      "price": null,
-      "detected_at": "2026-08-05T10:29:04.102918+09:00"
-    },
-    {
-      "title": "値上げ予定のWi-Fi 7ルーター「WSR3600BE4P」がクーポン+ポイント還元で実質1万円未満に、WSR6500BE6Pもクーポン適用可【追記】 - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmUDNkbHZKTHM2RDI4RFRabWl6LWpfSFZEQnQzc2Qyc1l2bW5rcjUyQ3o5a21mTkpjWWpfWXhna1lWNU84Yko0VHppdXppSjZKVGtsZ1dwYlJObGtUSTRUY2NKMVlqYUhNUUdqTQ?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-04T10:21:55.744337+09:00"
     }
   ]
 }
