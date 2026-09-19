@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-09-18T11:00:44.211776+09:00",
+  "updated_at": "2026-09-19T11:04:46.458624+09:00",
   "deals": [
+    {
+      "title": "感謝祭キターーッ！【ニトリのN+】秋服が値下げに♡ 今狙いたい『お買い得アイテム』＜9/18〜9/27＞ - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWtUMEVYQ3NRd2tWWU1aWTg4S0FTVm0zbjJpWWotUG5KelY5Mk15dnNtZzhjUFcwdVJhNzRFN3hIUGJfRFJNdDByaGJfQ1ZzRUlHRUJJUUZwclZBRGwyei1yaFNUTGdjREl3ZFNGV192T2liVXlxeUQ5U0dhbDlla0JBZzB2SHRpSlNseExkaGRrWHdsaFRNX0RGam91MV9JeWfSAacBQVVfeXFMUG1INGhvaUxCLUJ3RzlKbVhJRlA4d2hseE50QW9xX1UyLTU2LVpCZ2ZFWWJLYmo3TTAtZ2hOQXVSVnlZZVVZU0lBSDIzalV4TG1fZlgySnlXVUVBaTJVYmY5dk5BZFFBc2pBTHhvSzE2YnBSbmpCT09mNWl4S2p3ZVhsbnVFTkE4bFRNV29SS1hPOWxFTXA3WFJnU1FzTUFaMklyWEc2WHc?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-19T11:04:46.458624+09:00"
+    },
+    {
+      "title": "【今週末のキャンペーン情報5選】ドミノ・ピザ2枚目無料、かつやご飯大盛無料、ニトリ秋の感謝祭… [家計簿・家計管理] All About - All About（オールアバウト）",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxNVZDbDM4NUhZSWtxTENyV1VnQm9nUWNQYmdzUU9Ldk1qdlAwTmNkMWpXY2laVGY1Z3daUndnXzNVbDRyTWVNUnIyZHI?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-19T11:04:46.458624+09:00"
+    },
+    {
+      "title": "Switch2版「FF7リバース」が半額！ もうすぐ終了のセール情報まとめ【9月19日更新】(75%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2141872.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 75.0,
+      "price": null,
+      "detected_at": "2026-09-19T11:04:46.458624+09:00"
+    },
+    {
+      "title": "AmazonでアンカーUSB充電器がタイムセール。ピカチュウモデル38% OFF(38%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2142301.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 38.0,
+      "price": null,
+      "detected_at": "2026-09-19T11:04:46.458624+09:00"
+    },
+    {
+      "title": "ジェットスター・ジャパン、国内・国際線を対象に片道3,790円からの創業15周年記念セールを9月25日12時から開催 - sky-budget.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTzlrMnNKM0x2RXFyMDNjM05SZ21iNGIwQ2FzUk4xZGprVU1yc0pIeWQxNFBDekVaWW9tUjhvS3B5aDFkdkJEY0loaGViQjNxVUxfb25NSnp6V2xOSHhOMEljcjFQYjgtX29wXw?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-19T11:04:46.458624+09:00"
+    },
     {
       "title": "2,490円でいいの!?【秋の感謝祭】「チャコールグレーなんてどんどん在庫なくなりそう…」複数買いするなら今しかない!!限定セール3選 - ヨムーノ",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkd2NZSnpyUHNPTmFBeWEtMmlPV2JKemlvbVgwNWlNSXRaMnpfQ3lRTFo0VWdoaGQwT1ZSOFZ4S0NxMWlF?oc=5",
@@ -855,51 +900,6 @@
       "discount_percent": 50.0,
       "price": null,
       "detected_at": "2026-08-07T11:03:03.769151+09:00"
-    },
-    {
-      "title": "【Kindleセール】続編コミカライズ刊行記念！「ゲート」シリーズ対象作品が無料＆最大80%オフ！(80%割引)",
-      "url": "https://manga.watch.impress.co.jp/docs/news/2131093.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 80.0,
-      "price": null,
-      "detected_at": "2026-08-07T11:03:03.769151+09:00"
-    },
-    {
-      "title": "haruharu wonder、Qoo10メガ割に参加！人気商品がお得に買えるチャンス - wowKorea",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RSHBWdlVXNThSeDBDTm9LZ3FGcGNzcWxpdWstcEVQZkRuU1pSbllVUDJFNnh3bFdlZDFBMHJJUXZmU055LWN3T1NLUW1aa2hHUDk0OHhET1VVclk?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-06T10:24:42.543844+09:00"
-    },
-    {
-      "title": "「ピクロス」シリーズが20％OFF・「ワーキング ゾンビーズ」が80%OFFに！　「ジュピターサマーセール 2026」開催(80%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2130432.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 80.0,
-      "price": null,
-      "detected_at": "2026-08-06T10:24:42.543844+09:00"
-    },
-    {
-      "title": "Amazonでレッドブル24本セットが20% OFF。炭酸水や麦茶も低価格(20%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2130821.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-08-06T10:24:42.543844+09:00"
-    },
-    {
-      "title": "JBL最上位完全ワイヤレス「TOUR PRO 3」、Amazon限定モデルが25% OFF(25%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2130808.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 25.0,
-      "price": null,
-      "detected_at": "2026-08-06T10:24:42.543844+09:00"
     }
   ]
 }
