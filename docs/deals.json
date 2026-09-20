@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-19T11:04:46.458624+09:00",
+  "updated_at": "2026-09-20T11:09:44.067703+09:00",
   "deals": [
+    {
+      "title": "半期に一度の大決算！大出血算（決算）セール開催中！～出血覚悟で3つのオトクをご用意～ - 株式会社ノジマ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oRnhNTzZXdDVBTXVOZ2FrS0FrOUZheTVNLUJUU3ViUjRXUmtybU5GRWFoY1VsQU9CUUY4Yk9rbFpud2VubGlFVGhqLU1ZVXVjeVprMmtVMmwtMkFNaWNqYVp3?oc=5",
+      "source": "ノジマ セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-20T11:09:44.067703+09:00"
+    },
+    {
+      "title": "【楽天スーパーSALE】KEIYO公式ショップ、年に数回だけのビッグセール開催！全商品ポイント5倍＆最大13,000円OFFクーポン。人気商品をスーパーSALE限定価格で販売(画像ギャラリー No.14) - MOTA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaUmJVWWs1U0tOaDFOSnNGdnhtV0Nab0hINlE1aC1oUTl6bVNyX3NrUWdYNXVuelNLOW9JR1VIaElIMEpQdEhid1pKQW5iN3VQLUthV3FhSDJvLVhGN1E?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-20T11:09:44.067703+09:00"
+    },
     {
       "title": "感謝祭キターーッ！【ニトリのN+】秋服が値下げに♡ 今狙いたい『お買い得アイテム』＜9/18〜9/27＞ - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWtUMEVYQ3NRd2tWWU1aWTg4S0FTVm0zbjJpWWotUG5KelY5Mk15dnNtZzhjUFcwdVJhNzRFN3hIUGJfRFJNdDByaGJfQ1ZzRUlHRUJJUUZwclZBRGwyei1yaFNUTGdjREl3ZFNGV192T2liVXlxeUQ5U0dhbDlla0JBZzB2SHRpSlNseExkaGRrWHdsaFRNX0RGam91MV9JeWfSAacBQVVfeXFMUG1INGhvaUxCLUJ3RzlKbVhJRlA4d2hseE50QW9xX1UyLTU2LVpCZ2ZFWWJLYmo3TTAtZ2hOQXVSVnlZZVVZU0lBSDIzalV4TG1fZlgySnlXVUVBaTJVYmY5dk5BZFFBc2pBTHhvSzE2YnBSbmpCT09mNWl4S2p3ZVhsbnVFTkE4bFRNV29SS1hPOWxFTXA3WFJnU1FzTUFaMklyWEc2WHc?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": 29.0,
       "price": null,
       "detected_at": "2026-08-08T09:46:58.337673+09:00"
-    },
-    {
-      "title": "スプリング・ジャパン、国内線で就航12周年記念タイムセール 東京/成田〜札幌/千歳線が片道4,500円など - TRAICY（トライシー）",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fTGN5S09lTmgwMnBPTkVHLUQ4X01CVDZabVdjQm9jdTlpYy1JdzFzM0VRbjhwV0hpNnpUNmpOX2dZWFBKMmdnWHJkTWlFT1dsWFNaRnZjSQ?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-08T09:46:58.337673+09:00"
-    },
-    {
-      "title": "おもちゃ・スケールプラモ・トイガンなどが最大50%オフ！ DMM通販にて「激アツ！おもちゃ・ホビー夏セール」が開催(50%割引)",
-      "url": "https://hobby.watch.impress.co.jp/docs/news/2131243.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 50.0,
-      "price": null,
-      "detected_at": "2026-08-07T11:03:03.769151+09:00"
     }
   ]
 }
