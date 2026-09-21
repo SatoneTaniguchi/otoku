@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-20T11:09:44.067703+09:00",
+  "updated_at": "2026-09-21T11:10:17.172994+09:00",
   "deals": [
+    {
+      "title": "Amazonプライムデー2026 目玉・掘り出し物 セール速報｜随時更新でお得を逃さない - ゴリミー",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wWGNiU2h6MVE0ZVB0NngtalVIbU5ONWUtYWdmY0hRZ0xCdEZXblQwMjlSV2Fmc1kwY0hIQXRyRk1xdV9OdjhTaXl5SGRXTVNTZmlB?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-21T11:10:17.172994+09:00"
+    },
     {
       "title": "半期に一度の大決算！大出血算（決算）セール開催中！～出血覚悟で3つのオトクをご用意～ - 株式会社ノジマ",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oRnhNTzZXdDVBTXVOZ2FrS0FrOUZheTVNLUJUU3ViUjRXUmtybU5GRWFoY1VsQU9CUUY4Yk9rbFpud2VubGlFVGhqLU1ZVXVjeVprMmtVMmwtMkFNaWNqYVp3?oc=5",
@@ -889,15 +898,6 @@
       "source": "楽天スーパーSALE ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-08T09:46:58.337673+09:00"
-    },
-    {
-      "title": "Amazonデバイス対象のサマーセール。Fire TV Stick HDが29% OFF(29%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2131600.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 29.0,
       "price": null,
       "detected_at": "2026-08-08T09:46:58.337673+09:00"
     }
