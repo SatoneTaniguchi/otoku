@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-21T11:10:17.172994+09:00",
+  "updated_at": "2026-09-22T11:15:32.378455+09:00",
   "deals": [
+    {
+      "title": "ホムセンで買う必要無くなったかも！？【ニトリがやりおった…】5,000円もお得！「秋の感謝祭」期間限定価格は9月28日まで - ヨムーノ",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1UENUWmcxUEMyXzZJaExMVEdHU2NZWFVCbDEtYklvMXhJVnNCRXUzeTFIdVZmeEFMQ2FQX2JwZ1l5Xzhy?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-22T11:15:32.378455+09:00"
+    },
     {
       "title": "Amazonプライムデー2026 目玉・掘り出し物 セール速報｜随時更新でお得を逃さない - ゴリミー",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wWGNiU2h6MVE0ZVB0NngtalVIbU5ONWUtYWdmY0hRZ0xCdEZXblQwMjlSV2Fmc1kwY0hIQXRyRk1xdV9OdjhTaXl5SGRXTVNTZmlB?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-09T09:50:41.347286+09:00"
-    },
-    {
-      "title": "Samsung、楽天スーパーSALEで最新Galaxy製品が最大15%OFF。6月4日20時開始、Galaxy S26やTab S11、Watch8シリーズなどが対象 - Smart Watch Life",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HMzlYNWpMTGdEelhOMzQ2M0kyY1VSamdIV1FtT3JBdHM2RTM2c3B2d0JONW5CLUpKZ0lrTEhZWTBnQTQtXzNVQk5Rc1Q?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-08T09:46:58.337673+09:00"
     }
   ]
 }
