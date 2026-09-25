@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-22T11:15:32.378455+09:00",
+  "updated_at": "2026-09-25T11:19:08.679026+09:00",
   "deals": [
+    {
+      "title": "PS5、PS4タイトルがお買い得！ PSストア「1,500円以下セール」10月7日まで開催(85%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2142855.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 85.0,
+      "price": null,
+      "detected_at": "2026-09-25T11:19:08.679026+09:00"
+    },
     {
       "title": "ホムセンで買う必要無くなったかも！？【ニトリがやりおった…】5,000円もお得！「秋の感謝祭」期間限定価格は9月28日まで - ヨムーノ",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1UENUWmcxUEMyXzZJaExMVEdHU2NZWFVCbDEtYklvMXhJVnNCRXUzeTFIdVZmeEFMQ2FQX2JwZ1l5Xzhy?oc=5",
@@ -888,15 +897,6 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxTUFuQ19nNXVRUHNNSHEzQ2xfRlREMXhoSm1sSDlTMFFNTXp6TER6RV9NQ3pZcG1KcURxR2gtLVkxd0tzQ3c?oc=5",
       "source": "ヤマダ電機 セール ニュース監視",
       "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-09T09:50:41.347286+09:00"
-    },
-    {
-      "title": "【最大60％OFF】楽天スーパーSALE｜6月最後の0がつく日！！ランキング１位獲得の大人気「YOKONEGUポータブル」や「HUGNEGU」など快適な眠りをサポートする枕シリーズが超お得に - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUzVHVmNaazdNMUJxeC1SX1ZGZEpmSTNHVTI0bmVheTlHM2dHY1dwX01wRHZOX0JMczZ4aHR4UmgzS2NDUEFJTFRWSXhwWDJyMHRIRG5lQzAwYnM?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-09T09:50:41.347286+09:00"
