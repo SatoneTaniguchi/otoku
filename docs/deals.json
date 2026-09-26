@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-25T11:19:08.679026+09:00",
+  "updated_at": "2026-09-26T11:23:56.613100+09:00",
   "deals": [
+    {
+      "title": "ニトリ「秋の感謝祭」開催中！ベッドやチェア、ドラム式洗濯乾燥機など約600アイテムがお得に。 - bg-mania.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wYkNLbGcyclVYc3JVSy11Y1psSmxkdU9JQ2xRbHVTQzdSbU5xUWFvcm94eUI3S3JPTEpwcWNVT3IwSjB6UUdmQ2UwQ3oydktRYU8w?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-26T11:23:56.613100+09:00"
+    },
+    {
+      "title": "インプレス本も最大半額！対象電子書籍が最大75%オフの「Kindle本 秋の特別セール」(75%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2143065.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 75.0,
+      "price": null,
+      "detected_at": "2026-09-26T11:23:56.613100+09:00"
+    },
+    {
+      "title": "ジェットスター15周年記念セールで 国内全18路線3,790円〜、アジア路線は6990円～！スカイライナー700円の裏ワザ＆注意点 - tetsudo-ch.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00QVBmQktsa0JuNGx2dU9HS2NXWW1BOGFMTVozS2ZuNEpYWjdiX3d6bjQ2RUlzbjNIWE9pSnpiUjZIZEJ2UWphRlBVOVM?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-26T11:23:56.613100+09:00"
+    },
     {
       "title": "PS5、PS4タイトルがお買い得！ PSストア「1,500円以下セール」10月7日まで開催(85%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2142855.html",
@@ -873,33 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-11T09:52:25.266730+09:00"
-    },
-    {
-      "title": "【2026】ソラシドエアのセール 次回いつ？ソラシドスペシャル攻略法・クーポンまとめ - airstair.jp",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uQXdBVWFBVUI2SnRCNmR6TTgyVUdXa3hJTHBVb3JieWhVVE5XRXNrWW1kb3ZnaU9mZHNMZEx4TWVLb1dmOGRldHBmZFR4QQ?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-11T09:52:25.266730+09:00"
-    },
-    {
-      "title": "Amazonデバイスが今欲しい→プライムデーで買い損ねた→「ちょいセール」開催中ですよ - ゴリミー",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZkVrOWtaUksxcEdhTzlRZS1nRHRxcmdkSVdtZUpyX05WeVdvcy1CTUdIR3FkcnUzZG1NYVRjZnR5bElySi1RQjFETDNfM2dJN3JlUHFB?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-10T09:53:06.291339+09:00"
-    },
-    {
-      "title": "ヤマダデンキのアイコス取扱店「IQOSショップ」はここ！割引はある？売り場はどこ？ - relazo.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxTUFuQ19nNXVRUHNNSHEzQ2xfRlREMXhoSm1sSDlTMFFNTXp6TER6RV9NQ3pZcG1KcURxR2gtLVkxd0tzQ3c?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-09T09:50:41.347286+09:00"
     }
   ]
 }
