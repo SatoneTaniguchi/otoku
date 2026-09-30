@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-28T11:24:35.633037+09:00",
+  "updated_at": "2026-09-30T11:49:33.872917+09:00",
   "deals": [
+    {
+      "title": "大洗水族館「東京都民の日」にあわせて割引キャンペーン - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15Um8zSmNNZjZzQzNXS0x3WWFJS2puSGhKN0FiVUh6TXM2QTZFcnE0MllVbWxxSXpJcXFFWHZvejhHemstLTZ1a2xRaHQzRHRIWHNxWGR6Qy1ySXdR?oc=5",
+      "source": "映画・美術館割引デー ニュース監視",
+      "category": "イベント・レジャー",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-09-30T11:49:33.872917+09:00"
+    },
     {
       "title": "ブラウンの電動シェーバーが43%オフで8,947円にて購入可能(43%割引)",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 80.0,
-      "price": null,
-      "detected_at": "2026-08-12T09:58:44.798635+09:00"
-    },
-    {
-      "title": "Peach、航空券と宿泊がセットになった「ラストサマーセール」を開催中 - sky-budget.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXc1dtYkdCcWQ2RkNqWTZGSFdVUGpHNVdjVm11cmNRdXVZckd2LW8tdkxtY3d1b3I0VkRjalIwdkIzOWdZSXpBczNGcVhmdFh1MHUySG0yekxJOF9fWXo3THJhWQ?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-12T09:58:44.798635+09:00"
     }
