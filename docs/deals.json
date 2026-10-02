@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-30T11:49:33.872917+09:00",
+  "updated_at": "2026-10-02T11:58:15.187864+09:00",
   "deals": [
+    {
+      "title": "Switch「バニーガーデン2」20%オフ！ qureateオータムセールが開催(20%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2145079.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-10-02T11:58:15.187864+09:00"
+    },
     {
       "title": "大洗水族館「東京都民の日」にあわせて割引キャンペーン - リセマム",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15Um8zSmNNZjZzQzNXS0x3WWFJS2puSGhKN0FiVUh6TXM2QTZFcnE0MllVbWxxSXpJcXFFWHZvejhHemstLTZ1a2xRaHQzRHRIWHNxWGR6Qy1ySXdR?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-13T10:00:30.585103+09:00"
-    },
-    {
-      "title": "PS Storeにて開催中の「Summer Sale」が本日8月12日まで。PS5/PS4タイトルが最大80%オフに(80%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2130906.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 80.0,
-      "price": null,
-      "detected_at": "2026-08-12T09:58:44.798635+09:00"
     }
   ]
 }
