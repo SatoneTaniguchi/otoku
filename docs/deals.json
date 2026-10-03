@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-02T11:58:15.187864+09:00",
+  "updated_at": "2026-10-03T11:44:23.918761+09:00",
   "deals": [
+    {
+      "title": "セガ「Steam Autumn Sale」10月15日まで開催！ 「龍が如く 極３/龍が如く３外伝」「龍が如く０」が50%OFFに(50%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2145123.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-10-03T11:44:23.918761+09:00"
+    },
     {
       "title": "Switch「バニーガーデン2」20%オフ！ qureateオータムセールが開催(20%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2145079.html",
@@ -888,15 +897,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcVVOY1B2MXFlVW5jNk5BV0JCcFY5QjJXUGJuOTJrRW41TFVCbUJZclJvQ0NUdVRKaUxqX1ZxWVRJeVI2M3JVVl9OUURWQ2taTFUzM0w5MXJ0QQ?oc=5",
       "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-13T10:00:30.585103+09:00"
-    },
-    {
-      "title": "【2026年8月】航空券セール・キャンペーン最新まとめ 開催中のセールと次回はいつか - airstair.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwTk1iTDJKM0RXdkp3T255QTB1aFRwWTlPc3R0Wm1mX1B0dk94ejl3ek5aZWZJN25kYnVkcUJVREI3bGFNWnBkM2E1aw?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-13T10:00:30.585103+09:00"
