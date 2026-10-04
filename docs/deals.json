@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-03T11:44:23.918761+09:00",
+  "updated_at": "2026-10-04T12:15:35.361959+09:00",
   "deals": [
+    {
+      "title": "「楽天市場」、商品ジャンルごとのキャンペーンが集結する新セールイベント「ジャンル祭」を開催 - 楽天グループ株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tbjI2N0did2poODg3N2ZlNHBuR2dTckRuSlh5V2xRelI1bWRxeVBFRnFiUmc0YVJNTDNZSU9FX2paR0NYUlU1TGEwR3AtZktTZzc5UXkzYnhNd3lXR3B2MDZ1VnlTQTQ?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-04T12:15:35.361959+09:00"
+    },
     {
       "title": "セガ「Steam Autumn Sale」10月15日まで開催！ 「龍が如く 極３/龍が如く３外伝」「龍が如く０」が50%OFFに(50%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2145123.html",
@@ -891,15 +900,6 @@
       "discount_percent": 70.0,
       "price": null,
       "detected_at": "2026-08-14T09:59:42.662392+09:00"
-    },
-    {
-      "title": "韓国発ヘアケアブランド「オールマシル」、Qoo10メガ割に参加！お得なセール情報をお届け - wowKorea",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcVVOY1B2MXFlVW5jNk5BV0JCcFY5QjJXUGJuOTJrRW41TFVCbUJZclJvQ0NUdVRKaUxqX1ZxWVRJeVI2M3JVVl9OUURWQ2taTFUzM0w5MXJ0QQ?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-13T10:00:30.585103+09:00"
     }
   ]
 }
