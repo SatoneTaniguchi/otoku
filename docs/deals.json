@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-04T12:15:35.361959+09:00",
+  "updated_at": "2026-10-05T11:51:11.321514+09:00",
   "deals": [
+    {
+      "title": "137言語翻訳のAIスマートグラスがAmazonでセール。21%OFFで2万円台に(21%割引)",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2145519.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 21.0,
+      "price": null,
+      "detected_at": "2026-10-05T11:51:11.321514+09:00"
+    },
     {
       "title": "「楽天市場」、商品ジャンルごとのキャンペーンが集結する新セールイベント「ジャンル祭」を開催 - 楽天グループ株式会社",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tbjI2N0did2poODg3N2ZlNHBuR2dTckRuSlh5V2xRelI1bWRxeVBFRnFiUmc0YVJNTDNZSU9FX2paR0NYUlU1TGEwR3AtZktTZzc5UXkzYnhNd3lXR3B2MDZ1VnlTQTQ?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": 20.0,
       "price": null,
       "detected_at": "2026-08-15T09:35:32.912532+09:00"
-    },
-    {
-      "title": "「キングダム ハーツ」シリーズが最大70%OFF！ 「スクエニ SUMMER SALE Part 4」がPSストア、ニンテンドーeショップ、Steamで開催(70%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2132614.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 70.0,
-      "price": null,
-      "detected_at": "2026-08-14T09:59:42.662392+09:00"
     }
   ]
 }
