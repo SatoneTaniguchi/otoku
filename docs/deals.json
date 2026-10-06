@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-05T11:51:11.321514+09:00",
+  "updated_at": "2026-10-06T12:41:52.945719+09:00",
   "deals": [
+    {
+      "title": "楽天市場の新セールイベント「ジャンル祭」開催中！10月9日までの「お買い物マラソン」に連動していてお得感アップ♡ - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91cjhRd3MzUmVSbzRQQkliUkV1amVDQTA2X3ZvWWp6dlEyTi03ZFhyVDR0V3l6MGpCQ0pIcnlNbW9tX2dPMl9BZklHUUtZeHZPNXhrYy1Eei1yNHBESGpCWHEyckJmZXJmdUhWalVYSzhfTHhycUxr?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-06T12:41:52.945719+09:00"
+    },
+    {
+      "title": "米アップルの「AirPods Pro 3」、アマゾンで179ドルに値下げ——秋のプライムデーを前に最安値圏 - finance.biggo.jp",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKWjdHM2t2bVhNNFNtRDdIT1dLc2trdFdRLWlVMUJKR19SZWFQVTc5eGxIMDRud3ZwaFVhOGFLblJTeGN1Sk1CazZoODRHcEJSTXJkRHJ2WXhsTlVwb2JQVXF5N1g0ZFVrZ3RzU1JqcWpYYTFo?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-06T12:41:52.945719+09:00"
+    },
+    {
+      "title": "ゼンハイザーオータムセール第一弾。サウンドバーが37% OFFのセール最安値(37%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2145899.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 37.0,
+      "price": null,
+      "detected_at": "2026-10-06T12:41:52.945719+09:00"
+    },
+    {
+      "title": "【2026】チェジュ航空セール完全ガイド 次回いつ？700円セール買えた攻略法 - airstair.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbjh0T3ZRNmtUQVhpTGc1WjFJRnBPeXZWc2NnRkU5TVU5b0EzVlhmM2JwMTducTNwMmZQQmoxeHdJUnBrZXpoTkVNd3ZsZw?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-06T12:41:52.945719+09:00"
+    },
     {
       "title": "137言語翻訳のAIスマートグラスがAmazonでセール。21%OFFで2万円台に(21%割引)",
       "url": "https://ai.watch.impress.co.jp/docs/news/2145519.html",
@@ -864,42 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-19T09:35:03.893456+09:00"
-    },
-    {
-      "title": "Amazonプライムデーでdポイント10％還元 さらに抽選で10万ポイント、何をすれば対象になる？ - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UdE45dUR1NlBIbHY3ZTcxWWVDZmF2TVQ5dktlT181VnQ5UVVHRWN0NmlaS1prOG90c1JDZzJiRnhJNnZfT2dfYkFSaXZYUlUtek9FZy1R?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-19T09:35:03.893456+09:00"
-    },
-    {
-      "title": "「松屋」の糖質50%オフ牛めし30食セットが約7千円引きでオトク！(50%割引)",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133420.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 50.0,
-      "price": null,
-      "detected_at": "2026-08-19T09:35:03.893456+09:00"
-    },
-    {
-      "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次のセールはいつ？お得な買い方＆年間スケジュールまとめ - アプリブ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-18T09:34:45.391060+09:00"
-    },
-    {
-      "title": "アンカー「Soundcore Liberty 5」がAmazonで20% OFF。“ウルトラノイキャン3.5”採用モデル(20%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2132819.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-08-15T09:35:32.912532+09:00"
     }
   ]
 }
