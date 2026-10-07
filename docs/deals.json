@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-06T12:41:52.945719+09:00",
+  "updated_at": "2026-10-07T12:08:57.707246+09:00",
   "deals": [
+    {
+      "title": "植物タンパク100%のプロテインが25%オフ。ヨーグルト風味やココア風味など(25%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146247.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-10-07T12:08:57.707246+09:00"
+    },
     {
       "title": "楽天市場の新セールイベント「ジャンル祭」開催中！10月9日までの「お買い物マラソン」に連動していてお得感アップ♡ - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91cjhRd3MzUmVSbzRQQkliUkV1amVDQTA2X3ZvWWp6dlEyTi03ZFhyVDR0V3l6MGpCQ0pIcnlNbW9tX2dPMl9BZklHUUtZeHZPNXhrYy1Eei1yNHBESGpCWHEyckJmZXJmdUhWalVYSzhfTHhycUxr?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": 35.0,
       "price": null,
       "detected_at": "2026-08-22T09:34:49.397406+09:00"
-    },
-    {
-      "title": "【8月18日更新】MacBook Neoを安く買う７つの方法！最安値は？学割はある？お得に買う裏技まで徹底調査 - mobile1.yamanex.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GalBpSlBfX1hPQTRZdVZTc3BicjZqRkpFeEQyNGt5ZFFUdUZxRVBlWXZQdnpsWnhFaHp6STBNWUxVaTVJRnhzYWpvN1laYlNSdWxEMnJQNUxIQTJiYVR5RG41dFZVVjdFYTNZLTh0Nk9yZw?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-19T09:35:03.893456+09:00"
     }
   ]
 }
