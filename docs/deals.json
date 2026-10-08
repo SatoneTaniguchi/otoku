@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-07T12:08:57.707246+09:00",
+  "updated_at": "2026-10-08T12:24:44.068696+09:00",
   "deals": [
+    {
+      "title": "【Qoo10メガ割】LIPSで特別なクーポンを配布中！次の”推しコスメ”を見つけて、お得にGETしよう - CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JVEw2RUFGYlJwdXU2eWFfc29XUk55RHcteXMzc0NBemU5UVBzZUxRTzEySWIwMm1UZWNzVTlHWm1EYmhPWHVEVEdQV09fckxQQmQ1V0ZzcWk?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-08T12:24:44.068696+09:00"
+    },
     {
       "title": "植物タンパク100%のプロテインが25%オフ。ヨーグルト風味やココア風味など(25%割引)",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146247.html",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 40.0,
-      "price": null,
-      "detected_at": "2026-08-22T09:34:49.397406+09:00"
-    },
-    {
-      "title": "NextorageのSDカードやCFExpressカードが最大35%オフ！Amazonセール(35%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2134354.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 35.0,
       "price": null,
       "detected_at": "2026-08-22T09:34:49.397406+09:00"
     }
