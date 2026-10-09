@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-08T12:24:44.068696+09:00",
+  "updated_at": "2026-10-09T12:30:12.901561+09:00",
   "deals": [
+    {
+      "title": "AOKZOE/AYANEO/TENKUなどポータブルPCが最大30%オフ。ハイビームAKIBAの「5周年記念大感謝祭」(30%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2146923.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 30.0,
+      "price": null,
+      "detected_at": "2026-10-09T12:30:12.901561+09:00"
+    },
     {
       "title": "【Qoo10メガ割】LIPSで特別なクーポンを配布中！次の”推しコスメ”を見つけて、お得にGETしよう - CLASSY.[クラッシィ]",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JVEw2RUFGYlJwdXU2eWFfc29XUk55RHcteXMzc0NBemU5UVBzZUxRTzEySWIwMm1UZWNzVTlHWm1EYmhPWHVEVEdQV09fckxQQmQ1V0ZzcWk?oc=5",
@@ -889,15 +898,6 @@
       "source": "ヤマダ電機 セール ニュース監視",
       "category": "家電・通販",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-22T09:34:49.397406+09:00"
-    },
-    {
-      "title": "「ドラクエ7」スマホ版が期間限定で40%オフ！ セール実施中(40%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2134616.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 40.0,
       "price": null,
       "detected_at": "2026-08-22T09:34:49.397406+09:00"
     }
