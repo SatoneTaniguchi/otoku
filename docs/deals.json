@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-09T12:30:12.901561+09:00",
+  "updated_at": "2026-10-12T12:06:12.757991+09:00",
   "deals": [
+    {
+      "title": "Amazonプライム感謝祭とは？プライムデーとの割引率の違い、安くなる商品まとめ - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeG5FNkw1aExuQ0lTN3o3V1RKbllvMkI2UkhWOFZYYzJ4c1JpSVZqT1g2R19POXA4ZjRuQ2MycjVlNlBuVm10UmViOXRFRlp1X0lqVEg2RmtzTzNuWTJCbzVNRVhZT3lrVkE2Y0tyclpWT20tbHRRN0FUNnZ1MWhfbEU5eHp4M3dmTFQtVGUzd25kQTU3VXNtOUdSczdOTDBGV0RtMG1ZWTJYNy1iNWgxUVpvTks1Z1FVTC1PSW9FZVlpajctSnpzZ0xnUEtpSC0xaVgxbTFYbDRIMjZLdllsRDJtckpPcGxK?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-12T12:06:12.757991+09:00"
+    },
     {
       "title": "AOKZOE/AYANEO/TENKUなどポータブルPCが最大30%オフ。ハイビームAKIBAの「5周年記念大感謝祭」(30%割引)",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2146923.html",
@@ -891,15 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-24T09:36:38.834963+09:00"
-    },
-    {
-      "title": "【8月22日更新】MacBook Proのセールを逃さずに安く買う７つの方法とどこで買うべきかを徹底解説 - ヤマネックス株式会社",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTejZzb2gtVWd0TlROQ0dsUGFEZzR2aXdodUpONXVHTHFfQzNDWnV0MWxycEQ1YmVfSEMydVZPM0JkOW1pNU9PUTZsdXJYakZzU09vYzRLc1BnMDBrYUlwbFR1MUxFUGhNRlpXNWJCLVVNazBMUmc?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-22T09:34:49.397406+09:00"
     }
   ]
 }
