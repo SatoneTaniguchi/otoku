@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-13T13:22:03.374494+09:00",
+  "updated_at": "2026-10-15T11:13:23.862210+09:00",
   "deals": [
+    {
+      "title": "FIRME、楽天スーパーSALEにあわせ最大50％OFFクーポンを配布へ - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IN0RjN0VmOFppMUdQaW1BTDVoX3kzWnlCQ1h2NTV6THhzTTJHYVJzR2IyMHExQmNtTjJsY05RdWFTWTZLaVE?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-15T11:13:23.862210+09:00"
+    },
+    {
+      "title": "ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭(20%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-10-15T11:13:23.862210+09:00"
+    },
+    {
+      "title": "AVerMediaのHDMIキャプチャが最大33%オフ！Amazonプライム感謝祭(33%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147833.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 33.0,
+      "price": null,
+      "detected_at": "2026-10-15T11:13:23.862210+09:00"
+    },
+    {
+      "title": "ポイントスティック搭載モデルなどHHKBキーボードが最大26%オフ！Amazonプライム感謝祭(26%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147806.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 26.0,
+      "price": null,
+      "detected_at": "2026-10-15T11:13:23.862210+09:00"
+    },
+    {
+      "title": "スマホ充電器などBelkinのアクセサリ製品が最大48%オフ！Amazonプライム感謝祭(48%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147836.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 48.0,
+      "price": null,
+      "detected_at": "2026-10-15T11:13:23.862210+09:00"
+    },
+    {
+      "title": "【2026年最新版】ディズニープラスを無料で視聴できる方法を徹底解説！ - セレクトラ",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNT09RT19YMXJMUnM0Q2VtQU10T3o0MllaUW1BcVdsT0RSRGY0U3lLWVJUSlFXZjdlLU45OUNtQTlQeHdmaEFMcHczRURQM1RpVEs2dTdROXIyQ3V6OWtjcEQ0RW15aHFUNHdqZE8yZEhqZG9OTTF5bnRXUFpPWWllMzd5Q25iSmdrNkZuUmFTNnBFdGpIWU5WYUdPeXFHemZoSU90bnZfQlZMQ3B6QU9IbXM5YWlZQnhMenc1VW43SUoyRVNFZXNKWWU3Y1Fra2Z3Ujg3WURBb3hhQ3NnZmFWMDMyWTdEZWhPcFYxYktIMVEwbkM2enlBNVFlWUg?oc=5",
+      "source": "テーマパーク割引 ニュース監視",
+      "category": "イベント・レジャー",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-15T11:13:23.862210+09:00"
+    },
     {
       "title": "【最大38%OFF】Amazonプライム感謝祭で「iPhone Air」がセール中〜1TBモデルは111,300円引き - Touch Lab",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VbkJTU2ltX1BHMnI3Y0JSeUs1RnJfSkxTVzFTTzhIX1FZSnNJY19iWFRMME1mSlhTZmc0bnFXaDdBVEpUejA4ZjZoUnhYQVRJa18zc3JSMlFGVTk5R3d3d05VdU8?oc=5",
@@ -846,60 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-08-28T16:29:32.219471+09:00"
-    },
-    {
-      "title": "コスメやスキンケアが安く買えるQoo10メガ割は本日から！よりお得に買う裏技を紹介（VOCE） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wWWhRblJRX2FpYWtSOHNHTzQtWE9oT1FDeVN2VFhfVWFBS3FpQ2J4V0dORmxTTm94eEc0bVJjbXlaNjhmNHVKT3pCUmJJMVdQWVFnTzNLRnp2ekZjdldRMXktQkJDcjdjdGtsbGwxa1RfOEVpZ0NuSmdOZm9ESHM?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-28T16:29:32.219471+09:00"
-    },
-    {
-      "title": "【Qoo10 メガ割】「haruharu wonder（ハルハルワンダー）」が最大66%OFFのビッグセールを開催！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vU2c1WE1hRGlhUXdPckdNR2VESlpqSTgzNVV5NXhwVXB5UC1jMVJWUGJ1dVdMdy1DY3lCaV93UGxDeHpKTEVOY0RVLWNIbERfM29YY2FaVzY0a3BxSWViRGV2Z3pyMnFvMWc?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-28T16:29:32.219471+09:00"
-    },
-    {
-      "title": "【楽天スーパーSALE】日本・世界ともにNo.1の光美容器ブランド「Ulike」新発売の製品を含む、豪華ラインナップが最大40％OFF！夏を乗り越えた肌に、ひんやり癒しを。“秋の素肌リセット計画“ - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lUGpscXY2dHBxOFB2NmJLMVJ3UlhsZjRlM0xPcGt4N0VhY3d5dmxGa092QVFwRDRuLXVIT0hPTk1yLUF2NUluSXhIcVRlZXNXbmNBUFhrbVRaTmF0MUJzb0kyT0tqdFloM0xZ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-27T14:33:55.018953+09:00"
-    },
-    {
-      "title": "【韓国発スローエイジングブランド「Arocell」】渋谷「Qoo10 MEGA POP UP」出展＆Qoo10「メガ割」開催決定！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ET0xZR3dDMzFmNnEtbmdnMHp4NEdSWkFKREZNVEpYdk1EY3gxNWtLNXJpTDgtSnRNZnhKbjUtdGpRSDc4S290MUROeHFuSGl6eFdsQkxoamR3SmFISWs1RVlLYW1JYVNfaVIxTTlnMzh0ZC16VmY0V3Ntdw?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-27T14:33:55.018953+09:00"
-    },
-    {
-      "title": "「スーパーリアル麻雀 Venus Returns」本日8月27日に発売。発売から2週間は20%オフに(20%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2135925.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-08-27T14:33:55.018953+09:00"
-    },
-    {
-      "title": "【宮崎発】Peachセール2026｜宮崎－大阪（関西）も対象！8月31日まで - ほんみや宮崎",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LWjRyTE9CSTk4SUFhMzEydFh5YkpYdXhqNGw1QndIQ1p0U21oeDd4d1ZwZVBfUElfR1I1aF9zUkp6M0ptSW9YV1RDWDNIeEhfeFZkNG9FNU5XcDQyT1NYZ0Q0M1Z2Ry1iU3U3R1FBdkdpell6dUVUdw?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-27T14:33:55.018953+09:00"
     }
   ]
 }
