@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-15T11:13:23.862210+09:00",
+  "updated_at": "2026-10-16T11:04:19.173610+09:00",
   "deals": [
+    {
+      "title": "【2026年最新】Amazonプライム感謝祭おすすめ20選｜セールはいつから？ 何が安くなる？ - GQ Japan",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWGxyb1VFUVAtYm5KaHRuNWw3NGdlcWJWY0tVaWtIRzg3OF9MUWlodWowdXJ6SG94cjdGTzVseVhsMWpOTGg0N1FtbWlVc1Bya21ZOXdiRUhnRWlSV3dsRC1SRUZHOXppNFpQV09BSQ?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-16T11:04:19.173610+09:00"
+    },
+    {
+      "title": "随時更新！　お得なセール情報まとめ 1 2 3 … 919 次へ>> 6万円引き(35%割引)",
+      "url": "http://www.watch.impress.co.jp/otoku-sale/",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 35.0,
+      "price": null,
+      "detected_at": "2026-10-16T11:04:19.173610+09:00"
+    },
+    {
+      "title": "Intel CPU搭載NASやThunderbolt 5接続SSDケースなどTERRAMASTER製品が最大35%オフ！Amazonプライム感謝祭(35%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147838.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 35.0,
+      "price": null,
+      "detected_at": "2026-10-16T11:04:19.173610+09:00"
+    },
+    {
+      "title": "タンデムRGB搭載ゲーミングモニターが40% OFF。プライム感謝祭でLG製品セール(40%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2148340.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 40.0,
+      "price": null,
+      "detected_at": "2026-10-16T11:04:19.173610+09:00"
+    },
     {
       "title": "FIRME、楽天スーパーSALEにあわせ最大50％OFFクーポンを配布へ - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IN0RjN0VmOFppMUdQaW1BTDVoX3kzWnlCQ1h2NTV6THhzTTJHYVJzR2IyMHExQmNtTjJsY05RdWFTWTZLaVE?oc=5",
@@ -864,42 +900,6 @@
       "discount_percent": 65.0,
       "price": null,
       "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "キャンペーン：本日17時にジェットスター国内線・アジア路線セールが開始 片道2,990円から 台北・香港も対象 - デジカメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cUV4aW94Y1dGNENkWjQ1M2hWbkZqczYydDk0a0R5ZW5ZNDh2VHppeks4YXdvRmtuZXB6YlJNam9ldTJQa1BVYlkwSVY5c1JqU0Z6TWJPZlJlRzBsSzlwXzZ4a25vS2dBMjNlTHJkNA?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "【宮崎2026】ジェットスター「スーパースターセール」開催中！成田→宮崎が片道5,190円から|｜ほんみや宮崎 - ほんみや宮崎",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTi1WRVF1R1lxMGNhMXlrTVRnSi0tcnc2QUx0VHN0TXpjU0Rya1pCcVZBN3cwdWdUNEVfeEJCdUoyUkJIVjFydEl6SS13VHd4NzB0SkdWY0szLXpwbkUyN01QMDA2SEhySzNQQVFTU0dqUXZVdHpwaHVoSXBKOVBqcEVLbVNZU0F0MEE?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "楽天スーパーセール完全攻略ガイド（2026年9月）：いつから開始？ クーポンやお得に買い物をするコツ・情報まとめ - 電撃オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zck9MRkZCYkxOd0ZhZ0Q3QU1KV08wRFpzeFVncUJ6a2c5TElCc2ZKWVpfdW5xd2ttUVZPVXUzLXFoYldQMlpXU2I2SUkyMllUSUJqdDk0V3VrUQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-28T16:29:32.219471+09:00"
-    },
-    {
-      "title": "フェムケアのハナミスイ、Qoo10「メガ割」にて限定イベントを開催 〜正しいインティメイトケアの普及に向け、習慣化をサポートする特別セットを最大20%OFFで展開 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NWjFxdWtEaVdTRWtYYzlFLXVQcE43ZjQ0WlpKUkdCYXdraVNyS3I1NFRHZl9nR04xUjVmZXBsZ081YXdVeVVYYWVnZ2dnZkk?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-28T16:29:32.219471+09:00"
     }
   ]
 }
