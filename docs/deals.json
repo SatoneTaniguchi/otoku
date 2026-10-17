@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-16T11:04:19.173610+09:00",
+  "updated_at": "2026-10-17T10:58:33.383997+09:00",
   "deals": [
+    {
+      "title": "WDのNAS向けHDDやオリジナルDDR5メモリなどCFD販売製品が最大39%オフ！Amazonプライム感謝祭(39%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148804.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 39.0,
+      "price": null,
+      "detected_at": "2026-10-17T10:58:33.383997+09:00"
+    },
+    {
+      "title": "Peach、国内線を対象に片道4,000円からのセールを開催中 - sky-budget スカイバジェット",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYbGlaalBUZ1lpazRkT3JDbzFlNGVqOGM0eTRsb01FakZxYjVVN25pWmxSdzl0VF9QMjdsX0ZySnRfb01waHQyQl9VbzN3NUxBVHdJc2Y0ejdnQ1I3Y3dfTU9yQQ?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-17T10:58:33.383997+09:00"
+    },
     {
       "title": "【2026年最新】Amazonプライム感謝祭おすすめ20選｜セールはいつから？ 何が安くなる？ - GQ Japan",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWGxyb1VFUVAtYm5KaHRuNWw3NGdlcWJWY0tVaWtIRzg3OF9MUWlodWowdXJ6SG94cjdGTzVseVhsMWpOTGg0N1FtbWlVc1Bya21ZOXdiRUhnRWlSV3dsRC1SRUZHOXppNFpQV09BSQ?oc=5",
@@ -880,24 +898,6 @@
       "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "Qoo10、2026年8月28日〜9月9日 過去最大級規模の「20%メガ割」開催 - ECのミカタ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUFU3RTZQSmFISV9GWTExYnNmcC1zMG5kVk1oRFlwaTZHWjV3T1dsbnZaS2x1NXlsb3NLWGJxa20wTGhDSVJRZ1dRUG10TG9URUloZkVR?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "「Dead by Daylight」Switch版が65%オフで1,610円！ もうすぐ終了のセール情報まとめ【8月29日更新】(65%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2136533.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 65.0,
       "price": null,
       "detected_at": "2026-08-29T13:39:33.647536+09:00"
     }
