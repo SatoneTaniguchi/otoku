@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-17T10:58:33.383997+09:00",
+  "updated_at": "2026-10-18T10:57:53.142460+09:00",
   "deals": [
+    {
+      "title": "おトク満塁で目指せ！日本一！横浜DeNAベイスターズ全力応援セール開催中！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04QXVveGZvTDV4UjhObHc1c05SUmdFdUVOczVWU2Q3QWQ2Vm51OHd1OWFQQXdaU2ZKTUU2NFh6LWtLYlVfNzFPbzRXZkk1dmlJMDExT2pmRFVDOC10X3haT293NG10QTloR2c?oc=5",
+      "source": "ノジマ セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-18T10:57:53.142460+09:00"
+    },
     {
       "title": "WDのNAS向けHDDやオリジナルDDR5メモリなどCFD販売製品が最大39%オフ！Amazonプライム感謝祭(39%割引)",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148804.html",
@@ -887,15 +896,6 @@
       "title": "【Amazonスマイルセール攻略法】8月28日から開催！ オトクになる方法やセール対象商品まとめ - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pQks2OVdycnhNZDdFMEN4WFNtRTZBOVZNV3hyTUtfVHJPUnpYQWV2X0hRc1BCOW5xUW90ZjJLVmFCcEVMV0JDMUUyY1Fwak1ySmJQWg?oc=5",
       "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "「メガ割で圧勝できました」に1600いいね、Qoo10セールがXで祭りになる理由 - shiritomo",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xSTV5NzhaY2hROGxBczMxRm1kdHBYS21xRjZZTGZBbFQwbXRxTFBGTUZQckZLSUh4RlRhUUxidUJWQQ?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
       "price": null,
