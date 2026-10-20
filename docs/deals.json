@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-18T10:57:53.142460+09:00",
+  "updated_at": "2026-10-20T11:29:20.018481+09:00",
   "deals": [
+    {
+      "title": "全品10％オフ「無印良品週間」2026秋の開催決定！ スタッフが買ってよかった商品リスト公開 10月23日から - トラベル Watch",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43bEdDMFJLQS1IX0RzTTl0YTRTcTJTcGl5cXdFRkRiRTJZQnhEUG5ESlY5ZXVheW42cXQtQ3loY1RHUkktNGJHa1BfTk83WHI0R1hVMThodVk2WlFVdWN6bHp4OTY3WlFE?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-20T11:29:20.018481+09:00"
+    },
+    {
+      "title": "全品10%OFFの「無印良品週間」が10月23日〜11月3日の期間開催！ネットストアでも - 明石じゃーなる",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUaE9MbnpLWkR1LVY4ajhVMC11Vm94SFQ5VEVmQUk2T0d1M0FJZkFQV1BiUVdVeE9mT3ZPMHVFVDlSZzNjYjlnUWp1NEZPUUZGMDhNdFgydkd5TkI0cHc?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-20T11:29:20.018481+09:00"
+    },
     {
       "title": "おトク満塁で目指せ！日本一！横浜DeNAベイスターズ全力応援セール開催中！ - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04QXVveGZvTDV4UjhObHc1c05SUmdFdUVOczVWU2Q3QWQ2Vm51OHd1OWFQQXdaU2ZKTUU2NFh6LWtLYlVfNzFPbzRXZkk1dmlJMDExT2pmRFVDOC10X3haT293NG10QTloR2c?oc=5",
@@ -878,24 +896,6 @@
       "title": "【9月の楽天スーパーSALEまでもう少し！】「商品比較サイト高評価」×「割引予想アイテム」のおすすめ39商品集めました! - マイベスト",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fTWVYX29kRE5KZTIxUXVseDMweVh2c2V6RXlKWmdneUduOE0wNFJIcUJzVW5Wb1J3amxLSFotM3FoOVE1c3RQYQ?oc=5",
       "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "【楽天スーパーセール】9/4〜9/11まで開催。人気スニーカー＆ファッション商品などが最大半額以上の大幅値引き【Maison Margiela MM6 x Salomon / Nike / adidasなどショップまとめ】 - uptodate.tokyo",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JM0I5VzNYMTdJZkducTJ0VGpCREpsS1pkRXQxRkJOMGY3ejkydnFkaHZIdVBnRktydVplaW02VEZVWkd5aEZ5ekpDczVEcjhJYjVLclFfeDd2QzJLOHhsLWtR?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-08-29T13:39:33.647536+09:00"
-    },
-    {
-      "title": "【Amazonスマイルセール攻略法】8月28日から開催！ オトクになる方法やセール対象商品まとめ - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pQks2OVdycnhNZDdFMEN4WFNtRTZBOVZNV3hyTUtfVHJPUnpYQWV2X0hRc1BCOW5xUW90ZjJLVmFCcEVMV0JDMUUyY1Fwak1ySmJQWg?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
       "price": null,
