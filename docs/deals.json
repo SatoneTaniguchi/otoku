@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-23T11:23:50.752968+09:00",
+  "updated_at": "2026-10-24T11:21:29.324725+09:00",
   "deals": [
+    {
+      "title": "「サイバーパンク2077」70%オフで2,633円！ もうすぐ終了のセール情報まとめ【10月24日更新】(70%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2150732.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 70.0,
+      "price": null,
+      "detected_at": "2026-10-24T11:21:29.324725+09:00"
+    },
+    {
+      "title": "ジェットスター、片道3690円～「スーパースターセール」本日開始。深夜早朝便の利用で京成スカイライナーがお得に - トラベル Watch",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81VVhxN29XUDczUHh1bEJJVHo5TEdRa3ZDOVQzUHZCUEtlTlN2SjAtaFMxTlpHaUo5ZnpKNkNUY2N1UDJudk5GMXNHRlNWeVFJbVFiZEc4dkIxN2lPTENIaEYwTTdiWGdO?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-24T11:21:29.324725+09:00"
+    },
+    {
+      "title": "大阪府の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベルや大阪いらっしゃいキャンペーンなど観光需要喚起策一覧 - トラベラーズナビ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hQXgwSVphaWZDaDhiMTd5VU1VQ1l4azN6M0RhcTdOZzZmc1Y3WjhjNWJiNlU5RWxyd3laQktka2JlM0NkaEJzSHYwUTJoZVlsY1E?oc=5",
+      "source": "テーマパーク割引 ニュース監視",
+      "category": "イベント・レジャー",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-24T11:21:29.324725+09:00"
+    },
     {
       "title": "【ノジマオンライン限定】22,000円以上のお買い物でドコモ光がお得！さらに60,000円分ノジマポイント還元！ - 株式会社ノジマ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fUUlvbHhmQWFYSW9RbWo4dFdUbkxCMjBnRS1LUkUtajhfSFR2ZEttWWNDNGZGeFU5YmNqSjlRZE9XcEF1dGx2ZXB4TVNnZUI3SjlXeVh3OTBLdmJUX2V4WU1NZS1YdEt0SGxtTlFNYXoyUQ?oc=5",
@@ -871,33 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 50.0,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "【楽天スーパーSALE】フィリップスのサウンドバーが最大57%OFFに！ 9月4日20時からセール開始(57%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2138193.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 57.0,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "【2026年】次回の楽天セールはいつ？どれがお得？年間カレンダーをチェック - mag.app-liv.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLY1gtdjY2aUhFN1ppdmtiUVZMSGdyMDJvU3hjekhNQW9jWXVPYVJaRkZwTGpPYS1wZkFQdVptTF9jQnVuYlI4eXZMSFZMVTQ?oc=5",
-      "source": "楽天トラベル/じゃらん セール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "ALLDOCUBEのタブレットが楽天スーパーSALEでお買い得に！人気の「8インチ3兄弟」もセール対象 - ウインタブ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KYi16RWdZQjRSdzVlY3ZUdDA1NExWWVVicGJiemxUYzB4bGxpZncyeHZwTFRVR1dPbzc5bTl4amZJUE54cmZRZFFqdFp3Q1h1NFpMSEY3RDRQczU1dVBmSzlwRlhvQjA?oc=5",
-      "source": "楽天トラベル/じゃらん セール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-05T10:50:12.090789+09:00"
     }
