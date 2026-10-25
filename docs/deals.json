@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-24T11:21:29.324725+09:00",
+  "updated_at": "2026-10-25T11:08:50.216212+09:00",
   "deals": [
+    {
+      "title": "「コスパ最強」「何回リピ購入したか」無印良品週間で買うべき\"日用品\"ベスト3 - 東京バーゲンマニア",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lUUNtUVRQWjJDUURxcC1xOFhmN3Uyb0VaRENLdVJTazBrbFFMOFhmSUJfWVY2NDIybUh1MlVuNkszWExHYko3NkZraDROVGJjY0FR?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-25T11:08:50.216212+09:00"
+    },
     {
       "title": "「サイバーパンク2077」70%オフで2,633円！ もうすぐ終了のセール情報まとめ【10月24日更新】(70%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2150732.html",
@@ -889,15 +898,6 @@
       "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "Xiaomi製品が最大50%オフ！楽天スーパーSALE(50%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138418.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 50.0,
       "price": null,
       "detected_at": "2026-09-05T10:50:12.090789+09:00"
     }
