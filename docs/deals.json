@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-25T11:08:50.216212+09:00",
+  "updated_at": "2026-10-26T11:09:21.192291+09:00",
   "deals": [
+    {
+      "title": "会員ならほぼ全品10％オフ！お得な「無印良品週間」は10月23日から11月3日まで開催♡ - 東京バーゲンマニア",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMWR5QVk4N1RKSC10ZFdmUzNDanRUU29Ib1NnVXVTQWJCck0wbnhIR19IYk54S0RvWlB3TnEwSHNOWHYwRGlIMGE0STRuNHV2SnBZ?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-26T11:09:21.192291+09:00"
+    },
     {
       "title": "「コスパ最強」「何回リピ購入したか」無印良品週間で買うべき\"日用品\"ベスト3 - 東京バーゲンマニア",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lUUNtUVRQWjJDUURxcC1xOFhmN3Uyb0VaRENLdVJTazBrbFFMOFhmSUJfWVY2NDIybUh1MlVuNkszWExHYko3NkZraDROVGJjY0FR?oc=5",
@@ -886,15 +895,6 @@
     {
       "title": "【9月最新】Qoo10メガ割で買うべきおすすめコスメ31選。LDKの高評価アイテムとお得なセットを紹介 - 360life.shinyusha.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92VUp6RUJZSVlRcmdSVmE5WlRMM0FuX1Nta0FGcEs1TlR6OW5uQk9jZldfMkdIc0wwQVc0dkZrOHFKVW95cXhoMjBOclhQOFpqR3Viem95WWNKeUVu?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "ハナミスイがQoo10メガ割でフェムケア製品の限定セット販売とクーポン配布を実施 - wowKorea",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QdnJhX1hfUWV1ejI5UU5DblNSYzFtTFhyM1h3Tm5jVWZfS0ZpNzVjOUJfOUVuQldwUDF4SGFSMDEyMGJxOVg3Ml9lS1VRTXBWVkxOX3JPM1lYdw?oc=5",
       "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
