@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-26T11:09:21.192291+09:00",
+  "updated_at": "2026-10-27T11:46:29.173392+09:00",
   "deals": [
+    {
+      "title": "最大20％還元も！無印良品週間をさらにお得にする方法 (1/4) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfYVdWMTlNTG5zTkJBNE43OU1YdURwbGs5cG1sWUlwLTRDNWZic2lBd2VpcnV6cjJKaXphRktSTHFOVVRrUF9aWlM2NkFtbzRDVi10Tw?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-27T11:46:29.173392+09:00"
+    },
+    {
+      "title": "スプリング・ジャパン、国内線片道3111円のタイムセール。インスタで往復航空券プレゼントも - トラベル Watch",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4WWlQN1c2c0JnN01EN2R3cUtKQk1zM2hvamlhOGp0cHdmNWc5QjdkMHYtUnVOSWhxb1lWRzBwdTJpQ0VkajZKd0RhMnRSNWVPc2N4STM2V2lQNVYtNGRoQk9pSFhXajVo?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-27T11:46:29.173392+09:00"
+    },
+    {
+      "title": "11月11日は「滑走路の日」！「新しい風に乗ってTAKE OFFキャンペーン」を開催 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jbGZqTFppcmc4VEtyclRIQkt5VXN0UlEyOXlYeFM3cVIzekhwT2hNVnZJbDNXSHNmNS1mbVJPYnppOVRMNXdRNEtZSWQ2bnc?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-27T11:46:29.173392+09:00"
+    },
     {
       "title": "会員ならほぼ全品10％オフ！お得な「無印良品週間」は10月23日から11月3日まで開催♡ - 東京バーゲンマニア",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMWR5QVk4N1RKSC10ZFdmUzNDanRUU29Ib1NnVXVTQWJCck0wbnhIR19IYk54S0RvWlB3TnEwSHNOWHYwRGlIMGE0STRuNHV2SnBZ?oc=5",
@@ -870,33 +897,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMjRNQUlpOF9ZcUgyS1ZQVDNIRTRTTVhFVTdKckpUT1FqajY4S0N0cFZFLVA4WE1aNjVEVHllUEVyN0tCSUZueWsxV0RCdFRuQ1B5TE82bWxwdw?oc=5",
       "source": "ニトリ セール ニュース監視",
       "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "楽天スーパーセール9月は何日がお得？2026年の狙い目・ポイントアップ日・キャンペーン情報まとめ - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2ZQSkpsRVgyX251dDVLWkRIczRPeE9KbFJXdlI5ZGFPYlFzT3hjTGp5azE0VDUzSjZEdW9DUENWZEhqUTJhMGF0V2J1SHN1YzZGdEptWVoxU1dwT1dnSWxJbzQ2T3FRMVJLQjctMDRNSGFPWnNuclFXamJ6UHlCSzN1by0wWjAyY3lxTVppd1dYcmF3czQxbmxXZks5SnJyZEoycy1qXzRaZTlzQUlQTDhXVzNpMEx4R3hYY0JQTUxqREFXZlpaWjhvdGFySVhvMTZ1dXFLMDJzUm5JVW9OVkpBcTc?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "サンワダイレクト楽天市場店 「楽天スーパーSALE」イベント開催！店内アイテム1,200点以上が半額＆割引！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vNkVxUDdIYTR6ZUNGSGpFX1haa1JmYnRjTktJNm9IcnZlZ3d6SEVldkdxeC1YV2FEalNWNWtFS25kU1pWMzJjS2xHNVpaTmRJNmtPVlA0TzJCaGc5ZHJKdHdrVWIxZ2tkMkpYZzhvWmNIR3J1STBmWVYzRQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
-    },
-    {
-      "title": "【9月最新】Qoo10メガ割で買うべきおすすめコスメ31選。LDKの高評価アイテムとお得なセットを紹介 - 360life.shinyusha.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92VUp6RUJZSVlRcmdSVmE5WlRMM0FuX1Nta0FGcEs1TlR6OW5uQk9jZldfMkdIc0wwQVc0dkZrOHFKVW95cXhoMjBOclhQOFpqR3Viem95WWNKeUVu?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-05T10:50:12.090789+09:00"
