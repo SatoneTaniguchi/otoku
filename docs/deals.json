@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-27T11:46:29.173392+09:00",
+  "updated_at": "2026-10-28T11:55:02.430578+09:00",
   "deals": [
+    {
+      "title": "【無印良品週間】10%オフの今こそ狙いたい！ ムジラー3人が本当に買ってよかった名品11選。リアルな愛用理由を聞いてみました！ - リンネル.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JVHVnQmRnRGpaWFlyWFRXUk9OOElhQzJ1NExvcktOaF9qNDh3cko2SVc1VzJ6WE5yazAwVzZQRVk4NGs4Q0xVaXdPS01ldjhUVDhSWDNR?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-28T11:55:02.430578+09:00"
+    },
+    {
+      "title": "Amazonプライム感謝祭2026でポイントを効率的に貯めるには？Amazonポイント最大1万ポイント還元＆dポイント最大20％還元の条件を解説（LIMO） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoWG9EM2EwMEJMTUlyYVdTejVPSUxnVjV2LWlYN1Z1QWhXdnEyUGhPNEU4YlQzS1doQUZMbC1pZzh4bzJtOTFWQU5YSG1qOXZoOC1fRlNXNnluRHhNNjZjcnp5LW9jOVFlVE1EVmdpQTRHRktySHpacEdaaV9aTzQ?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-28T11:55:02.430578+09:00"
+    },
+    {
+      "title": "プライム感謝祭2026は10月16日～19日（先行10月13日～）｜Amazonセールはいつ？年間スケジュール - セレクトラ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83OEdYRlpwQlo4MGNiVmJtc2JQekRmR2NUam9VTjl6azdVQjVraDFiU3l0U1ZKc3R0QTF4WjJySU5iSFc5eWFvdnlkTjZtaDF0ZDZadDNsbzEwd0k?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-28T11:55:02.430578+09:00"
+    },
+    {
+      "title": "TORRASの半固体電池バッテリー、Amazonで20% OFF。厚さ14mmの薄型設計(20%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2151565.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-10-28T11:55:02.430578+09:00"
+    },
     {
       "title": "最大20％還元も！無印良品週間をさらにお得にする方法 (1/4) - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfYVdWMTlNTG5zTkJBNE43OU1YdURwbGs5cG1sWUlwLTRDNWZic2lBd2VpcnV6cjJKaXphRktSTHFOVVRrUF9aWlM2NkFtbzRDVi10Tw?oc=5",
@@ -864,42 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-07T10:41:51.313363+09:00"
-    },
-    {
-      "title": "【2026年9月楽天スーパーSALE】サンワダイレクトで1,200点以上が半額＆大幅値引き！テレワーク環境を劇的に改善するおすすめ目玉アイテム＆限定クーポン完全攻略ガイド｜成田のしん@Webクリエイター - note",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KdmgzVGgtdnpHeF8xUlpfZnJ4cGYwT1N2aTJCbU42QnoxQ1VLMjVqTzFhTFdHd3RORkQ0YzNZd1BESnpsSDRoUXdQUnBaWHd1MWJqR3BSQllZbWc?oc=5",
-      "source": "楽天トラベル/じゃらん セール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-07T10:41:51.313363+09:00"
-    },
-    {
-      "title": "ディズニープラスの入会方法を解説！お得な入会方法や注意点も紹介 - オリコン顧客満足度ランキング",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SYnlrbDVYRlA5cGpFdHEzemRabHBFR0NlNGpnUXNoeW1HV2RERkUxeWE3dTgtR2VSM016cTN0dE5mSWw5Y0s1T05CNTJ4a2NDdEZDQ2lmS2ZlN1Vkc2ZBNXl1cjBTZDRMb2x3QUhjY0N4dmxfZzRpbDhB?oc=5",
-      "source": "テーマパーク割引 ニュース監視",
-      "category": "イベント・レジャー",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-07T10:41:51.313363+09:00"
-    },
-    {
-      "title": "SUNEASTやLexarのSDカード/SSDなどが最大約20%オフ！楽天スーパーSALE(20%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138508.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-09-06T10:45:48.662472+09:00"
-    },
-    {
-      "title": "ニトリnews｜8月既存店4.4%増/家具・家電・寝具寝装品など好調 - 流通スーパーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMjRNQUlpOF9ZcUgyS1ZQVDNIRTRTTVhFVTdKckpUT1FqajY4S0N0cFZFLVA4WE1aNjVEVHllUEVyN0tCSUZueWsxV0RCdFRuQ1B5TE82bWxwdw?oc=5",
-      "source": "ニトリ セール ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-05T10:50:12.090789+09:00"
     }
   ]
 }
