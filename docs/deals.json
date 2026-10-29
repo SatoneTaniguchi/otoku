@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T11:55:02.430578+09:00",
+  "updated_at": "2026-10-29T12:19:31.111889+09:00",
   "deals": [
+    {
+      "title": "「ワンオペの強い味方」無印良品週間でストック買いしておきたいほど美味しい\"冷凍食品\"ベスト3 - 東京バーゲンマニア",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51MTJXdW5sNFVVRFYweWJuMEpLSWZ5NVRvNk5wNlJ1ZTVfeHdDWWpsVWhoSEV2UUgtV3Z1V3NfUmJtTXBNTlprVmFURk53M21GLTVV?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-29T12:19:31.111889+09:00"
+    },
+    {
+      "title": "【2026年】全商品10%OFF！無印良品週間で買うべきおすすめ食品アイテム。実際に使って選んだリピ買い商品 - BAILA（バイラ）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bck9kbmF4OGtxZEJZV25MZEVKcHZVTmFpYUlScllURVhfV2xuWko1LTZsaVJvUEsyeHFTVXN3OVJiMDl0aWRzdEduZkhkeFItbFBDOUtta3BOdlJVRHdv?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-29T12:19:31.111889+09:00"
+    },
+    {
+      "title": "10.1型Androidタブレットが53%オフで1万1,399円に！Amazonで特価(53%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152091.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 53.0,
+      "price": null,
+      "detected_at": "2026-10-29T12:19:31.111889+09:00"
+    },
     {
       "title": "【無印良品週間】10%オフの今こそ狙いたい！ ムジラー3人が本当に買ってよかった名品11選。リアルな愛用理由を聞いてみました！ - リンネル.jp",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JVHVnQmRnRGpaWFlyWFRXUk9OOElhQzJ1NExvcktOaF9qNDh3cko2SVc1VzJ6WE5yazAwVzZQRVk4NGs4Q0xVaXdPS01ldjhUVDhSWDNR?oc=5",
@@ -873,33 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-08T10:53:04.622608+09:00"
-    },
-    {
-      "title": "【楽天スーパーSALE開催中】写真・動画撮影をもっと快適に。Lexarの高速CFexpress・SDカードが期間限定10％OFF - prtimes.jp",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HQk8xcGQ1M25FRnJIam9MWTdNMVMtZnU5cS1KOTNiLUNobHNOb3pXNjZ4ZmtvaTFyRGNKMVFEeXdzSnNILTZTbFRMTU5aQlNkR1oyUk5wWUxWWkphQ2duTkJQV0pDcTEzTlE?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-08T10:53:04.622608+09:00"
-    },
-    {
-      "title": "【9月7日更新】Meta Questはどこで買うとお得？最安値は？安く買う方法を徹底調査！ - ヤマネックス株式会社",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LeWJ6YnRHeWZaemk0aVFUaXpaQlYxLUlFZDE2LUFKbGdXTkdYQkFCYkFZX3ZVNDB2MkNWZ005cFlYcFpnM3Q4MGFHbXNmd0p4bjNKYlIydEdnWThQTzh4cUVXRE1lZ1pFUXAyTkZtdWJ5eUU?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-07T10:41:51.313363+09:00"
-    },
-    {
-      "title": "◆06-10◆ニトリ 株主優待券 (優待割引10%引券) 10枚set-H◆ 株主優待券 ◇06-10◇ニトリ (優待割引10%引券) 10枚(期限2021.5.20) 10%オフ (優待割引10%引 - pappaspost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RYmZEWE4ySmVZUlNUUGNQalN3RnVFYnNiNHhCelVSbENvTTc0UmZyR1BCdlhkY3dBV2s4QVhzdlJ4ZmdaNjRMWnRJdHdyclM4UDg0RFJQQUY?oc=5",
-      "source": "ニトリ セール ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-07T10:41:51.313363+09:00"
     }
   ]
 }
