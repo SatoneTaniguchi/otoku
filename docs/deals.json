@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-29T12:19:31.111889+09:00",
+  "updated_at": "2026-10-30T12:21:25.076949+09:00",
   "deals": [
+    {
+      "title": "【2026年10月速報】スマホ投げ売りキャンペーンのセール情報!お得な15機種はコレ! | スマホプラネット - https://economical.co.jp/",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwajZJQlpYZVVzc0hQb08wYmdwaHpkNXZjTmdkWmdVU1pPMk0zX2tNM1l6aHg0QThaMFdWRTZxOHFqdnY1VWNJ?oc=5",
+      "source": "ヤマダ電機 セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-30T12:21:25.076949+09:00"
+    },
     {
       "title": "「ワンオペの強い味方」無印良品週間でストック買いしておきたいほど美味しい\"冷凍食品\"ベスト3 - 東京バーゲンマニア",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51MTJXdW5sNFVVRFYweWJuMEpLSWZ5NVRvNk5wNlJ1ZTVfeHdDWWpsVWhoSEV2UUgtV3Z1V3NfUmJtTXBNTlprVmFURk53M21GLTVV?oc=5",
@@ -891,15 +900,6 @@
       "discount_percent": 85.0,
       "price": null,
       "detected_at": "2026-09-09T10:58:59.615965+09:00"
-    },
-    {
-      "title": "楽天スーパーSALE、サンワダイレクトで1200点以上が半額・割引 11日まで - ケータイ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWHZneGJnd2FXSThaLUJwbkpMeFFfa1hvay0xODc5S0FYYm9MOWh4RkROZmRlSjBjYmVoNkM4Mm8zLUpPbUdZMndGVHkzQ1BTbWNCSDdPcHROdnNyZkhoSVpibm5EUWM?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-08T10:53:04.622608+09:00"
     }
   ]
 }
