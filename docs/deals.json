@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-30T12:21:25.076949+09:00",
+  "updated_at": "2026-10-31T12:05:59.094944+09:00",
   "deals": [
+    {
+      "title": "今年こそ優勝すると思って準備していた特価を大放出！「悔しすぎて!!涙も特価も大放出セール」を開催！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YVmRzZnZjb2pNZF9yd1pOU1ZNQTVnV3NDcWZyNVA1UF9CNENuUlRPWFJ1UklnU2hGUV9jckZiaGtJNDVNZ0RHZzNDekY5TFpWcmsxd2diQ2lzVGN1cnJkVVRHV2ZCMldN?oc=5",
+      "source": "ノジマ セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-10-31T12:05:59.094944+09:00"
+    },
     {
       "title": "【2026年10月速報】スマホ投げ売りキャンペーンのセール情報!お得な15機種はコレ! | スマホプラネット - https://economical.co.jp/",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwajZJQlpYZVVzc0hQb08wYmdwaHpkNXZjTmdkWmdVU1pPMk0zX2tNM1l6aHg0QThaMFdWRTZxOHFqdnY1VWNJ?oc=5",
@@ -889,15 +898,6 @@
       "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-09T10:58:59.615965+09:00"
-    },
-    {
-      "title": "最大85%オフ！ PS Storeで開催中のセール「gamescomプロモーション」が本日9月9日まで(85%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2138571.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 85.0,
       "price": null,
       "detected_at": "2026-09-09T10:58:59.615965+09:00"
     }
