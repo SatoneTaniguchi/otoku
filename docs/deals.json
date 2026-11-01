@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-31T12:05:59.094944+09:00",
+  "updated_at": "2026-11-01T12:00:19.510002+09:00",
   "deals": [
+    {
+      "title": "買い忘れ大丈夫？秋の「無印良品週間」中間人気ランキングを発表！《10％オフは11月3日まで》 - 東京バーゲンマニア",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aenZDOFpaeTVYcVpMUU5TRmQteHFsMkZHMXJBRnJmdy1GeXhUZG4yZ2U1ZDlGemxOZ2hKRG5yMWZ4NlRVcEtXYm5DWXZnUDIycTdB?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-01T12:00:19.510002+09:00"
+    },
     {
       "title": "今年こそ優勝すると思って準備していた特価を大放出！「悔しすぎて!!涙も特価も大放出セール」を開催！ - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YVmRzZnZjb2pNZF9yd1pOU1ZNQTVnV3NDcWZyNVA1UF9CNENuUlRPWFJ1UklnU2hGUV9jckZiaGtJNDVNZ0RHZzNDekY5TFpWcmsxd2diQ2lzVGN1cnJkVVRHV2ZCMldN?oc=5",
@@ -887,15 +896,6 @@
       "title": "【1時間限定】2人用の防災リュックが\"半額\"＆ポイント10倍！「楽天スーパーSALE」でお得にゲット。 - 東京バーゲンマニア",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbWZCZDN1c0dUSnBhbk5TQzFYUTNndFV5TGhUcUdmb21xSGJTdWFyRWUySy03S0lSU1VPY2J2OHk2MklYWTMxZC1xOHBsVnB5WkJz?oc=5",
       "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-09T10:58:59.615965+09:00"
-    },
-    {
-      "title": "韓国ビューティブランド【NEOGEN(ネオゼン)】がQoo10メガ割に参加！夏に焼けた肌を回復してくれる美白セットをお得に！ - 美ST ONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YVWZ5b0JNU0wtN0ktMkdxSjAyM0daeDItWlZaTmJHY3VJTWg1TVQ4YlVKbnlzNVgtU1BuTWM4akx5eXlDNGVZREFtZw?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
       "price": null,
