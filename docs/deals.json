@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-01T12:00:19.510002+09:00",
+  "updated_at": "2026-11-02T12:10:48.416488+09:00",
   "deals": [
+    {
+      "title": "ノジマ ホームズ新川崎店がオープン！～最大20％還元のオープンセール開催～ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNi04TG12ZUxZT1JaYnVMQndjajhRVjVrOFE0VzVwS0s2QVBudzhlVGlsRmx0MEt0MHFzaGRWcnNTQmE4VjZpek5fU2xNenpMcXhTd1htYmp2TlpEYWVBbmwydUpvaklM?oc=5",
+      "source": "ノジマ セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-02T12:10:48.416488+09:00"
+    },
+    {
+      "title": "【無印良品週間】全品10%OFF！チェック必須の「本当に買って良かった愛用品」ランキング！【元インテリアコーディネーターのベストバイ】 - BAILA（バイラ）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10YWRoSEM3Z0VBVG9qYXdCWFh3b1VDcnJ3LXI2SmhWVlNOVzZYY2t3NjlhSHI0NU94VmlwTTlodmZlQ0U1aFhlaVhhLU9oVXVPUUZNQmFnZVJ5ZUU?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-02T12:10:48.416488+09:00"
+    },
+    {
+      "title": "天下一品やココ壱味のベビースターが最大27%オフ！Amazonでお得(27%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152990.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 27.0,
+      "price": null,
+      "detected_at": "2026-11-02T12:10:48.416488+09:00"
+    },
+    {
+      "title": "【2026】スプリング・ジャパンのセール 次回いつ？「新しい風に乗ってTAKE OFFキャンペーン」と過去の実績 - airstair.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MOENLandvR1IzVDFIRGRTczRvbDU5ZkRSYzhxWkFDWEdnUUEtN1JpZENqZnY1eElkZ0syZTFoN2hDQ3c1eldGVHZtT1RMdw?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-02T12:10:48.416488+09:00"
+    },
     {
       "title": "買い忘れ大丈夫？秋の「無印良品週間」中間人気ランキングを発表！《10％オフは11月3日まで》 - 東京バーゲンマニア",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aenZDOFpaeTVYcVpMUU5TRmQteHFsMkZHMXJBRnJmdy1GeXhUZG4yZ2U1ZDlGemxOZ2hKRG5yMWZ4NlRVcEtXYm5DWXZnUDIycTdB?oc=5",
@@ -864,42 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-10T10:55:23.913165+09:00"
-    },
-    {
-      "title": "【約20万円オフ】スズキのハスラー タフワイルド ターボ（4DW）がお買い得。力強い走りと快適性を両立した軽SUV【楽天スーパーセール】 - 電撃オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJNWJwdl9KTDdfX1F1ejdCUU9TME1MVWE2QkJzdnlYVENybm04OXF2NElMYkpoc2FOUHl1VFk0Zlg4aFpHbUItWnN3d0tad3U3Tlg1R1NGc2JEUQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-10T10:55:23.913165+09:00"
-    },
-    {
-      "title": "Peachの国内線・国際線セールが9月9日12時スタート 宮崎－関西線も対象｜ほんみや宮崎 - ほんみや宮崎",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WYVY1RjZYal9fSWNfRE1mOGljTVd0TnZ4SkpIT0J3WDFMbTM0cE5nT1JpeHRoMWxYSzFHeF9zdmFDNEp0cnMxX1ZySTJEaTJLajhBUHVqRVJFYXhvOFR4N3QtSE5OU3F3bF9iVkNfRWtPaEJuZmVpRkl0NE4?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-10T10:55:23.913165+09:00"
-    },
-    {
-      "title": "【人工芝は秋が敷きどき】猛暑の草むしりは今年で最後に。ALTENA リアル人工芝(MAT35)が、倉庫移転で8月よりさらに値下げ。楽天スーパーSALE開催中、1m×10m 4,980円の赤字価格に。 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lS3hLcmk0RGNXSWRsaGp5NjEwZVdaQk0wTk5kTnduUm5NRjdmMHotRXNMa21ObUlfSkRwSTFtdTRSTXRxN2g0bmpITVNDcFhMWnVzTkRoRF9fbWp1ZkNKcG03TlJCeEMxVXc?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-09T10:58:59.615965+09:00"
-    },
-    {
-      "title": "【1時間限定】2人用の防災リュックが\"半額\"＆ポイント10倍！「楽天スーパーSALE」でお得にゲット。 - 東京バーゲンマニア",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbWZCZDN1c0dUSnBhbk5TQzFYUTNndFV5TGhUcUdmb21xSGJTdWFyRWUySy03S0lSU1VPY2J2OHk2MklYWTMxZC1xOHBsVnB5WkJz?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-09T10:58:59.615965+09:00"
     }
   ]
 }
