@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-03T13:26:52.191770+09:00",
+  "updated_at": "2026-11-04T12:45:16.104864+09:00",
   "deals": [
+    {
+      "title": "【激安】PS5、Switch2「FF7リバース」がなんと85%OFFの986円で販売中！(85%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2153378.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 85.0,
+      "price": null,
+      "detected_at": "2026-11-04T12:45:16.104864+09:00"
+    },
     {
       "title": "ノジマ、日本シリーズの結果を受けた「悔しすぎて!!涙も特価も大放出セール」。10/31より緊急開催 - PHILE WEB",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNTFMVG1kWHpDWE90YzltVlNDZFhYWWh0Q3ppYkVPSVZmbncxc01pcFhid19MQThZVWROOGRMSFc2dml2NHRWVjQ1bWNac25Xb1UyU2NxR3lpYTdjUWlBWTk5MUtqUQ?oc=5",
@@ -886,15 +895,6 @@
     {
       "title": "【9月速報】iPhoneの投げ売り最新情報!1円iPhoneや返却なしのゲリラセール機種も! - economical.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMGxzX2ota0duNWdIZVhzMkYzVFl3M0xHam04T1N5Vm9jTE9VTGx0bHRfZU1yTEZyYjdQQzRHNVY4dGlwaW9ZV1daUUNmaHNhelRQYkl5UkFQMGs?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-12T10:59:03.016133+09:00"
-    },
-    {
-      "title": "【9月速報】Google Pixelの投げ売り最新情報!セールで一番安くなる時期やプロモーションコードは? - economical.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwT1NTUFkyb05KeW0xcEJwWmlJSkFjZ3RnNkNDdzJoc2dMNWdGdUF0UTFFS2RPMHVGMEVGXzRrMnZOeEJoa1VqNS0xSG83ZVYtSkVtaTlaYmR1UVpLVFd1X0tabw?oc=5",
       "source": "ヤマダ電機 セール ニュース監視",
       "category": "家電・通販",
       "discount_percent": null,
