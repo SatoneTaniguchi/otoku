@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-04T12:45:16.104864+09:00",
+  "updated_at": "2026-11-05T13:03:01.367808+09:00",
   "deals": [
+    {
+      "title": "XZILEXのラピッドトリガー対応キーボード「X72J」が25%オフ、1万1,980円(25%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153605.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-11-05T13:03:01.367808+09:00"
+    },
+    {
+      "title": "REGZAの34型湾曲ゲーミングモニターがAmazonで21%オフ(21%割引)",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153519.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 21.0,
+      "price": null,
+      "detected_at": "2026-11-05T13:03:01.367808+09:00"
+    },
     {
       "title": "【激安】PS5、Switch2「FF7リバース」がなんと85%OFFの986円で販売中！(85%割引)",
       "url": "https://game.watch.impress.co.jp/docs/news/2153378.html",
@@ -882,24 +900,6 @@
       "discount_percent": 45.0,
       "price": null,
       "detected_at": "2026-09-14T11:10:13.189101+09:00"
-    },
-    {
-      "title": "Peach の「片道5,000円タイムセール」9月14日の23:59まで、関西～香港やシンガポールも5,000円？ 秋冬の対象路線を調べてみた - 旅とおでかけ 鉄道チャンネル",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40VzBpOERpR3VmUFhaQTZJNTN2dEJLVDhCaVpNSFBzVGVpY0NFZzNlekFWS1FZS3Z4bUZJY2dDYXA4THNmX3BqZEVUMHI?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-13T10:52:45.330557+09:00"
-    },
-    {
-      "title": "【9月速報】iPhoneの投げ売り最新情報!1円iPhoneや返却なしのゲリラセール機種も! - economical.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMGxzX2ota0duNWdIZVhzMkYzVFl3M0xHam04T1N5Vm9jTE9VTGx0bHRfZU1yTEZyYjdQQzRHNVY4dGlwaW9ZV1daUUNmaHNhelRQYkl5UkFQMGs?oc=5",
-      "source": "ヤマダ電機 セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-12T10:59:03.016133+09:00"
     }
   ]
 }
