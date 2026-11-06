@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-05T13:03:01.367808+09:00",
+  "updated_at": "2026-11-06T13:01:00.716844+09:00",
   "deals": [
+    {
+      "title": "AmazonスマイルSale、MetaのAIグラス「Ray-Ban Meta」が最大35%OFF(35%割引)",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2154258.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 35.0,
+      "price": null,
+      "detected_at": "2026-11-06T13:01:00.716844+09:00"
+    },
+    {
+      "title": "JBLのディスプレイ付きTWSが58%オフ。サウンドバーも最大42%オフ。AmazonスマイルSale(58%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2153908.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 58.0,
+      "price": null,
+      "detected_at": "2026-11-06T13:01:00.716844+09:00"
+    },
     {
       "title": "XZILEXのラピッドトリガー対応キーボード「X72J」が25%オフ、1万1,980円(25%割引)",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153605.html",
@@ -880,24 +898,6 @@
       "source": "楽天スーパーSALE ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-14T11:10:13.189101+09:00"
-    },
-    {
-      "title": "【あと1日】すかいらーくの冷食が\"55％オフ\"はうれしい！楽天スーパーSALEで買うべき目玉商品2つ - 東京バーゲンマニア",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWTRrUnhVTlcxXzRGTU1FNHFZV0JCV3daanU0RmVldjBjanJJWHRkU0RvVjFRdXo0RzFkM2xTTEdQN1hTNTBVUVhsSWQzUExGS0g0?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-14T11:10:13.189101+09:00"
-    },
-    {
-      "title": "【Amazonセール】「ビースト・オブ・リンカネーション」PS5パッケージ版が45%オフで販売中(45%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2140481.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 45.0,
       "price": null,
       "detected_at": "2026-09-14T11:10:13.189101+09:00"
     }
