@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-06T13:01:00.716844+09:00",
+  "updated_at": "2026-11-08T12:07:59.823885+09:00",
   "deals": [
+    {
+      "title": "リンクスのオリジナルミニPCやHYTEのPCケースなどが最大20%オフ！楽天お買い物マラソン(20%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2154501.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-11-08T12:07:59.823885+09:00"
+    },
     {
       "title": "AmazonスマイルSale、MetaのAIグラス「Ray-Ban Meta」が最大35%OFF(35%割引)",
       "url": "https://ai.watch.impress.co.jp/docs/news/2154258.html",
@@ -891,15 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-15T11:16:45.993045+09:00"
-    },
-    {
-      "title": "【楽天スーパーセール9月】半額商品・50%OFFクーポン一覧は？開催日程とおすすめセール情報 - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaVh1ekF3Ql9jeHhoai1vamNaM2RGcHJSbFRxSkpud2NhX1EwZmN3bVh6clJQeXBJS2h1aTdLVl9LZHI2MDhiVUFBaGMteDFHMWhIb3VEbkU4Tm9lWlZxQnJFQ3lwV1BUc0R3TXZPYW5FWFJLQ3NCZTk4QnZ3UDNFVXUxd08wOUFJUjAxNU1mMjdhME9uT1p6b2gwUFQzNVQ2NjdCMUs1MTN0ZUdnQVBhMEZTaUhZV2NDRmNoSm04NDNSM3VkYy0tSEFfMFVsMWtOeWUweWpxeC16dGcwQzZhWUFSaHFYZkU?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-14T11:10:13.189101+09:00"
     }
   ]
 }
