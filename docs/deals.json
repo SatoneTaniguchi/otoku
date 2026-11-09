@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-08T12:07:59.823885+09:00",
+  "updated_at": "2026-11-09T12:29:57.192207+09:00",
   "deals": [
+    {
+      "title": "LenovoのノートPCやゲーミングAndroidタブレットなどがお得！楽天スーパーSALE - AKIBA PC Hotline!",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzFDSWxGRURmWE1SYU41SnVqYlNxMjEyRDVWcUY5S3JsQ3IyUTNRTVVNbms1VnJFaUlxanowRUZlRkhxVjBMdGtUVDE3UTVvUV8yTkRQUE8xM05Fd1dFQS03Mmd2QU4xN1dVRWctUV80OW9sWWJfNnduS0hQV3JjSg?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-09T12:29:57.192207+09:00"
+    },
     {
       "title": "リンクスのオリジナルミニPCやHYTEのPCケースなどが最大20%オフ！楽天お買い物マラソン(20%割引)",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2154501.html",
@@ -887,15 +896,6 @@
       "title": "ジェットスター国内7路線セール【9/15 16:59締切】成田〜旭川3,990円〜、関西〜札幌5,190円～・来年1月搭乗分まで対象 - 旅とおでかけ 鉄道チャンネル",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPVjJhOXFwVGxiRHFuZDUzUGFCMWw2OGRJcXhkR0NhNXVJV3lSazRSemRkME9EbGl1SEtNOElpNHBPTFBGQ0o2R2JZTFE?oc=5",
       "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-15T11:16:45.993045+09:00"
-    },
-    {
-      "title": "【旅行】最大60%オフ「九州ふっこう応援割」初めての予約ガイド！いつから？対象エリアは？【聖地巡礼】（もみ） - エキスパート - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXJvVWd6bEhhTWM1MGF0YVQzaGx1bDR0U1d0MWRNeUhVUmN2TnNyMzVDTjBsVnZ6aEZaMWx3R0o3LUpaa2JCS2h1bnpCTHk1Y2RRSDVmcUJIZjF1V2Y4RmZpNHIyc2ZkT19FYk9zNTlGMHdSblduWjI4QXFFc1VSNU5NbFI3Rngy?oc=5",
-      "source": "楽天トラベル/じゃらん セール ニュース監視",
       "category": "旅行",
       "discount_percent": null,
       "price": null,
