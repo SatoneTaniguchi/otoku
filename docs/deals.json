@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-09T12:29:57.192207+09:00",
+  "updated_at": "2026-11-11T12:37:39.022605+09:00",
   "deals": [
+    {
+      "title": "家電量販のノジマ「ラブラ２店」11月12日からオープンセール！新潟市中央区 - 新潟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wSWJpd3B3Yl9GdDJLQzAtVW5KRXdBc1VGOGkxMW0zczdBazVzLTlOeERuTmY0LXBxQVE5MU5JalRDbm5zdjhlMU1kc2JMd2tOV2VHdHdMY3FMLXcyaVE?oc=5",
+      "source": "ノジマ セール ニュース監視",
+      "category": "家電・通販",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-11T12:37:39.022605+09:00"
+    },
     {
       "title": "LenovoのノートPCやゲーミングAndroidタブレットなどがお得！楽天スーパーSALE - AKIBA PC Hotline!",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzFDSWxGRURmWE1SYU41SnVqYlNxMjEyRDVWcUY5S3JsQ3IyUTNRTVVNbms1VnJFaUlxanowRUZlRkhxVjBMdGtUVDE3UTVvUV8yTkRQUE8xM05Fd1dFQS03Mmd2QU4xN1dVRWctUV80OW9sWWJfNnduS0hQV3JjSg?oc=5",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 29.0,
-      "price": null,
-      "detected_at": "2026-09-15T11:16:45.993045+09:00"
-    },
-    {
-      "title": "ジェットスター国内7路線セール【9/15 16:59締切】成田〜旭川3,990円〜、関西〜札幌5,190円～・来年1月搭乗分まで対象 - 旅とおでかけ 鉄道チャンネル",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPVjJhOXFwVGxiRHFuZDUzUGFCMWw2OGRJcXhkR0NhNXVJV3lSazRSemRkME9EbGl1SEtNOElpNHBPTFBGQ0o2R2JZTFE?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
       "price": null,
       "detected_at": "2026-09-15T11:16:45.993045+09:00"
     }
