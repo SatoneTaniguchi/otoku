@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-11T12:37:39.022605+09:00",
+  "updated_at": "2026-11-13T12:57:08.830435+09:00",
   "deals": [
+    {
+      "title": "なぜ「無印良品週間」セール続行？ 不正アクセス検知から発表まで4日、社長「反省はもちろんある」 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GNzFtejZGYUxvUXkyT2E1UHh4WGRKY2ZlVnJ4OWFyWXJhMldZLWxuNFdLX1pCQ0xiZ1Z4azBiUnJTd21uRGhSVmJjV0pXbkpxYm9ZWlBRQWREbUx1RUZOUDhCQlNMMkw2RVgwZ1JZMk44QQ?oc=5",
+      "source": "無印良品週間 ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-13T12:57:08.830435+09:00"
+    },
     {
       "title": "家電量販のノジマ「ラブラ２店」11月12日からオープンセール！新潟市中央区 - 新潟日報",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wSWJpd3B3Yl9GdDJLQzAtVW5KRXdBc1VGOGkxMW0zczdBazVzLTlOeERuTmY0LXBxQVE5MU5JalRDbm5zdjhlMU1kc2JMd2tOV2VHdHdMY3FMLXcyaVE?oc=5",
@@ -889,15 +898,6 @@
       "source": "楽天スーパーSALE ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-15T11:16:45.993045+09:00"
-    },
-    {
-      "title": "ソニー、PS5周辺機器セール。Amazonで純正ヘッドセットが最大29% OFF(29%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2140759.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 29.0,
       "price": null,
       "detected_at": "2026-09-15T11:16:45.993045+09:00"
     }
