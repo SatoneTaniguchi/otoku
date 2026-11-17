@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-13T12:57:08.830435+09:00",
+  "updated_at": "2026-11-17T14:36:34.287505+09:00",
   "deals": [
+    {
+      "title": "【Amazonセール】HTCのAIスマートグラス「VIVE Eagle Round」が20%OFFの66,000円(20%割引)",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2157018.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-11-17T14:36:34.287505+09:00"
+    },
+    {
+      "title": "ディズニーストアのブラックフライデーセール開催。ぬいぐるみキーチェーンなど最大40%OFF(40%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2156969.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 40.0,
+      "price": null,
+      "detected_at": "2026-11-17T14:36:34.287505+09:00"
+    },
     {
       "title": "なぜ「無印良品週間」セール続行？ 不正アクセス検知から発表まで4日、社長「反省はもちろんある」 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GNzFtejZGYUxvUXkyT2E1UHh4WGRKY2ZlVnJ4OWFyWXJhMldZLWxuNFdLX1pCQ0xiZ1Z4azBiUnJTd21uRGhSVmJjV0pXbkpxYm9ZWlBRQWREbUx1RUZOUDhCQlNMMkw2RVgwZ1JZMk44QQ?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": 65.0,
       "price": null,
       "detected_at": "2026-09-17T11:13:48.350149+09:00"
-    },
-    {
-      "title": "【USJ】子ども1人無料に！9月14日から「ホリデー・キッズフリー・パス」販売中《キッズメニュー半額などの特典も》 - 東京バーゲンマニア",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMjZhY1I3LUNJSTdrRGQtVllKWFBFVURjbnc0VE5qVFUzdEFKbVN6ZTF6NkVTaDVuX0Vidll0VHlXMFdJeHpCMW4zU0JTaXBYVGNV?oc=5",
-      "source": "テーマパーク割引 ニュース監視",
-      "category": "イベント・レジャー",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-17T11:13:48.350149+09:00"
-    },
-    {
-      "title": "画像4 / 7＞【2026年9月4日から11日まで】楽天スーパーSALE開催中！最大11倍の「買いまわり」やクーポンなど攻略法を解説 - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zeFVlV0tVQ1BUQm1UNTFWQkFadUp3NGNQeUlJMzZvSzJaYWxiMVltYW1pQ3dMZ0FQZVFFeWVubnRPUlZha2tObWctRURxX05jTFE4YWxnMDFMRHJVbEhWWUkxT0tzQ3I5aFd1eGd3?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-15T11:16:45.993045+09:00"
     }
   ]
 }
