@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-19T13:54:35.331689+09:00",
+  "updated_at": "2026-11-20T13:44:45.015596+09:00",
   "deals": [
+    {
+      "title": "韓国ファンデーション11年連続1位*¹「AGE20’S」、11月20日よりQoo10メガ割に参加！最大65％OFF！人 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3UVdfV1R6alF4MkVoUDJPYVlsYThJWXQwTlozU2MyRFExcnJVUTE5bk5fdnBHbVpMbFQ1R0FSbWpOT2dxQ0pOZ243TlZrMXhZQnFVekVqVnhNTnR6RkZCbXo2dG9pSmdLQnZiTjY0NGczSW1BSkNmRHloRQ?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-20T13:44:45.015596+09:00"
+    },
+    {
+      "title": "折りたたみスマホやSペン対応Galaxy TabなどGalaxy製品が最大20%オフ！楽天ブラックフライデー(20%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2157681.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-11-20T13:44:45.015596+09:00"
+    },
+    {
+      "title": "「Ray-Ban Meta(Gen 2)」が25% OFFセール。公式ストアやAmazonなど(25%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2158141.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 25.0,
+      "price": null,
+      "detected_at": "2026-11-20T13:44:45.015596+09:00"
+    },
+    {
+      "title": "ゲーミングモニターやゲームパッドなどGRAPHT製品が最大50%オフ！ブラックフライデーセールが27日から(50%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157997.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-11-20T13:44:45.015596+09:00"
+    },
+    {
+      "title": "VITURE、最大30%オフのブラックフライデーセールを11月27日から開催(30%割引)",
+      "url": "https://game.watch.impress.co.jp/docs/news/2157657.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 30.0,
+      "price": null,
+      "detected_at": "2026-11-20T13:44:45.015596+09:00"
+    },
     {
       "title": "Qoo10限定！ニキビ跡ケアセラムから誕生したデイリーシートマスクを含むお得セットを発売【Qoo10メガ割注目商品】 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tdTRUalF6emtaZmI0OVpwZ19EMEt0ZUU4alF0b2Ntb1VnQl9xT3NlcGtHR1VZVWMxMlR4UFE0NUdWV3NQZF9KRVdFS09jdTl3TG96NUR0bnRpU0xFX0czT2dPdHgxQVlQ?oc=5",
@@ -855,51 +900,6 @@
       "discount_percent": 75.0,
       "price": null,
       "detected_at": "2026-09-26T11:23:56.613100+09:00"
-    },
-    {
-      "title": "ジェットスター15周年記念セールで 国内全18路線3,790円〜、アジア路線は6990円～！スカイライナー700円の裏ワザ＆注意点 - tetsudo-ch.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00QVBmQktsa0JuNGx2dU9HS2NXWW1BOGFMTVozS2ZuNEpYWjdiX3d6bjQ2RUlzbjNIWE9pSnpiUjZIZEJ2UWphRlBVOVM?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-26T11:23:56.613100+09:00"
-    },
-    {
-      "title": "PS5、PS4タイトルがお買い得！ PSストア「1,500円以下セール」10月7日まで開催(85%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2142855.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 85.0,
-      "price": null,
-      "detected_at": "2026-09-25T11:19:08.679026+09:00"
-    },
-    {
-      "title": "ホムセンで買う必要無くなったかも！？【ニトリがやりおった…】5,000円もお得！「秋の感謝祭」期間限定価格は9月28日まで - ヨムーノ",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1UENUWmcxUEMyXzZJaExMVEdHU2NZWFVCbDEtYklvMXhJVnNCRXUzeTFIdVZmeEFMQ2FQX2JwZ1l5Xzhy?oc=5",
-      "source": "ニトリ セール ニュース監視",
-      "category": "生活雑貨・家具",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-22T11:15:32.378455+09:00"
-    },
-    {
-      "title": "Amazonプライムデー2026 目玉・掘り出し物 セール速報｜随時更新でお得を逃さない - ゴリミー",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wWGNiU2h6MVE0ZVB0NngtalVIbU5ONWUtYWdmY0hRZ0xCdEZXblQwMjlSV2Fmc1kwY0hIQXRyRk1xdV9OdjhTaXl5SGRXTVNTZmlB?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-21T11:10:17.172994+09:00"
-    },
-    {
-      "title": "半期に一度の大決算！大出血算（決算）セール開催中！～出血覚悟で3つのオトクをご用意～ - 株式会社ノジマ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oRnhNTzZXdDVBTXVOZ2FrS0FrOUZheTVNLUJUU3ViUjRXUmtybU5GRWFoY1VsQU9CUUY4Yk9rbFpud2VubGlFVGhqLU1ZVXVjeVprMmtVMmwtMkFNaWNqYVp3?oc=5",
-      "source": "ノジマ セール ニュース監視",
-      "category": "家電・通販",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-09-20T11:09:44.067703+09:00"
     }
   ]
 }
