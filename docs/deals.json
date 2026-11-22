@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-21T13:39:56.477905+09:00",
+  "updated_at": "2026-11-22T12:54:20.646560+09:00",
   "deals": [
+    {
+      "title": "【ニトリ】ベッドやソファ、冷蔵庫など1,400アイテムがおトクに! 59周年「創業祭」開催 - 大型家具・家電の引取料金も最大無料 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yUmppQ2tXUkJYeGU0ZzJLN2ZHUUNBMUI4eEt6MlUtT3hGN3VUa0RFVGtMdzdaWnJpR3RwdjRHMzBJd2lMeUhhVGwxTGxDZTloSXk1dzRUaENhNXZYT09abHFBOWI1WWd6NjNpMnhn?oc=5",
+      "source": "ニトリ セール ニュース監視",
+      "category": "生活雑貨・家具",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-22T12:54:20.646560+09:00"
+    },
+    {
+      "title": "自撮りモニター『Camee』シリーズがQoo10メガ割で20％OFF！ 11月20日から12月2日まで - AppBank",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WQzhzVEluTG1JYl94aEhDWkpTYXJIZjJDT0t3TGhzc1JwdThERzBCQWNwWXZkU1cyNS1fSlRuVmFqdXJuTndoSmMzSlRBcHl3Mkh1eTdMSkkybFpIeTdmZ1pVT2lpeWtxZVE?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-22T12:54:20.646560+09:00"
+    },
+    {
+      "title": "動画配信の「Apple TV」が月額600円に 6カ月間50%OFFキャンペーン(50%割引)",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158432.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 50.0,
+      "price": null,
+      "detected_at": "2026-11-22T12:54:20.646560+09:00"
+    },
+    {
+      "title": "レンタカー格安予約は比較サイトでクーポン併用がおすすめ！じゃらん、楽天トラベルのクーポン情報更新 - トラベラーズナビ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ud0tZTVJyZ3NkRnF2MTB0VHBpT1RIbzVib0pSMFVuSHJMUjFWTVNtcmx4NDIzbVhMaHgzeU1CSmFOc0FPb0VQWHgwcTJaeUptMmgtZlZhQ3Q2UQ?oc=5",
+      "source": "楽天トラベル/じゃらん セール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-22T12:54:20.646560+09:00"
+    },
     {
       "title": "ノジマが悔しすぎて!!涙も特価も大放出セールを10月31日から開催へ - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94TVFNUzB2TWtpXzlkd040QXV4OUQ5Q3N2dmpkTmpfbU5HaUI4NUZzTThvQXdRdW5KZjFwNmp6S1VjQUdmUHc?oc=5",
@@ -864,42 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-10-06T12:41:52.945719+09:00"
-    },
-    {
-      "title": "137言語翻訳のAIスマートグラスがAmazonでセール。21%OFFで2万円台に(21%割引)",
-      "url": "https://ai.watch.impress.co.jp/docs/news/2145519.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 21.0,
-      "price": null,
-      "detected_at": "2026-10-05T11:51:11.321514+09:00"
-    },
-    {
-      "title": "「楽天市場」、商品ジャンルごとのキャンペーンが集結する新セールイベント「ジャンル祭」を開催 - 楽天グループ株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tbjI2N0did2poODg3N2ZlNHBuR2dTckRuSlh5V2xRelI1bWRxeVBFRnFiUmc0YVJNTDNZSU9FX2paR0NYUlU1TGEwR3AtZktTZzc5UXkzYnhNd3lXR3B2MDZ1VnlTQTQ?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-04T12:15:35.361959+09:00"
-    },
-    {
-      "title": "セガ「Steam Autumn Sale」10月15日まで開催！ 「龍が如く 極３/龍が如く３外伝」「龍が如く０」が50%OFFに(50%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2145123.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 50.0,
-      "price": null,
-      "detected_at": "2026-10-03T11:44:23.918761+09:00"
-    },
-    {
-      "title": "Switch「バニーガーデン2」20%オフ！ qureateオータムセールが開催(20%割引)",
-      "url": "https://game.watch.impress.co.jp/docs/news/2145079.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-10-02T11:58:15.187864+09:00"
     }
   ]
 }
