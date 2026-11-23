@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-22T12:54:20.646560+09:00",
+  "updated_at": "2026-11-23T13:34:17.671847+09:00",
   "deals": [
+    {
+      "title": "安っ！飛行機3696円〜、ホテル最大75％オフ！ 冬旅ブラックフライデーの目玉セールは？ (1/2) - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94b19ZV3Z0eDY4WWx4ajNyUjZuTkxUQ0tSdVJRdHFTeDAzVUU1d25feDNlSGJnaDVxYlFzS3VsR3d1aWJfVEpOTWM3Y0Y5emVuOXV5bw?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-23T13:34:17.671847+09:00"
+    },
     {
       "title": "【ニトリ】ベッドやソファ、冷蔵庫など1,400アイテムがおトクに! 59周年「創業祭」開催 - 大型家具・家電の引取料金も最大無料 - au Webポータル",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yUmppQ2tXUkJYeGU0ZzJLN2ZHUUNBMUI4eEt6MlUtT3hGN3VUa0RFVGtMdzdaWnJpR3RwdjRHMzBJd2lMeUhhVGwxTGxDZTloSXk1dzRUaENhNXZYT09abHFBOWI1WWd6NjNpMnhn?oc=5",
@@ -889,15 +898,6 @@
       "source": "Impress Watch お得なセール情報まとめ",
       "category": "家電・通販",
       "discount_percent": 37.0,
-      "price": null,
-      "detected_at": "2026-10-06T12:41:52.945719+09:00"
-    },
-    {
-      "title": "【2026】チェジュ航空セール完全ガイド 次回いつ？700円セール買えた攻略法 - airstair.jp",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbjh0T3ZRNmtUQVhpTGc1WjFJRnBPeXZWc2NnRkU5TVU5b0EzVlhmM2JwMTducTNwMmZQQmoxeHdJUnBrZXpoTkVNd3ZsZw?oc=5",
-      "source": "LCCセール ニュース監視",
-      "category": "旅行",
-      "discount_percent": null,
       "price": null,
       "detected_at": "2026-10-06T12:41:52.945719+09:00"
     }
