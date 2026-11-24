@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-23T13:34:17.671847+09:00",
+  "updated_at": "2026-11-24T16:27:49.486145+09:00",
   "deals": [
+    {
+      "title": "Qoo10、今年最後の「20％メガ割」セールを11月20日スタート - 通販通信ECMO",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mdmVQeEZzcnZEX0xkc2JJRXZzX1gxWTJZOXQxNlZ2WmlEVWIzNWh5X0JsNFJRM2VrN3NvLXBCaXZoSWFNS21xSkgzNi1oWHMzYTNkUnV3?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-24T16:27:49.486145+09:00"
+    },
+    {
+      "title": "【2026年ラスト】韓国発ヴィーガンヘアケア「ALLMASIL」が今年最後のQoo10『メガ割』に参戦！全商品対象のトリプル割引を開催 - 繊研新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEZWS21ZY2h5MXlHQW1PdUpXVktNSlVuQnQwb0x6b1p4S1RWYnZlc09qUnNwNVNrRjFmWE5obzFzOXNMWHN4Z1NWd1ZZaV9JcmVPZExJc3hTdW1ZR3RRRWZncFRKSWlNeWJQREpPS2s1X1ZXcXBEZU9YZVQxaGZvMmc5RmZCY0ZRaDFqb204b0M2TFJxQnZfT3V2VTZ3NWxyc29JYkE4MGtGUkJsZWc?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-24T16:27:49.486145+09:00"
+    },
     {
       "title": "安っ！飛行機3696円〜、ホテル最大75％オフ！ 冬旅ブラックフライデーの目玉セールは？ (1/2) - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94b19ZV3Z0eDY4WWx4ajNyUjZuTkxUQ0tSdVJRdHFTeDAzVUU1d25feDNlSGJnaDVxYlFzS3VsR3d1aWJfVEpOTWM3Y0Y5emVuOXV5bw?oc=5",
@@ -880,24 +898,6 @@
       "source": "楽天スーパーSALE ニュース監視",
       "category": "セール速報",
       "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-06T12:41:52.945719+09:00"
-    },
-    {
-      "title": "米アップルの「AirPods Pro 3」、アマゾンで179ドルに値下げ——秋のプライムデーを前に最安値圏 - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKWjdHM2t2bVhNNFNtRDdIT1dLc2trdFdRLWlVMUJKR19SZWFQVTc5eGxIMDRud3ZwaFVhOGFLblJTeGN1Sk1CazZoODRHcEJSTXJkRHJ2WXhsTlVwb2JQVXF5N1g0ZFVrZ3RzU1JqcWpYYTFo?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-06T12:41:52.945719+09:00"
-    },
-    {
-      "title": "ゼンハイザーオータムセール第一弾。サウンドバーが37% OFFのセール最安値(37%割引)",
-      "url": "https://av.watch.impress.co.jp/docs/news/2145899.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 37.0,
       "price": null,
       "detected_at": "2026-10-06T12:41:52.945719+09:00"
     }
