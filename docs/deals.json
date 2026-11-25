@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-24T16:27:49.486145+09:00",
+  "updated_at": "2026-11-25T14:57:30.062815+09:00",
   "deals": [
+    {
+      "title": "【今日買うべきはコレ】メガ割のお得なカレンダーをチェック！LDK the Beautyの高評価コスメ - 360LiFE",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZXVXSkswcnpPNVMwZkpqbGVKdzlkVXV4OEFIa05OWEJmYVNrZVFEZENDWmlPZDdkcWVHQVltZVprWFhpTlJ6R2wzLVpLOG1IVnpIZEpPRkoyYTJv?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-25T14:57:30.062815+09:00"
+    },
+    {
+      "title": "「崩壊：スターレイル」コラボのUGREENバッテリー、Amazonで29% OFF(29%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/todayssales/2159025.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 29.0,
+      "price": null,
+      "detected_at": "2026-11-25T14:57:30.062815+09:00"
+    },
     {
       "title": "Qoo10、今年最後の「20％メガ割」セールを11月20日スタート - 通販通信ECMO",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mdmVQeEZzcnZEX0xkc2JJRXZzX1gxWTJZOXQxNlZ2WmlEVWIzNWh5X0JsNFJRM2VrN3NvLXBCaXZoSWFNS21xSkgzNi1oWHMzYTNkUnV3?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-10-08T12:24:44.068696+09:00"
-    },
-    {
-      "title": "植物タンパク100%のプロテインが25%オフ。ヨーグルト風味やココア風味など(25%割引)",
-      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146247.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 25.0,
-      "price": null,
-      "detected_at": "2026-10-07T12:08:57.707246+09:00"
-    },
-    {
-      "title": "楽天市場の新セールイベント「ジャンル祭」開催中！10月9日までの「お買い物マラソン」に連動していてお得感アップ♡ - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91cjhRd3MzUmVSbzRQQkliUkV1amVDQTA2X3ZvWWp6dlEyTi03ZFhyVDR0V3l6MGpCQ0pIcnlNbW9tX2dPMl9BZklHUUtZeHZPNXhrYy1Eei1yNHBESGpCWHEyckJmZXJmdUhWalVYSzhfTHhycUxr?oc=5",
-      "source": "楽天スーパーSALE ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-06T12:41:52.945719+09:00"
     }
   ]
 }
