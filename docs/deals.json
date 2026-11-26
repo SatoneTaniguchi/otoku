@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-25T14:57:30.062815+09:00",
+  "updated_at": "2026-11-26T14:50:04.118846+09:00",
   "deals": [
+    {
+      "title": "Qoo10、2026年最後の「20%メガ割」開催中 11月27日～28日はブラックフライデーも - ECのミカタ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdvNGlyTGRXNTN3cmVBSUJFbzk0Rkd3STl6TTVNWUtyb195eGl2aGtucHJURGpQSjMtSGlhQ0pJZHBuNkNpVkQwSzBBUE9URnFpcWln?oc=5",
+      "source": "Qoo10メガ割 ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-26T14:50:04.118846+09:00"
+    },
+    {
+      "title": "【Peach冬の大特価！】航空券とホテルのセットがなんと18,500円～！ご好評につきグットリ提案のツアーが更にお得になって登場！！ - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zVHJTdDVZY0RGOTE2UmFzdTZ4ak1GQWtmcGJ0Uzdyd1o0SmVSZldtYlpKcEhVVDU0cE5JdU5jRFB3M3ltMnlWTnR6YUZZQVdCSTlTWmJrQjBQam5LbFZEMl9fU2E?oc=5",
+      "source": "LCCセール ニュース監視",
+      "category": "旅行",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-26T14:50:04.118846+09:00"
+    },
     {
       "title": "【今日買うべきはコレ】メガ割のお得なカレンダーをチェック！LDK the Beautyの高評価コスメ - 360LiFE",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZXVXSkswcnpPNVMwZkpqbGVKdzlkVXV4OEFIa05OWEJmYVNrZVFEZENDWmlPZDdkcWVHQVltZVprWFhpTlJ6R2wzLVpLOG1IVnpIZEpPRkoyYTJv?oc=5",
@@ -882,24 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-10-12T12:06:12.757991+09:00"
-    },
-    {
-      "title": "AOKZOE/AYANEO/TENKUなどポータブルPCが最大30%オフ。ハイビームAKIBAの「5周年記念大感謝祭」(30%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2146923.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 30.0,
-      "price": null,
-      "detected_at": "2026-10-09T12:30:12.901561+09:00"
-    },
-    {
-      "title": "【Qoo10メガ割】LIPSで特別なクーポンを配布中！次の”推しコスメ”を見つけて、お得にGETしよう - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JVEw2RUFGYlJwdXU2eWFfc29XUk55RHcteXMzc0NBemU5UVBzZUxRTzEySWIwMm1UZWNzVTlHWm1EYmhPWHVEVEdQV09fckxQQmQ1V0ZzcWk?oc=5",
-      "source": "Qoo10メガ割 ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-08T12:24:44.068696+09:00"
     }
   ]
 }
