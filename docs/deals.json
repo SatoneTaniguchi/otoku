@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-26T14:50:04.118846+09:00",
+  "updated_at": "2026-11-27T14:44:02.931909+09:00",
   "deals": [
+    {
+      "title": "PS5にも対応のSamsung製M.2 SSD「990 PRO」が20%オフ！Amazonブラックフライデー(20%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159307.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 20.0,
+      "price": null,
+      "detected_at": "2026-11-27T14:44:02.931909+09:00"
+    },
+    {
+      "title": "4K対応HDMIキャプチャなどAVerMedia製品が最大約36%オフ！ブラックフライデーセール(36%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159624.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 36.0,
+      "price": null,
+      "detected_at": "2026-11-27T14:44:02.931909+09:00"
+    },
+    {
+      "title": "レグザ85型が40%オフの約20.4万円に。Amazonブラックフライデー(40%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2159597.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 40.0,
+      "price": null,
+      "detected_at": "2026-11-27T14:44:02.931909+09:00"
+    },
+    {
+      "title": "JBL公式限定モデルが最大43% OFF。Amazonブラックフライデー(43%割引)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2159596.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 43.0,
+      "price": null,
+      "detected_at": "2026-11-27T14:44:02.931909+09:00"
+    },
     {
       "title": "Qoo10、2026年最後の「20%メガ割」開催中 11月27日～28日はブラックフライデーも - ECのミカタ",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdvNGlyTGRXNTN3cmVBSUJFbzk0Rkd3STl6TTVNWUtyb195eGl2aGtucHJURGpQSjMtSGlhQ0pJZHBuNkNpVkQwSzBBUE9URnFpcWln?oc=5",
@@ -864,42 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-10-13T13:22:03.374494+09:00"
-    },
-    {
-      "title": "Dropbox/1Passwordや翻訳機ポケトークS2などソースネクスト製品が最大85%オフ！Amazonプライム感謝祭(85%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147269.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 85.0,
-      "price": null,
-      "detected_at": "2026-10-13T13:22:03.374494+09:00"
-    },
-    {
-      "title": "高速無線LANルーターやnasneなどバッファロー製品が最大33%オフ！Amazonプライム感謝祭(33%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147275.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 33.0,
-      "price": null,
-      "detected_at": "2026-10-13T13:22:03.374494+09:00"
-    },
-    {
-      "title": "モバイルバッテリーやAIボイスレコーダーなどAnker製品が最大53%オフ！Amazonプライム感謝祭(53%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147287.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 53.0,
-      "price": null,
-      "detected_at": "2026-10-13T13:22:03.374494+09:00"
-    },
-    {
-      "title": "Amazonプライム感謝祭とは？プライムデーとの割引率の違い、安くなる商品まとめ - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeG5FNkw1aExuQ0lTN3o3V1RKbllvMkI2UkhWOFZYYzJ4c1JpSVZqT1g2R19POXA4ZjRuQ2MycjVlNlBuVm10UmViOXRFRlp1X0lqVEg2RmtzTzNuWTJCbzVNRVhZT3lrVkE2Y0tyclpWT20tbHRRN0FUNnZ1MWhfbEU5eHp4M3dmTFQtVGUzd25kQTU3VXNtOUdSczdOTDBGV0RtMG1ZWTJYNy1iNWgxUVpvTks1Z1FVTC1PSW9FZVlpajctSnpzZ0xnUEtpSC0xaVgxbTFYbDRIMjZLdllsRDJtckpPcGxK?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-12T12:06:12.757991+09:00"
     }
   ]
 }
