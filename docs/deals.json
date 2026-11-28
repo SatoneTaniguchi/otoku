@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-27T14:44:02.931909+09:00",
+  "updated_at": "2026-11-28T14:23:03.366848+09:00",
   "deals": [
+    {
+      "title": "楽天スーパーSALEが12月4日より開催！ ポイントは最大47.5倍 クーポンの配布も実施 - GAME Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpSEpKRWVBVkZPMkNTQXZXWFdWN184MXFjZE9rWk5NTXFQVk1zMmdPT2UycXNSTERIVXRpeWc1N2hUdXNucWNHVzU0enhjcWdUbmNld2pETG9jLWczT0lrNTB2aEFUdw?oc=5",
+      "source": "楽天スーパーSALE ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
+    {
+      "title": "28％OFFも！Amazonプライムデー先行セールの割引釣具3選（なるフィッシュ） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzMyQXpDNjhaUUxJNDRLXy1lVVJKUjBrUE5nZlcxeXczX25WUWw0UjB6YWVzQ0RJdWVrYVdIbjhNcU9QWDFaRmptZ09tMVpNVGZuSnhYRkhyaFdzQ1pTc0JBYmo1R1NTcVpPMXB3V2FYYk5adTF5eVpvT0xPcGR4OXdORE9wTmhC?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
+    {
+      "title": "【21%OFF】Amazonブラックフライデーで「AirPods Pro 3」が33,800円〜プライムデーより1,000円安い - Touch Lab",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lQ3ItQ05FYUNyMnMzQ01yd2JlSTdEMHJHMExqRTdILUlKMFdpczNIaW9wRlFpSVlSUjFfd1o2OHduSzlGczI1NWNDQzhMbUZoTXpkVkh5MW9EaVBSeFMtQlhWcGJ2emp5dGVr?oc=5",
+      "source": "Amazon プライムセール ニュース監視",
+      "category": "セール速報",
+      "discount_percent": null,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
+    {
+      "title": "ゲーミングデバイスが最大約63%オフ！「SteelSeries ブラックフライデーSALE 2026」(63%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2160167.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 63.0,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
+    {
+      "title": "液晶タブレットやお絵描きAndroidタブレットなどXPPen製品が最大40%オフ！Amazonブラックフライデー(40%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159677.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 40.0,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
+    {
+      "title": "microSD ExpressやSSDなどNextorage製品が最大33%オフ！Amazonブラックフライデー(33%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159740.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 33.0,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
+    {
+      "title": "ASRockのマザーボードやATX電源などが最大41%オフ！Amazonブラックフライデー(41%割引)",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159959.html",
+      "source": "Impress Watch お得なセール情報まとめ",
+      "category": "家電・通販",
+      "discount_percent": 41.0,
+      "price": null,
+      "detected_at": "2026-11-28T14:23:03.366848+09:00"
+    },
     {
       "title": "PS5にも対応のSamsung製M.2 SSD「990 PRO」が20%オフ！Amazonブラックフライデー(20%割引)",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159307.html",
@@ -837,69 +900,6 @@
       "discount_percent": null,
       "price": null,
       "detected_at": "2026-10-15T11:13:23.862210+09:00"
-    },
-    {
-      "title": "ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭(20%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 20.0,
-      "price": null,
-      "detected_at": "2026-10-15T11:13:23.862210+09:00"
-    },
-    {
-      "title": "AVerMediaのHDMIキャプチャが最大33%オフ！Amazonプライム感謝祭(33%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147833.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 33.0,
-      "price": null,
-      "detected_at": "2026-10-15T11:13:23.862210+09:00"
-    },
-    {
-      "title": "ポイントスティック搭載モデルなどHHKBキーボードが最大26%オフ！Amazonプライム感謝祭(26%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147806.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 26.0,
-      "price": null,
-      "detected_at": "2026-10-15T11:13:23.862210+09:00"
-    },
-    {
-      "title": "スマホ充電器などBelkinのアクセサリ製品が最大48%オフ！Amazonプライム感謝祭(48%割引)",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147836.html",
-      "source": "Impress Watch お得なセール情報まとめ",
-      "category": "家電・通販",
-      "discount_percent": 48.0,
-      "price": null,
-      "detected_at": "2026-10-15T11:13:23.862210+09:00"
-    },
-    {
-      "title": "【2026年最新版】ディズニープラスを無料で視聴できる方法を徹底解説！ - セレクトラ",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNT09RT19YMXJMUnM0Q2VtQU10T3o0MllaUW1BcVdsT0RSRGY0U3lLWVJUSlFXZjdlLU45OUNtQTlQeHdmaEFMcHczRURQM1RpVEs2dTdROXIyQ3V6OWtjcEQ0RW15aHFUNHdqZE8yZEhqZG9OTTF5bnRXUFpPWWllMzd5Q25iSmdrNkZuUmFTNnBFdGpIWU5WYUdPeXFHemZoSU90bnZfQlZMQ3B6QU9IbXM5YWlZQnhMenc1VW43SUoyRVNFZXNKWWU3Y1Fra2Z3Ujg3WURBb3hhQ3NnZmFWMDMyWTdEZWhPcFYxYktIMVEwbkM2enlBNVFlWUg?oc=5",
-      "source": "テーマパーク割引 ニュース監視",
-      "category": "イベント・レジャー",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-15T11:13:23.862210+09:00"
-    },
-    {
-      "title": "【最大38%OFF】Amazonプライム感謝祭で「iPhone Air」がセール中〜1TBモデルは111,300円引き - Touch Lab",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VbkJTU2ltX1BHMnI3Y0JSeUs1RnJfSkxTVzFTTzhIX1FZSnNJY19iWFRMME1mSlhTZmc0bnFXaDdBVEpUejA4ZjZoUnhYQVRJa18zc3JSMlFGVTk5R3d3d05VdU8?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-13T13:22:03.374494+09:00"
-    },
-    {
-      "title": "Shokz、秋のプライムデーセールを開催！最大30%OFF＆豪華特典を展開 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zWFFhZXBJM25sRVpCUDBlTHg5a01wYlNtVlJKRzItVEdEemhPUGtfSkFHdFA5Y2ZRTG4zMnFRYkFoUmw3bUV3a1hEUEEzMGdoTmNDY1hOeC0wUnpEZU1WNzVRNmhyUzNacmRwRFU5ckhuQ0w2b2I1YjY4QQ?oc=5",
-      "source": "Amazon プライムセール ニュース監視",
-      "category": "セール速報",
-      "discount_percent": null,
-      "price": null,
-      "detected_at": "2026-10-13T13:22:03.374494+09:00"
     }
   ]
 }
